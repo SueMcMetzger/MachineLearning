@@ -2835,7 +2835,7 @@ enrollee_id,city,city_development_index,gender,relevent_experience,enrolled_univ
 24030,city_75,0.939,Male,No relevent experience,no_enrollment,High School,,6,50-99,Pvt Ltd,>4,162,0
 4394,city_103,0.92,Female,Has relevent experience,no_enrollment,Masters,STEM,>20,,,>4,46,0
 262,city_21,0.624,Male,No relevent experience,Full time course,High School,,8,,Pvt Ltd,never,328,0
-25550,city_111,0.698,Male,No relevent experience,no_enrollment,High School,,8,<10,Pvt Ltd,>4,20,0
+25550,city_129,0.625,Male,No relevent experience,no_enrollment,High School,,8,<10,Pvt Ltd,>4,20,0
 21515,city_115,0.789,Male,Has relevent experience,no_enrollment,Graduate,STEM,>20,Oct-49,Pvt Ltd,1,4,0
 12435,city_28,0.939,Male,Has relevent experience,no_enrollment,Masters,STEM,10,50-99,Pvt Ltd,1,2,0
 2395,city_21,0.624,,Has relevent experience,no_enrollment,Graduate,STEM,7,<10,Early Stage Startup,1,46,0
@@ -3034,7 +3034,7 @@ enrollee_id,city,city_development_index,gender,relevent_experience,enrolled_univ
 5495,city_103,0.92,Male,Has relevent experience,Full time course,Graduate,STEM,5,,,1,25,1
 8452,city_103,0.92,Male,Has relevent experience,no_enrollment,Graduate,Humanities,11,50-99,Funded Startup,1,113,0
 12430,city_11,0.55,Male,Has relevent experience,no_enrollment,Graduate,STEM,5,50-99,Pvt Ltd,1,74,1
-5373,city_140,0.856,Male,No relevent experience,no_enrollment,High School,,1,,Pvt Ltd,never,26,0
+5373,city_121,0.781,Male,No relevent experience,no_enrollment,High School,,1,,Pvt Ltd,never,26,0
 451,city_162,0.767,Male,Has relevent experience,Part time course,Graduate,STEM,10,50-99,Pvt Ltd,2,308,0
 23099,city_73,0.754,Male,Has relevent experience,no_enrollment,Masters,No Major,19,50-99,Pvt Ltd,4,72,0
 14317,city_103,0.92,Female,No relevent experience,no_enrollment,Masters,STEM,7,1000-4999,Pvt Ltd,2,22,0
@@ -11517,7 +11517,7 @@ enrollee_id,city,city_development_index,gender,relevent_experience,enrolled_univ
 27299,city_21,0.624,Male,No relevent experience,Full time course,High School,,3,,,never,25,1
 3791,city_73,0.754,,Has relevent experience,Full time course,Masters,STEM,6,10000+,Public Sector,never,14,0
 1552,city_75,0.939,,Has relevent experience,no_enrollment,Graduate,STEM,7,100-500,NGO,1,42,0
-20023,city_111,0.698,,Has relevent experience,Full time course,Graduate,STEM,7,500-999,NGO,1,8,0
+20023,city_129,0.625,,Has relevent experience,Full time course,Graduate,STEM,7,500-999,NGO,1,8,0
 4073,city_103,0.92,Male,No relevent experience,Full time course,Phd,STEM,>20,,,1,28,0
 25663,city_16,0.91,Male,No relevent experience,Part time course,Graduate,STEM,7,50-99,Pvt Ltd,2,62,0
 29585,city_103,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,4,100-500,Pvt Ltd,1,48,0
@@ -14450,7 +14450,7 @@ enrollee_id,city,city_development_index,gender,relevent_experience,enrolled_univ
 31102,city_103,0.92,Male,No relevent experience,no_enrollment,Primary School,,5,,,never,20,0
 16242,city_103,0.92,Male,Has relevent experience,no_enrollment,Graduate,STEM,10,1000-4999,Pvt Ltd,4,50,0
 21104,city_103,0.92,,Has relevent experience,no_enrollment,Graduate,STEM,>20,50-99,Public Sector,1,66,0
-32091,city_171,0.664,,Has relevent experience,no_enrollment,Graduate,STEM,4,Oct-49,Early Stage Startup,1,188,1
+32091,city_129,0.625,,Has relevent experience,no_enrollment,Graduate,STEM,4,Oct-49,Early Stage Startup,1,188,1
 3251,city_123,0.738,Male,Has relevent experience,Full time course,Graduate,STEM,3,50-99,Pvt Ltd,never,40,0
 23192,city_142,0.727,,No relevent experience,Part time course,Masters,STEM,12,5000-9999,Public Sector,1,91,0
 24305,city_16,0.91,Male,Has relevent experience,no_enrollment,Graduate,STEM,5,100-500,Pvt Ltd,1,55,0
