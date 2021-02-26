@@ -1,0 +1,4 @@
+enrollee_id,city,city_development_index,gender,relevent_experience,enrolled_university,education_level,major_discipline,experience,company_size,company_type,last_new_job,training_hours
+1,city_21,0.624,Male,No relevent experience,Full time course,Graduate,STEM,<1,,,never,18
+2,city_64,0.666,Other,No relevent experience,Part time course,Graduate,Humanities,>20,50-99,Pvt Ltd,>4,23
+3,city_159,0.843,Female,Has relevent experience,no_enrollment,Masters,STEM,11,100-500,Pvt Ltd,1,68
