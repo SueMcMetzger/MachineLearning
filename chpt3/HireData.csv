@@ -10207,7 +10207,7 @@ enrollee_id,city,city_development_index,gender,relevent_experience,enrolled_univ
 4840,city_136,0.897,Male,No relevent experience,Part time course,High School,,4,,Pvt Ltd,never,157,0
 19007,city_16,0.91,Male,Has relevent experience,no_enrollment,Graduate,STEM,>20,,,2,31,0
 30845,city_21,0.624,Male,Has relevent experience,no_enrollment,Masters,STEM,8,50-99,Pvt Ltd,2,102,1
-17421,city_111,0.698,Male,No relevent experience,Full time course,Graduate,STEM,4,,,1,9,0
+17421,city_121,0.698,Male,No relevent experience,Full time course,Graduate,STEM,4,,,1,9,0
 27931,city_103,0.92,,Has relevent experience,no_enrollment,Graduate,STEM,4,Oct-49,,1,69,0
 4977,city_21,0.624,Male,No relevent experience,Full time course,Graduate,STEM,4,,Pvt Ltd,never,48,1
 28706,city_16,0.91,Male,No relevent experience,no_enrollment,Graduate,No Major,5,,,1,118,1
