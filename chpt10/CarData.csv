@@ -1057,9 +1057,9 @@ Audi,A3,2017,premium unleaded (recommended),186,4,AUTOMATED_MANUAL,front wheel d
 Audi,A3,2017,premium unleaded (recommended),186,4,AUTOMATED_MANUAL,front wheel drive,2,Luxury,Compact,Convertible,34,25,3105,40850
 Audi,A3,2017,premium unleaded (recommended),186,4,AUTOMATED_MANUAL,front wheel drive,2,Luxury,Compact,Convertible,34,25,3105,46550
 Audi,A3,2017,premium unleaded (recommended),220,4,AUTOMATED_MANUAL,all wheel drive,4,Luxury,Compact,Sedan,35,26,3105,34200
-Audi,A4 allroad,2017,premium unleaded (recommended),252,4,AUTOMATED_MANUAL,all wheel drive,4,Luxury,Midsize,Wagon,28,23,3105,51400
-Audi,A4 allroad,2017,premium unleaded (recommended),252,4,AUTOMATED_MANUAL,all wheel drive,4,Luxury,Midsize,Wagon,28,23,3105,44000
-Audi,A4 allroad,2017,premium unleaded (recommended),252,4,AUTOMATED_MANUAL,all wheel drive,4,Luxury,Midsize,Wagon,28,23,3105,47000
+Audi,A4,2017,premium unleaded (recommended),252,4,AUTOMATED_MANUAL,all wheel drive,4,Luxury,Midsize,Wagon,28,23,3105,51400
+Audi,A4,2017,premium unleaded (recommended),252,4,AUTOMATED_MANUAL,all wheel drive,4,Luxury,Midsize,Wagon,28,23,3105,44000
+Audi,A4,2017,premium unleaded (recommended),252,4,AUTOMATED_MANUAL,all wheel drive,4,Luxury,Midsize,Wagon,28,23,3105,47000
 Audi,A4,2015,premium unleaded (required),220,4,AUTOMATIC,all wheel drive,4,Luxury,Midsize,Sedan,31,22,3105,45000
 Audi,A4,2015,premium unleaded (required),220,4,AUTOMATIC,all wheel drive,4,Luxury,Midsize,Sedan,31,22,3105,39700
 Audi,A4,2015,premium unleaded (required),220,4,MANUAL,all wheel drive,4,Luxury,Midsize,Sedan,32,22,3105,43800
@@ -2552,7 +2552,7 @@ Honda,Civic,2015,regular unleaded,110,4,AUTOMATIC,front wheel drive,4,Hybrid,Com
 Honda,Civic,2015,premium unleaded (required),205,4,MANUAL,front wheel drive,2,"Factory Tuner,Performance",Compact,Coupe,31,22,2202,24390
 Honda,Civic,2015,regular unleaded,143,4,AUTOMATIC,front wheel drive,4,N/A,Compact,Sedan,39,30,2202,22840
 Honda,Civic,2015,premium unleaded (required),205,4,MANUAL,front wheel drive,4,"Factory Tuner,Performance",Compact,Sedan,31,22,2202,23290
-Honda,Civic,2015,natural gas,110,4,AUTOMATIC,front wheel drive,4,N/A,Compact,Sedan,38,27,2202,26740
+Honda,Civic,2015,regular unleaded,110,4,AUTOMATIC,front wheel drive,4,N/A,Compact,Sedan,38,27,2202,26740
 Honda,Civic,2015,regular unleaded,110,4,AUTOMATIC,front wheel drive,4,Hybrid,Compact,Sedan,47,44,2202,26235
 Honda,Civic,2015,regular unleaded,110,4,AUTOMATIC,front wheel drive,4,Hybrid,Compact,Sedan,47,44,2202,24735
 Honda,Civic,2015,regular unleaded,143,4,AUTOMATIC,front wheel drive,4,N/A,Compact,Sedan,39,30,2202,19290
@@ -2561,7 +2561,7 @@ Honda,Civic,2015,regular unleaded,143,4,AUTOMATIC,front wheel drive,2,N/A,Compac
 Honda,Civic,2015,regular unleaded,143,4,MANUAL,front wheel drive,2,N/A,Compact,Coupe,36,28,2202,18290
 Honda,Civic,2015,regular unleaded,143,4,MANUAL,front wheel drive,4,N/A,Compact,Sedan,36,28,2202,18490
 Honda,Civic,2015,premium unleaded (required),205,4,MANUAL,front wheel drive,2,"Factory Tuner,Performance",Compact,Coupe,31,22,2202,24590
-Honda,Civic,2015,natural gas,110,4,AUTOMATIC,front wheel drive,4,N/A,Compact,Sedan,38,27,2202,29390
+Honda,Civic,2015,regular unleaded,110,4,AUTOMATIC,front wheel drive,4,N/A,Compact,Sedan,38,27,2202,29390
 Honda,Civic,2015,regular unleaded,143,4,AUTOMATIC,front wheel drive,2,N/A,Compact,Coupe,38,29,2202,22640
 Honda,Civic,2015,premium unleaded (required),205,4,MANUAL,front wheel drive,4,"Factory Tuner,Performance",Compact,Sedan,31,22,2202,23090
 Honda,Civic,2015,regular unleaded,143,4,AUTOMATIC,front wheel drive,2,N/A,Compact,Coupe,39,30,2202,19090
@@ -8627,19 +8627,19 @@ Volkswagen,Routan,2012,flex-fuel (unleaded/E85),283,6,AUTOMATIC,front wheel driv
 Volkswagen,Routan,2012,flex-fuel (unleaded/E85),283,6,AUTOMATIC,front wheel drive,4,Flex Fuel,Midsize,Passenger Minivan,25,17,873,37890
 Volkswagen,Routan,2012,flex-fuel (unleaded/E85),283,6,AUTOMATIC,front wheel drive,4,Flex Fuel,Midsize,Passenger Minivan,25,17,873,44280
 Volkswagen,Routan,2012,flex-fuel (unleaded/E85),283,6,AUTOMATIC,front wheel drive,4,Flex Fuel,Midsize,Passenger Minivan,25,17,873,27020
-Audi,RS 4,2007,premium unleaded (required),420,8,MANUAL,all wheel drive,4,"Factory Tuner,Luxury,High-Performance",Compact,Sedan,20,13,3105,66000
-Audi,RS 4,2008,premium unleaded (required),420,8,MANUAL,all wheel drive,2,"Factory Tuner,Luxury,High-Performance",Compact,Convertible,19,12,3105,81900
-Audi,RS 4,2008,premium unleaded (required),420,8,MANUAL,all wheel drive,4,"Factory Tuner,Luxury,High-Performance",Compact,Sedan,20,13,3105,66910
-Audi,RS 5,2013,premium unleaded (required),450,8,AUTOMATED_MANUAL,all wheel drive,2,"Factory Tuner,Luxury,High-Performance",Midsize,Convertible,23,16,3105,77900
-Audi,RS 5,2013,premium unleaded (required),450,8,AUTOMATED_MANUAL,all wheel drive,2,"Factory Tuner,Luxury,High-Performance",Midsize,Coupe,23,16,3105,68900
-Audi,RS 5,2014,premium unleaded (required),450,8,AUTOMATED_MANUAL,all wheel drive,2,"Factory Tuner,Luxury,High-Performance",Midsize,Coupe,23,16,3105,69600
-Audi,RS 5,2014,premium unleaded (required),450,8,AUTOMATED_MANUAL,all wheel drive,2,"Factory Tuner,Luxury,High-Performance",Midsize,Convertible,22,16,3105,77900
-Audi,RS 5,2015,premium unleaded (required),450,8,AUTOMATED_MANUAL,all wheel drive,2,"Factory Tuner,Luxury,High-Performance",Midsize,Convertible,22,16,3105,79200
-Audi,RS 5,2015,premium unleaded (required),450,8,AUTOMATED_MANUAL,all wheel drive,2,"Factory Tuner,Luxury,High-Performance",Midsize,Coupe,23,16,3105,70900
-Audi,RS 6,2003,premium unleaded (required),450,8,AUTOMATIC,all wheel drive,4,"Factory Tuner,Luxury,High-Performance",Midsize,Sedan,20,14,3105,82700
-Audi,RS 7,2015,premium unleaded (required),560,8,AUTOMATIC,all wheel drive,4,"Factory Tuner,Luxury,High-Performance",Large,Sedan,27,16,3105,106500
-Audi,RS 7,2016,premium unleaded (required),560,8,AUTOMATIC,all wheel drive,4,"Factory Tuner,Luxury,High-Performance",Large,Sedan,25,15,3105,108900
-Audi,RS 7,2017,premium unleaded (required),560,8,AUTOMATIC,all wheel drive,4,"Factory Tuner,Luxury,High-Performance",Large,Sedan,25,15,3105,110700
+Audi,RS,2007,premium unleaded (required),420,8,MANUAL,all wheel drive,4,"Factory Tuner,Luxury,High-Performance",Compact,Sedan,20,13,3105,66000
+Audi,RS,2008,premium unleaded (required),420,8,MANUAL,all wheel drive,2,"Factory Tuner,Luxury,High-Performance",Compact,Convertible,19,12,3105,81900
+Audi,RS,2008,premium unleaded (required),420,8,MANUAL,all wheel drive,4,"Factory Tuner,Luxury,High-Performance",Compact,Sedan,20,13,3105,66910
+Audi,RS,2013,premium unleaded (required),450,8,AUTOMATED_MANUAL,all wheel drive,2,"Factory Tuner,Luxury,High-Performance",Midsize,Convertible,23,16,3105,77900
+Audi,RS,2013,premium unleaded (required),450,8,AUTOMATED_MANUAL,all wheel drive,2,"Factory Tuner,Luxury,High-Performance",Midsize,Coupe,23,16,3105,68900
+Audi,RS,2014,premium unleaded (required),450,8,AUTOMATED_MANUAL,all wheel drive,2,"Factory Tuner,Luxury,High-Performance",Midsize,Coupe,23,16,3105,69600
+Audi,RS,2014,premium unleaded (required),450,8,AUTOMATED_MANUAL,all wheel drive,2,"Factory Tuner,Luxury,High-Performance",Midsize,Convertible,22,16,3105,77900
+Audi,RS,2015,premium unleaded (required),450,8,AUTOMATED_MANUAL,all wheel drive,2,"Factory Tuner,Luxury,High-Performance",Midsize,Convertible,22,16,3105,79200
+Audi,RS,2015,premium unleaded (required),450,8,AUTOMATED_MANUAL,all wheel drive,2,"Factory Tuner,Luxury,High-Performance",Midsize,Coupe,23,16,3105,70900
+Audi,RS,2003,premium unleaded (required),450,8,AUTOMATIC,all wheel drive,4,"Factory Tuner,Luxury,High-Performance",Midsize,Sedan,20,14,3105,82700
+Audi,RS,2015,premium unleaded (required),560,8,AUTOMATIC,all wheel drive,4,"Factory Tuner,Luxury,High-Performance",Large,Sedan,27,16,3105,106500
+Audi,RS,2016,premium unleaded (required),560,8,AUTOMATIC,all wheel drive,4,"Factory Tuner,Luxury,High-Performance",Large,Sedan,25,15,3105,108900
+Audi,RS,2017,premium unleaded (required),560,8,AUTOMATIC,all wheel drive,4,"Factory Tuner,Luxury,High-Performance",Large,Sedan,25,15,3105,110700
 Acura,RSX,2004,regular unleaded,160,4,MANUAL,front wheel drive,2,"Hatchback,Luxury,Performance",Compact,2dr Hatchback,30,24,204,21100
 Acura,RSX,2004,regular unleaded,160,4,MANUAL,front wheel drive,2,"Hatchback,Luxury,Performance",Compact,2dr Hatchback,30,24,204,20025
 Acura,RSX,2004,regular unleaded,160,4,AUTOMATIC,front wheel drive,2,"Hatchback,Luxury,Performance",Compact,2dr Hatchback,31,22,204,22000
@@ -10887,18 +10887,18 @@ Acura,TSX,2014,premium unleaded (recommended),201,4,AUTOMATIC,front wheel drive,
 Acura,TSX,2014,premium unleaded (recommended),280,6,AUTOMATIC,front wheel drive,4,"Luxury,Performance",Midsize,Sedan,28,19,204,39275
 Acura,TSX,2014,premium unleaded (recommended),201,4,AUTOMATIC,front wheel drive,4,Luxury,Midsize,Sedan,31,22,204,33735
 Acura,TSX,2014,premium unleaded (recommended),201,4,AUTOMATIC,front wheel drive,4,Luxury,Midsize,Sedan,31,22,204,31635
-Audi,TT RS,2012,premium unleaded (required),360,5,MANUAL,all wheel drive,2,"Factory Tuner,Luxury,High-Performance",Compact,Coupe,25,18,3105,56850
-Audi,TT RS,2013,premium unleaded (required),360,5,MANUAL,all wheel drive,2,"Factory Tuner,Luxury,High-Performance",Compact,Coupe,25,18,3105,57200
+Audi,TT,2012,premium unleaded (required),360,5,MANUAL,all wheel drive,2,"Factory Tuner,Luxury,High-Performance",Compact,Coupe,25,18,3105,56850
+Audi,TT,2013,premium unleaded (required),360,5,MANUAL,all wheel drive,2,"Factory Tuner,Luxury,High-Performance",Compact,Coupe,25,18,3105,57200
 Audi,TT,2015,premium unleaded (recommended),211,4,AUTOMATED_MANUAL,all wheel drive,2,Luxury,Compact,Convertible,31,22,3105,43350
 Audi,TT,2015,premium unleaded (recommended),211,4,AUTOMATED_MANUAL,all wheel drive,2,Luxury,Compact,Coupe,31,22,3105,40350
 Audi,TT,2016,premium unleaded (recommended),220,4,AUTOMATED_MANUAL,all wheel drive,2,"Luxury,Performance",Compact,Coupe,30,23,3105,42900
 Audi,TT,2016,premium unleaded (recommended),220,4,AUTOMATED_MANUAL,all wheel drive,2,Luxury,Compact,Convertible,30,23,3105,46400
 Audi,TT,2017,premium unleaded (recommended),220,4,AUTOMATED_MANUAL,all wheel drive,2,Luxury,Compact,Convertible,30,23,3105,47000
 Audi,TT,2017,premium unleaded (recommended),220,4,AUTOMATED_MANUAL,all wheel drive,2,"Luxury,Performance",Compact,Coupe,30,23,3105,43500
-Audi,TTS,2015,premium unleaded (required),265,4,AUTOMATED_MANUAL,all wheel drive,2,"Factory Tuner,Luxury,Performance",Compact,Convertible,31,22,3105,51700
-Audi,TTS,2015,premium unleaded (required),265,4,AUTOMATED_MANUAL,all wheel drive,2,"Factory Tuner,Luxury,Performance",Compact,Coupe,31,22,3105,48700
-Audi,TTS,2016,premium unleaded (required),292,4,AUTOMATED_MANUAL,all wheel drive,2,"Factory Tuner,Luxury,Performance",Compact,Coupe,27,23,3105,51900
-Audi,TTS,2017,premium unleaded (required),292,4,AUTOMATED_MANUAL,all wheel drive,2,"Factory Tuner,Luxury,High-Performance",Compact,Coupe,27,23,3105,52500
+Audi,TT,2015,premium unleaded (required),265,4,AUTOMATED_MANUAL,all wheel drive,2,"Factory Tuner,Luxury,Performance",Compact,Convertible,31,22,3105,51700
+Audi,TT,2015,premium unleaded (required),265,4,AUTOMATED_MANUAL,all wheel drive,2,"Factory Tuner,Luxury,Performance",Compact,Coupe,31,22,3105,48700
+Audi,TT,2016,premium unleaded (required),292,4,AUTOMATED_MANUAL,all wheel drive,2,"Factory Tuner,Luxury,Performance",Compact,Coupe,27,23,3105,51900
+Audi,TT,2017,premium unleaded (required),292,4,AUTOMATED_MANUAL,all wheel drive,2,"Factory Tuner,Luxury,High-Performance",Compact,Coupe,27,23,3105,52500
 Hyundai,Tucson,2015,regular unleaded,182,4,AUTOMATIC,front wheel drive,4,Crossover,Compact,4dr SUV,28,21,1439,26450
 Hyundai,Tucson,2015,regular unleaded,164,4,AUTOMATIC,front wheel drive,4,Crossover,Compact,4dr SUV,29,23,1439,21650
 Hyundai,Tucson,2015,regular unleaded,182,4,AUTOMATIC,all wheel drive,4,Crossover,Compact,4dr SUV,25,20,1439,27950
@@ -11317,9 +11317,9 @@ Buick,Verano,2016,premium unleaded (recommended),250,4,AUTOMATIC,front wheel dri
 Buick,Verano,2017,regular unleaded,180,4,AUTOMATIC,front wheel drive,4,N/A,Midsize,Sedan,31,21,155,21065
 Buick,Verano,2017,regular unleaded,180,4,AUTOMATIC,front wheel drive,4,N/A,Midsize,Sedan,31,21,155,26555
 Buick,Verano,2017,regular unleaded,180,4,AUTOMATIC,front wheel drive,4,N/A,Midsize,Sedan,31,21,155,24115
-Suzuki,Verona,2004,,155,6,AUTOMATIC,front wheel drive,4,N/A,Midsize,Sedan,25,17,481,17199
-Suzuki,Verona,2004,,155,6,AUTOMATIC,front wheel drive,4,N/A,Midsize,Sedan,25,17,481,20199
-Suzuki,Verona,2004,,155,6,AUTOMATIC,front wheel drive,4,N/A,Midsize,Sedan,25,17,481,18499
+Suzuki,Verona,2004,regular unleaded,155,6,AUTOMATIC,front wheel drive,4,N/A,Midsize,Sedan,25,17,481,17199
+Suzuki,Verona,2004,regular unleaded,155,6,AUTOMATIC,front wheel drive,4,N/A,Midsize,Sedan,25,17,481,20199
+Suzuki,Verona,2004,regular unleaded,155,6,AUTOMATIC,front wheel drive,4,N/A,Midsize,Sedan,25,17,481,18499
 Suzuki,Verona,2005,regular unleaded,155,6,AUTOMATIC,front wheel drive,4,N/A,Midsize,Sedan,25,18,481,19349
 Suzuki,Verona,2005,regular unleaded,155,6,AUTOMATIC,front wheel drive,4,N/A,Midsize,Sedan,25,18,481,21049
 Suzuki,Verona,2005,regular unleaded,155,6,AUTOMATIC,front wheel drive,4,N/A,Midsize,Sedan,25,18,481,17549
