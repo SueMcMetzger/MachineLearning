@@ -989,11 +989,11 @@ BMW,M,2001,premium unleaded (required),315,6,MANUAL,rear wheel drive,2,"Factory 
 BMW,M,2002,premium unleaded (required),315,6,MANUAL,rear wheel drive,2,"Factory Tuner,Luxury,High-Performance",Compact,Coupe,25,17,3916,44990
 BMW,M,2006,premium unleaded (required),330,6,MANUAL,rear wheel drive,2,"Factory Tuner,Luxury,High-Performance",Compact,Coupe,22,14,3916,49300
 BMW,M,2006,premium unleaded (required),330,6,MANUAL,rear wheel drive,2,"Factory Tuner,Luxury,High-Performance",Compact,Convertible,22,14,3916,51300
-BMW,M2,2016,premium unleaded (required),365,6,MANUAL,rear wheel drive,2,"Factory Tuner,Luxury,High-Performance",Compact,Coupe,26,18,3916,51700
-BMW,M2,2017,premium unleaded (required),365,6,MANUAL,rear wheel drive,2,"Factory Tuner,Luxury,High-Performance",Compact,Coupe,26,18,3916,51700
-BMW,M3,2015,premium unleaded (required),425,6,MANUAL,rear wheel drive,4,"Factory Tuner,Luxury,High-Performance",Midsize,Sedan,26,17,3916,62000
-BMW,M3,2016,premium unleaded (required),425,6,MANUAL,rear wheel drive,4,"Factory Tuner,Luxury,High-Performance",Midsize,Sedan,26,17,3916,63500
-BMW,M3,2017,premium unleaded (required),425,6,MANUAL,rear wheel drive,4,"Factory Tuner,Luxury,High-Performance",Midsize,Sedan,26,17,3916,64000
+BMW,M,2016,premium unleaded (required),365,6,MANUAL,rear wheel drive,2,"Factory Tuner,Luxury,High-Performance",Compact,Coupe,26,18,3916,51700
+BMW,M,2017,premium unleaded (required),365,6,MANUAL,rear wheel drive,2,"Factory Tuner,Luxury,High-Performance",Compact,Coupe,26,18,3916,51700
+BMW,M,2015,premium unleaded (required),425,6,MANUAL,rear wheel drive,4,"Factory Tuner,Luxury,High-Performance",Midsize,Sedan,26,17,3916,62000
+BMW,M,2016,premium unleaded (required),425,6,MANUAL,rear wheel drive,4,"Factory Tuner,Luxury,High-Performance",Midsize,Sedan,26,17,3916,63500
+BMW,M,2017,premium unleaded (required),425,6,MANUAL,rear wheel drive,4,"Factory Tuner,Luxury,High-Performance",Midsize,Sedan,26,17,3916,64000
 BMW,M4,2015,premium unleaded (required),425,6,MANUAL,rear wheel drive,2,"Factory Tuner,Luxury,High-Performance",Midsize,Coupe,26,17,3916,64200
 BMW,M4,2015,premium unleaded (required),425,6,MANUAL,rear wheel drive,2,"Factory Tuner,Luxury,High-Performance",Midsize,Convertible,26,17,3916,72500
 BMW,M4,2016,premium unleaded (required),425,6,MANUAL,rear wheel drive,2,"Factory Tuner,Luxury,High-Performance",Midsize,Convertible,26,17,3916,74200
@@ -9292,71 +9292,71 @@ Saab,9000,1997,regular unleaded,225,4,MANUAL,front wheel drive,4,"Hatchback,Fact
 Saab,9000,1997,regular unleaded,200,4,MANUAL,front wheel drive,4,"Hatchback,Luxury",Midsize,4dr Hatchback,26,18,376,2084
 Saab,9000,1997,regular unleaded,200,4,MANUAL,front wheel drive,4,"Hatchback,Luxury",Midsize,4dr Hatchback,26,18,376,2063
 Saab,9000,1998,regular unleaded,225,4,MANUAL,front wheel drive,4,"Hatchback,Luxury",Midsize,4dr Hatchback,25,18,376,2172
-Saab,44442,2009,premium unleaded (recommended),210,4,AUTOMATIC,all wheel drive,4,Luxury,Compact,Wagon,27,17,376,37810
-Saab,44442,2009,premium unleaded (recommended),280,6,AUTOMATIC,front wheel drive,2,"Luxury,Performance",Compact,Convertible,24,15,376,51330
-Saab,44442,2009,premium unleaded (recommended),210,4,AUTOMATIC,front wheel drive,4,Luxury,Compact,Wagon,27,19,376,38305
-Saab,44442,2009,premium unleaded (recommended),280,6,AUTOMATIC,all wheel drive,4,"Luxury,Performance",Compact,Wagon,24,15,376,44885
-Saab,44442,2009,premium unleaded (recommended),210,4,MANUAL,front wheel drive,4,Luxury,Midsize,Sedan,29,19,376,30360
-Saab,44442,2009,premium unleaded (recommended),210,4,MANUAL,front wheel drive,2,Luxury,Compact,Convertible,27,19,376,42130
-Saab,44442,2009,premium unleaded (recommended),280,6,AUTOMATIC,all wheel drive,4,"Luxury,Performance",Midsize,Sedan,24,15,376,43605
-Saab,44442,2009,premium unleaded (recommended),210,4,MANUAL,front wheel drive,4,Luxury,Compact,Wagon,29,19,376,31790
-Saab,44442,2009,premium unleaded (recommended),210,4,AUTOMATIC,front wheel drive,4,Luxury,Compact,Wagon,27,19,376,35315
-Saab,44442,2009,premium unleaded (recommended),210,4,AUTOMATIC,front wheel drive,4,Luxury,Midsize,Sedan,28,19,376,37140
-Saab,44442,2009,premium unleaded (recommended),210,4,AUTOMATIC,front wheel drive,4,Luxury,Midsize,Sedan,28,19,376,34150
-Saab,44442,2009,premium unleaded (recommended),210,4,AUTOMATIC,front wheel drive,2,Luxury,Compact,Convertible,27,19,376,44455
-Saab,44442,2009,premium unleaded (recommended),210,4,AUTOMATIC,all wheel drive,4,Luxury,Midsize,Sedan,27,17,376,36395
-Saab,44442,2009,premium unleaded (recommended),210,4,AUTOMATIC,front wheel drive,2,Luxury,Compact,Convertible,27,19,376,47345
-Saab,44442,2010,premium unleaded (recommended),207,4,AUTOMATIC,all wheel drive,4,Luxury,Midsize,Sedan,27,17,376,32395
-Saab,44442,2010,premium unleaded (recommended),207,4,MANUAL,front wheel drive,4,Luxury,Midsize,Sedan,31,21,376,28900
-Saab,44442,2010,premium unleaded (recommended),207,4,MANUAL,front wheel drive,4,Luxury,Compact,Wagon,31,21,376,30330
-Saab,44442,2010,premium unleaded (recommended),207,4,MANUAL,front wheel drive,2,Luxury,Compact,Convertible,29,20,376,39990
-Saab,44442,2010,premium unleaded (recommended),207,4,AUTOMATIC,all wheel drive,4,Luxury,Midsize,Sedan,27,17,376,38115
-Saab,44442,2010,premium unleaded (recommended),207,4,AUTOMATIC,front wheel drive,2,Luxury,Compact,Convertible,27,19,376,45080
-Saab,44442,2010,premium unleaded (recommended),207,4,AUTOMATIC,front wheel drive,4,Luxury,Midsize,Sedan,28,19,376,35340
-Saab,44442,2010,premium unleaded (recommended),207,4,AUTOMATIC,all wheel drive,4,Luxury,Compact,Wagon,27,17,376,36975
-Saab,44442,2010,premium unleaded (recommended),207,4,AUTOMATIC,front wheel drive,4,Luxury,Compact,Wagon,27,19,376,37020
-Saab,44442,2011,premium unleaded (recommended),210,4,MANUAL,front wheel drive,4,Luxury,Midsize,Sedan,31,21,376,28900
-Saab,44442,2011,premium unleaded (recommended),210,4,AUTOMATIC,all wheel drive,4,Luxury,Midsize,Sedan,27,17,376,38115
-Saab,44442,2011,premium unleaded (recommended),210,4,AUTOMATIC,all wheel drive,4,Luxury,Midsize,Sedan,27,17,376,32395
-Saab,44442,2011,premium unleaded (recommended),210,4,MANUAL,front wheel drive,2,Luxury,Compact,Convertible,29,20,376,39990
-Saab,44442,2011,premium unleaded (recommended),210,4,MANUAL,front wheel drive,4,Luxury,Compact,Wagon,31,21,376,30330
-Saab,44442,2011,premium unleaded (recommended),210,4,AUTOMATIC,front wheel drive,4,Luxury,Compact,Wagon,27,19,376,37020
-Saab,44442,2011,premium unleaded (recommended),210,4,AUTOMATIC,front wheel drive,4,Luxury,Midsize,Sedan,28,19,376,35340
-Saab,44442,2011,premium unleaded (recommended),210,4,AUTOMATIC,all wheel drive,4,Luxury,Compact,Wagon,27,17,376,36975
-Saab,44442,2011,premium unleaded (recommended),210,4,AUTOMATIC,front wheel drive,2,Luxury,Compact,Convertible,27,19,376,45080
-Saab,44444,2009,premium unleaded (recommended),260,4,AUTOMATIC,front wheel drive,4,"Luxury,Performance",Midsize,Sedan,27,17,376,39400
-Saab,44444,2009,premium unleaded (recommended),260,4,AUTOMATIC,front wheel drive,4,"Luxury,Performance",Midsize,Wagon,27,17,376,43270
-Saab,44444,2009,premium unleaded (recommended),260,4,AUTOMATIC,front wheel drive,4,"Luxury,Performance",Midsize,Wagon,27,17,376,39650
-Saab,44444,2009,premium unleaded (recommended),260,4,AUTOMATIC,front wheel drive,4,"Luxury,Performance",Midsize,Sedan,27,17,376,38380
-Saab,44444,2009,premium unleaded (recommended),260,4,AUTOMATIC,front wheel drive,4,"Luxury,Performance",Midsize,Wagon,27,17,376,40765
-Saab,44444,2009,premium unleaded (recommended),260,4,AUTOMATIC,front wheel drive,4,"Luxury,Performance",Midsize,Sedan,27,17,376,42000
-Saab,44444,2010,premium unleaded (recommended),300,6,AUTOMATIC,all wheel drive,4,"Luxury,Performance",Large,Sedan,27,16,376,49165
-Saab,44444,2011,premium unleaded (recommended),220,4,MANUAL,front wheel drive,4,Luxury,Large,Sedan,33,20,376,38525
-Saab,44444,2011,premium unleaded (recommended),300,6,AUTOMATIC,all wheel drive,4,"Luxury,Performance",Large,Sedan,27,17,376,49565
-Saab,44444,2011,premium unleaded (recommended),220,4,AUTOMATIC,front wheel drive,4,Luxury,Large,Sedan,28,18,376,43435
-Saab,44444,2011,premium unleaded (recommended),300,6,AUTOMATIC,all wheel drive,4,"Luxury,Performance",Large,Sedan,27,17,376,48030
+Saab,903,2009,premium unleaded (recommended),210,4,AUTOMATIC,all wheel drive,4,Luxury,Compact,Wagon,27,17,376,37810
+Saab,903,2009,premium unleaded (recommended),280,6,AUTOMATIC,front wheel drive,2,"Luxury,Performance",Compact,Convertible,24,15,376,51330
+Saab,903,2009,premium unleaded (recommended),210,4,AUTOMATIC,front wheel drive,4,Luxury,Compact,Wagon,27,19,376,38305
+Saab,903,2009,premium unleaded (recommended),280,6,AUTOMATIC,all wheel drive,4,"Luxury,Performance",Compact,Wagon,24,15,376,44885
+Saab,903,2009,premium unleaded (recommended),210,4,MANUAL,front wheel drive,4,Luxury,Midsize,Sedan,29,19,376,30360
+Saab,903,2009,premium unleaded (recommended),210,4,MANUAL,front wheel drive,2,Luxury,Compact,Convertible,27,19,376,42130
+Saab,903,2009,premium unleaded (recommended),280,6,AUTOMATIC,all wheel drive,4,"Luxury,Performance",Midsize,Sedan,24,15,376,43605
+Saab,903,2009,premium unleaded (recommended),210,4,MANUAL,front wheel drive,4,Luxury,Compact,Wagon,29,19,376,31790
+Saab,903,2009,premium unleaded (recommended),210,4,AUTOMATIC,front wheel drive,4,Luxury,Compact,Wagon,27,19,376,35315
+Saab,903,2009,premium unleaded (recommended),210,4,AUTOMATIC,front wheel drive,4,Luxury,Midsize,Sedan,28,19,376,37140
+Saab,903,2009,premium unleaded (recommended),210,4,AUTOMATIC,front wheel drive,4,Luxury,Midsize,Sedan,28,19,376,34150
+Saab,903,2009,premium unleaded (recommended),210,4,AUTOMATIC,front wheel drive,2,Luxury,Compact,Convertible,27,19,376,44455
+Saab,903,2009,premium unleaded (recommended),210,4,AUTOMATIC,all wheel drive,4,Luxury,Midsize,Sedan,27,17,376,36395
+Saab,903,2009,premium unleaded (recommended),210,4,AUTOMATIC,front wheel drive,2,Luxury,Compact,Convertible,27,19,376,47345
+Saab,903,2010,premium unleaded (recommended),207,4,AUTOMATIC,all wheel drive,4,Luxury,Midsize,Sedan,27,17,376,32395
+Saab,903,2010,premium unleaded (recommended),207,4,MANUAL,front wheel drive,4,Luxury,Midsize,Sedan,31,21,376,28900
+Saab,903,2010,premium unleaded (recommended),207,4,MANUAL,front wheel drive,4,Luxury,Compact,Wagon,31,21,376,30330
+Saab,903,2010,premium unleaded (recommended),207,4,MANUAL,front wheel drive,2,Luxury,Compact,Convertible,29,20,376,39990
+Saab,903,2010,premium unleaded (recommended),207,4,AUTOMATIC,all wheel drive,4,Luxury,Midsize,Sedan,27,17,376,38115
+Saab,903,2010,premium unleaded (recommended),207,4,AUTOMATIC,front wheel drive,2,Luxury,Compact,Convertible,27,19,376,45080
+Saab,903,2010,premium unleaded (recommended),207,4,AUTOMATIC,front wheel drive,4,Luxury,Midsize,Sedan,28,19,376,35340
+Saab,903,2010,premium unleaded (recommended),207,4,AUTOMATIC,all wheel drive,4,Luxury,Compact,Wagon,27,17,376,36975
+Saab,903,2010,premium unleaded (recommended),207,4,AUTOMATIC,front wheel drive,4,Luxury,Compact,Wagon,27,19,376,37020
+Saab,903,2011,premium unleaded (recommended),210,4,MANUAL,front wheel drive,4,Luxury,Midsize,Sedan,31,21,376,28900
+Saab,903,2011,premium unleaded (recommended),210,4,AUTOMATIC,all wheel drive,4,Luxury,Midsize,Sedan,27,17,376,38115
+Saab,903,2011,premium unleaded (recommended),210,4,AUTOMATIC,all wheel drive,4,Luxury,Midsize,Sedan,27,17,376,32395
+Saab,903,2011,premium unleaded (recommended),210,4,MANUAL,front wheel drive,2,Luxury,Compact,Convertible,29,20,376,39990
+Saab,903,2011,premium unleaded (recommended),210,4,MANUAL,front wheel drive,4,Luxury,Compact,Wagon,31,21,376,30330
+Saab,903,2011,premium unleaded (recommended),210,4,AUTOMATIC,front wheel drive,4,Luxury,Compact,Wagon,27,19,376,37020
+Saab,903,2011,premium unleaded (recommended),210,4,AUTOMATIC,front wheel drive,4,Luxury,Midsize,Sedan,28,19,376,35340
+Saab,903,2011,premium unleaded (recommended),210,4,AUTOMATIC,all wheel drive,4,Luxury,Compact,Wagon,27,17,376,36975
+Saab,903,2011,premium unleaded (recommended),210,4,AUTOMATIC,front wheel drive,2,Luxury,Compact,Convertible,27,19,376,45080
+Saab,905,2009,premium unleaded (recommended),260,4,AUTOMATIC,front wheel drive,4,"Luxury,Performance",Midsize,Sedan,27,17,376,39400
+Saab,905,2009,premium unleaded (recommended),260,4,AUTOMATIC,front wheel drive,4,"Luxury,Performance",Midsize,Wagon,27,17,376,43270
+Saab,905,2009,premium unleaded (recommended),260,4,AUTOMATIC,front wheel drive,4,"Luxury,Performance",Midsize,Wagon,27,17,376,39650
+Saab,905,2009,premium unleaded (recommended),260,4,AUTOMATIC,front wheel drive,4,"Luxury,Performance",Midsize,Sedan,27,17,376,38380
+Saab,905,2009,premium unleaded (recommended),260,4,AUTOMATIC,front wheel drive,4,"Luxury,Performance",Midsize,Wagon,27,17,376,40765
+Saab,905,2009,premium unleaded (recommended),260,4,AUTOMATIC,front wheel drive,4,"Luxury,Performance",Midsize,Sedan,27,17,376,42000
+Saab,905,2010,premium unleaded (recommended),300,6,AUTOMATIC,all wheel drive,4,"Luxury,Performance",Large,Sedan,27,16,376,49165
+Saab,905,2011,premium unleaded (recommended),220,4,MANUAL,front wheel drive,4,Luxury,Large,Sedan,33,20,376,38525
+Saab,905,2011,premium unleaded (recommended),300,6,AUTOMATIC,all wheel drive,4,"Luxury,Performance",Large,Sedan,27,17,376,49565
+Saab,905,2011,premium unleaded (recommended),220,4,AUTOMATIC,front wheel drive,4,Luxury,Large,Sedan,28,18,376,43435
+Saab,905,2011,premium unleaded (recommended),300,6,AUTOMATIC,all wheel drive,4,"Luxury,Performance",Large,Sedan,27,17,376,48030
 Saab,9-2X,2005,premium unleaded (required),227,4,MANUAL,all wheel drive,4,"Luxury,Performance",Compact,Wagon,24,17,376,26950
 Saab,9-2X,2005,regular unleaded,165,4,MANUAL,all wheel drive,4,"Luxury,Performance",Compact,Wagon,27,20,376,22990
 Saab,9-2X,2006,premium unleaded (required),230,4,MANUAL,all wheel drive,4,"Luxury,Performance",Compact,Wagon,25,18,376,26950
 Saab,9-2X,2006,regular unleaded,173,4,MANUAL,all wheel drive,4,Luxury,Compact,Wagon,26,19,376,22990
-Saab,9-3,2012,flex-fuel (premium unleaded recommended/E85),220,4,MANUAL,front wheel drive,4,"Flex Fuel,Luxury",Midsize,Sedan,33,20,376,28900
-Saab,9-3,2012,flex-fuel (premium unleaded recommended/E85),220,4,MANUAL,front wheel drive,2,"Flex Fuel,Luxury",Compact,Convertible,33,20,376,44080
-Saab,9-3,2012,flex-fuel (premium unleaded recommended/E85),220,4,MANUAL,front wheel drive,2,"Flex Fuel,Luxury",Compact,Convertible,33,20,376,46080
-Saab,9-3,2012,premium unleaded (recommended),220,4,MANUAL,all wheel drive,4,Luxury,Midsize,Sedan,30,20,376,37115
-Saab,9-3,2012,flex-fuel (premium unleaded recommended/E85),220,4,MANUAL,front wheel drive,2,"Flex Fuel,Luxury",Compact,Convertible,33,20,376,39490
-Saab,9-3,2012,flex-fuel (premium unleaded recommended/E85),220,4,MANUAL,front wheel drive,4,"Flex Fuel,Luxury",Midsize,Sedan,33,20,376,34340
-Saab,9-3,2012,flex-fuel (premium unleaded recommended/E85),220,4,AUTOMATIC,front wheel drive,2,"Flex Fuel,Luxury",Compact,Convertible,28,18,376,44080
-Saab,9-3,2012,flex-fuel (premium unleaded recommended/E85),220,4,AUTOMATIC,front wheel drive,2,"Flex Fuel,Luxury",Compact,Convertible,28,18,376,40840
-Saab,9-3,2012,flex-fuel (premium unleaded recommended/E85),220,4,AUTOMATIC,front wheel drive,4,"Flex Fuel,Luxury",Compact,Wagon,28,18,376,31180
-Saab,9-3,2012,premium unleaded (recommended),220,4,MANUAL,all wheel drive,4,Luxury,Midsize,Sedan,30,20,376,32395
-Saab,9-3,2012,flex-fuel (premium unleaded recommended/E85),220,4,AUTOMATIC,front wheel drive,4,"Flex Fuel,Luxury",Midsize,Sedan,29,19,376,34340
-Saab,9-3,2012,premium unleaded (recommended),220,4,AUTOMATIC,all wheel drive,4,Luxury,Compact,Wagon,29,18,376,34975
-Saab,9-3,2012,premium unleaded (recommended),220,4,AUTOMATIC,all wheel drive,4,Luxury,Midsize,Sedan,29,18,376,37115
-Saab,9-3,2012,premium unleaded (recommended),220,4,MANUAL,all wheel drive,4,Luxury,Compact,Wagon,30,20,376,34975
-Saab,9-3,2012,flex-fuel (premium unleaded recommended/E85),220,4,AUTOMATIC,front wheel drive,4,"Flex Fuel,Luxury",Midsize,Sedan,29,19,376,30250
-Saab,9-3,2012,premium unleaded (recommended),220,4,AUTOMATIC,all wheel drive,4,Luxury,Midsize,Sedan,29,18,376,32395
-Saab,9-3,2012,flex-fuel (premium unleaded recommended/E85),220,4,MANUAL,front wheel drive,4,"Flex Fuel,Luxury",Compact,Wagon,33,20,376,29830
-Saab,9-3,2012,flex-fuel (premium unleaded recommended/E85),220,4,AUTOMATIC,front wheel drive,2,"Flex Fuel,Luxury",Compact,Convertible,28,18,376,46080
+Saab,903,2012,flex-fuel (premium unleaded recommended/E85),220,4,MANUAL,front wheel drive,4,"Flex Fuel,Luxury",Midsize,Sedan,33,20,376,28900
+Saab,903,2012,flex-fuel (premium unleaded recommended/E85),220,4,MANUAL,front wheel drive,2,"Flex Fuel,Luxury",Compact,Convertible,33,20,376,44080
+Saab,903,2012,flex-fuel (premium unleaded recommended/E85),220,4,MANUAL,front wheel drive,2,"Flex Fuel,Luxury",Compact,Convertible,33,20,376,46080
+Saab,903,2012,premium unleaded (recommended),220,4,MANUAL,all wheel drive,4,Luxury,Midsize,Sedan,30,20,376,37115
+Saab,903,2012,flex-fuel (premium unleaded recommended/E85),220,4,MANUAL,front wheel drive,2,"Flex Fuel,Luxury",Compact,Convertible,33,20,376,39490
+Saab,903,2012,flex-fuel (premium unleaded recommended/E85),220,4,MANUAL,front wheel drive,4,"Flex Fuel,Luxury",Midsize,Sedan,33,20,376,34340
+Saab,903,2012,flex-fuel (premium unleaded recommended/E85),220,4,AUTOMATIC,front wheel drive,2,"Flex Fuel,Luxury",Compact,Convertible,28,18,376,44080
+Saab,903,2012,flex-fuel (premium unleaded recommended/E85),220,4,AUTOMATIC,front wheel drive,2,"Flex Fuel,Luxury",Compact,Convertible,28,18,376,40840
+Saab,903,2012,flex-fuel (premium unleaded recommended/E85),220,4,AUTOMATIC,front wheel drive,4,"Flex Fuel,Luxury",Compact,Wagon,28,18,376,31180
+Saab,903,2012,premium unleaded (recommended),220,4,MANUAL,all wheel drive,4,Luxury,Midsize,Sedan,30,20,376,32395
+Saab,903,2012,flex-fuel (premium unleaded recommended/E85),220,4,AUTOMATIC,front wheel drive,4,"Flex Fuel,Luxury",Midsize,Sedan,29,19,376,34340
+Saab,903,2012,premium unleaded (recommended),220,4,AUTOMATIC,all wheel drive,4,Luxury,Compact,Wagon,29,18,376,34975
+Saab,903,2012,premium unleaded (recommended),220,4,AUTOMATIC,all wheel drive,4,Luxury,Midsize,Sedan,29,18,376,37115
+Saab,903,2012,premium unleaded (recommended),220,4,MANUAL,all wheel drive,4,Luxury,Compact,Wagon,30,20,376,34975
+Saab,903,2012,flex-fuel (premium unleaded recommended/E85),220,4,AUTOMATIC,front wheel drive,4,"Flex Fuel,Luxury",Midsize,Sedan,29,19,376,30250
+Saab,903,2012,premium unleaded (recommended),220,4,AUTOMATIC,all wheel drive,4,Luxury,Midsize,Sedan,29,18,376,32395
+Saab,903,2012,flex-fuel (premium unleaded recommended/E85),220,4,MANUAL,front wheel drive,4,"Flex Fuel,Luxury",Compact,Wagon,33,20,376,29830
+Saab,903,2012,flex-fuel (premium unleaded recommended/E85),220,4,AUTOMATIC,front wheel drive,2,"Flex Fuel,Luxury",Compact,Convertible,28,18,376,46080
 Saab,9-4X,2011,premium unleaded (required),265,6,AUTOMATIC,front wheel drive,4,"Crossover,Luxury",Midsize,4dr SUV,25,18,376,37250
 Saab,9-4X,2011,premium unleaded (required),265,6,AUTOMATIC,all wheel drive,4,"Crossover,Luxury",Midsize,4dr SUV,23,17,376,35875
 Saab,9-4X,2011,premium unleaded (required),265,6,AUTOMATIC,front wheel drive,4,"Crossover,Luxury",Midsize,4dr SUV,25,18,376,33380
