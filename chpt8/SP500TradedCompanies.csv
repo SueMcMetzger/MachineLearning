@@ -1,0 +1,506 @@
+Symbol,Security,Location,Sector,company,rank,revenue,profit,num. of employees,state,ceo_founder,ceo_woman,profitable,Market Cap
+A,Agilent Technologies,West,Health Care,Agilent Technologies,537,5163,1071,16300,CA,no,no,yes,22177.2
+AAL,American Airlines Group,South,Industrials,American Airlines Group,70,45768,1686,133700,TX,no,no,yes,5655
+AAP,Advance Auto Parts,South,Consumer Discretionary,Advance Auto Parts,330,9709,486.9,53000,NC,no,no,yes,6461.3
+AAPL,Apple,West,Information Technology,Apple,4,260174,55256,137000,CA,no,no,yes,2221176
+ABBV,AbbVie,Midwest,Health Care,AbbVie,99,33266,7882,30000,IL,no,no,yes,198828
+ABC,AmerisourceBergen,Northeast,Health Care,AmerisourceBergen,10,179589.1,855.4,21500,PA,no,no,yes,21246
+ABMD,Abiomed,Northeast,Health Care,,,,,,,,,,
+ABT,Abbott Laboratories,Midwest,Health Care,Abbott Laboratories,104,31904,3687,107000,IL,no,no,yes,200082
+ACN,Accenture,NONUS,Information Technology,,,,,,,,,,
+ADBE,Adobe,West,Information Technology,Adobe,285,11171.3,2951.5,22634,CA,no,no,yes,224860
+ADI,Analog Devices,Northeast,Information Technology,Analog Devices,487,5991.1,1363,16400,MA,no,no,yes,33010.9
+ADM,ADM,Midwest,Consumer Staples,Archer Daniels Midland,54,64656,1379,38100,IL,no,no,yes,29767
+ADP,Automatic Data Processing,Northeast,Information Technology,Automatic Data Processing,227,14175.2,2292.8,58000,NJ,no,no,yes,69618
+ADSK,Autodesk,West,Information Technology,Autodesk,737,3274.3,214.5,10100,CA,no,no,yes,67854
+AEE,Ameren Corp,Midwest,Utilities,Ameren,488,5910,828,9323,MO,no,no,yes,17969.9
+AEP,American Electric Power,Midwest,Utilities,American Electric Power,204,15561.4,1921.1,17408,OH,no,no,yes,40084
+AES,AES Corp,South,Utilities,AES,310,10189,303,8000,VA,no,no,yes,9040.8
+AFL,Aflac,South,Financials,Aflac,146,22307,3304,11729,GA,no,no,yes,33058
+AIG,American International Group,Northeast,Financials,American International Group,66,49746,3348,46000,NY,no,no,yes,27682
+AIZ,Assurant,Northeast,Financials,Assurant,315,10086.8,382.6,13900,NY,no,no,yes,6217.9
+AJG,Arthur J. Gallagher & Co.,Midwest,Financials,Arthur J. Gallagher,429,7195,668.8,33247,IL,no,no,yes,15454.9
+AKAM,Akamai Technologies,Northeast,Information Technology,Akamai Technologies,806,2893.6,478,7724,MA,yes,no,yes,14810.6
+ALB,Albemarle Corporation,South,Materials,Albemarle,683,3589.4,533.2,6000,NC,no,no,yes,5993.2
+ALGN,Align Technology,West,Health Care,Align Technology,888,2406.8,442.8,14530,CA,no,no,yes,35203
+ALK,Alaska Air Group,West,Industrials,Alaska Air Group,360,8781,769,24134,WA,no,no,yes,3490
+ALL,Allstate Corp,Midwest,Financials,Allstate,72,44675,4847,46035,IL,no,no,yes,33752
+ALLE,Allegion,Northeast,Industrials,,,,,,,,,,
+AMAT,Applied Materials,West,Information Technology,Applied Materials,218,14608,2706,22000,CA,no,no,yes,98603
+AMCR,Amcor,NONUS,Materials,,,,,,,,,,
+AMD,Advanced Micro Devices,West,Information Technology,Advanced Micro Devices (AMD),448,6731,341,11400,CA,no,yes,yes,106741
+AME,Ametek,Northeast,Industrials,Ametek,538,5158.6,861.3,18100,PA,no,no,yes,16506.3
+AMGN,Amgen,West,Health Care,Amgen,135,23362,7842,23400,CA,no,no,yes,119571.5
+AMP,Ameriprise Financial,Midwest,Financials,Ameriprise Financial,245,13103,1893,12500,MN,no,no,yes,12601.8
+AMT,American Tower,Northeast,Real Estate,American Tower,414,7580.3,1887.8,5454,MA,no,no,yes,98962
+AMZN,Amazon,West,Consumer Discretionary,Amazon,2,280522,11588,798000,WA,yes,no,yes,1637405
+ANET,Arista Networks,West,Information Technology,Arista Networks,886,2410.7,859.9,2300,CA,no,yes,yes,16000
+ANSS,Ansys,Northeast,Information Technology,,,,,,,,,,
+ANTM,Anthem,Midwest,Health Care,Anthem,29,104213,4807,70600,IN,no,yes,yes,79964
+AON,Aon,NONUS,Financials,,,,,,,,,,
+AOS,A. O. Smith,Midwest,Industrials,A.O. Smith,785,2992.7,370,15100,WI,no,no,yes,6125.4
+APA,APA Corporation,South,Energy,APA,465,6411,-3553,3163,TX,no,no,no,6595
+APD,Air Products & Chemicals,Northeast,Materials,Air Products & Chemicals,355,8918.9,1760,17570,PA,no,no,yes,44049.6
+APH,Amphenol,Northeast,Information Technology,Amphenol,386,8225.4,1155,74000,CT,no,no,yes,21725.6
+APTV,Aptiv,NONUS,Consumer Discretionary,,,,,,,,,,
+ARE,Alexandria Real Estate Equities,West,Real Estate,,,,,,,,,,
+ATO,Atmos Energy,South,Utilities,Atmos Energy,802,2901.8,511.4,4776,TX,no,no,yes,12132.5
+ATVI,Activision Blizzard,West,Communication Services,Activision Blizzard,463,6489,1503,9200,CA,no,no,yes,73515
+AVB,AvalonBay Communities,South,Real Estate,AvalonBay Communities,912,2324.6,786,3122,VA,no,no,yes,20711.9
+AVGO,Broadcom,West,Information Technology,Broadcom,138,22597,2724,19000,CA,no,no,yes,94790.5
+AVY,Avery Dennison,West,Materials,Avery Dennison,435,7070.1,303.6,30000,CA,no,no,yes,8485.4
+AWK,American Water Works,Northeast,Utilities,American Water Works,682,3610,621,6800,NJ,no,no,yes,21642.7
+AXP,American Express,Northeast,Financials,American Express,67,47020,6759,64500,NY,no,no,yes,103823
+AZO,AutoZone,South,Consumer Discretionary,AutoZone,268,11863.7,1617.2,75840,TN,no,no,yes,19756.2
+BA,Boeing,Midwest,Industrials,Boeing,40,76559,-636,161100,IL,no,no,no,89183
+BAC,Bank of America,South,Financials,Bank of America,25,113589,27430,208131,NC,no,no,yes,279768
+BAX,Baxter International,Midwest,Health Care,Baxter International,282,11362,1001,50000,IL,no,no,yes,41180.1
+BBWI,Bath & Body Works,Midwest,Consumer Discretionary,,,,,,,,,,
+BBY,Best Buy,Midwest,Consumer Discretionary,Best Buy,75,43638,1541,125000,MN,no,yes,yes,29062
+BDX,Becton Dickinson,Northeast,Health Care,BD,187,17290,1233,70093,NJ,no,no,yes,65554
+BEN,Franklin Resources,West,Financials,Franklin Resources,493,5774.5,1195.7,9597,CA,no,yes,yes,8293.2
+BF.B,Brown–Forman,South,Consumer Staples,,,,,,,,,,
+BIIB,Biogen,Northeast,Health Care,Biogen,223,14377.9,5888.5,7400,MA,no,no,yes,55070.4
+BIO,Bio-Rad Laboratories,West,Health Care,Bio-Rad Laboratories,917,2311.7,1758.7,8120,CA,no,no,yes,10490.6
+BK,BNY Mellon,Northeast,Financials,Bank of New York Mellon,159,20822,4441,48400,NY,no,no,yes,29808.5
+BKNG,Booking Holdings,Northeast,Consumer Discretionary,Booking Holdings,210,15066,4865,26400,CT,no,no,yes,88465
+BKR,Baker Hughes,South,Energy,Baker Hughes,129,23838,128,68000,TX,no,no,yes,10827.3
+BLK,BlackRock,Northeast,Financials,BlackRock,219,14539,4476,16200,NY,no,no,yes,113810
+BLL,Ball Corp,West,Materials,Ball,279,11474,566,18300,CO,no,no,yes,30180
+BMY,Bristol Myers Squibb,Northeast,Health Care,Bristol-Myers Squibb,115,26145,3439,30000,NY,no,no,yes,149709
+BR,Broadridge Financial Solutions,Northeast,Information Technology,Broadridge Financial Solutions,610,4362.2,482.1,11000,NY,no,no,yes,10886.7
+BRK.B,Berkshire Hathaway,Midwest,Financials,,,,,,,,,,
+BRO,Brown & Brown,South,Financials,Brown & Brown,893,2392.2,398.5,10083,FL,no,no,yes,10269.3
+BSX,Boston Scientific,Northeast,Health Care,Boston Scientific,296,10735,4700,36000,MA,no,no,yes,52495
+BWA,BorgWarner,Midwest,Consumer Discretionary,BorgWarner,312,10168,746,29000,MI,no,no,yes,5037.4
+BXP,Boston Properties,Northeast,Real Estate,Boston Properties,789,2960.6,521.5,760,MA,no,no,yes,14306.9
+C,Citigroup,Northeast,Financials,Citigroup,31,103449,19401,200000,NY,no,yes,yes,131684
+CAG,Conagra Brands,Midwest,Consumer Staples,Conagra Brands,334,9538.4,678.3,18000,IL,no,no,yes,14290.8
+CAH,Cardinal Health,Midwest,Health Care,Cardinal Health,16,145534,1363,49500,OH,no,no,yes,16018
+CARR,Carrier Global,South,Industrials,,,,,,,,,,
+CAT,Caterpillar,Midwest,Industrials,Caterpillar,62,53800,6093,102300,IL,no,no,yes,104491
+CB,Chubb,NONUS,Financials,,,,,,,,,,
+CBOE,Cboe Global Markets,Midwest,Financials,Cboe Global Markets,872,2496.1,374.9,823,IL,no,no,yes,9450
+CBRE,CBRE,South,Real Estate,CBRE Group,128,23894.1,1282.4,100000,CA,no,no,yes,21772
+CCI,Crown Castle,South,Real Estate,Crown Castle International,496,5763,860,5100,TX,no,no,yes,60178.6
+CCL,Carnival Corporation,South,Consumer Discretionary,,,,,,,,,,
+CDAY,Ceridian,Midwest,Information Technology,,,,,,,,,,
+CDNS,Cadence Design Systems,West,Information Technology,Cadence Design Systems,910,2336.3,989,8078,CA,no,no,yes,18546.2
+CDW,CDW,Midwest,Information Technology,CDW,178,18032.4,736.8,9900,IL,no,yes,yes,13316.3
+CE,Celanese,South,Materials,Celanese,470,6297,852,7714,TX,no,yes,yes,8775
+CERN,Cerner,Midwest,Health Care,Cerner,498,5692.6,529.5,27400,MO,no,no,yes,19164.4
+CF,CF Industries,Midwest,Materials,CF Industries Holdings,587,4590,493.1,2987,IL,no,no,yes,5879.9
+CFG,Citizens Financial Group,Northeast,Financials,Citizens Financial Group,395,8066,1791,17997,RI,no,no,yes,8040
+CHD,Church & Dwight,Northeast,Consumer Staples,Church & Dwight,611,4357.7,615.9,4800,NJ,no,no,yes,15773.9
+CHRW,C. H. Robinson,Midwest,Industrials,C.H. Robinson Worldwide,208,15309.5,577,15427,MN,no,no,yes,13432
+CHTR,Charter Communications,Northeast,Communication Services,Charter Communications,71,45764,1668,95100,CT,no,no,yes,137205
+CI,Cigna,Northeast,Health Care,Cigna,13,153566,5104,73700,CT,no,no,yes,60335
+CINF,Cincinnati Financial,Midwest,Financials,Cincinnati Financial,400,7924.2,1997.4,5200,OH,no,no,yes,12241.5
+CL,Colgate-Palmolive,Northeast,Consumer Staples,Colgate-Palmolive,203,15693,2367,34300,NY,no,no,yes,68745
+CLX,Clorox,West,Consumer Staples,Clorox,474,6214,820,8800,CA,no,yes,yes,21673.5
+CMA,Comerica,South,Financials,Comerica,659,3817,1198,7708,TX,no,no,yes,4117.7
+CMCSA,Comcast,Northeast,Communication Services,Comcast,28,108942,13057,190000,PA,no,no,yes,223642
+CME,CME Group,Midwest,Financials,CME Group,558,4868,2116.5,4360,IL,no,no,yes,61984.7
+CMG,Chipotle Mexican Grill,West,Consumer Discretionary,Chipotle Mexican Grill,506,5586.4,350.2,83000,CA,no,no,yes,41429
+CMI,Cummins,Midwest,Industrials,Cummins,132,23571,2260,61615,IN,no,no,yes,35008
+CMS,CMS Energy,Midwest,Utilities,CMS Energy,443,6845,680,8459,MI,no,yes,yes,16697.2
+CNC,Centene,Midwest,Health Care,Centene,42,74639,1321,56600,MO,no,no,yes,36191
+CNP,CenterPoint Energy,South,Utilities,CenterPoint Energy,260,12301,791,14262,TX,no,no,yes,7765.4
+COF,Capital One,South,Financials,Capital One Financial,97,33766,5546,51900,VA,yes,no,yes,50946
+COO,The Cooper Companies,West,Health Care,Cooper,848,2653.4,466.7,12000,CA,no,no,yes,14701.6
+COP,ConocoPhillips,South,Energy,ConocoPhillips,93,36670,7189,10400,TX,no,no,yes,61446
+COST,Costco,West,Consumer Staples,Costco Wholesale,14,152703,3659,201500,WA,no,no,yes,160040
+CPB,Campbell Soup,Northeast,Consumer Staples,Campbell Soup,322,9909,211,19000,NJ,no,no,yes,13928.5
+CPRT,Copart,South,Industrials,Copart,984,2042,591.7,7327,TX,no,no,yes,27030
+CRL,Charles River Laboratories,Northeast,Health Care,Charles River Laboratories International,855,2621.2,252,17100,MA,no,no,yes,14075
+CRM,Salesforce,West,Information Technology,Salesforce,190,17098,126,49000,CA,yes,no,yes,204547
+CSCO,Cisco Systems,West,Information Technology,Cisco Systems,63,51904,11621,75900,CA,no,no,yes,191585
+CSX,CSX,South,Industrials,CSX,267,11937,3331,20908,FL,no,no,yes,44161.7
+CTAS,Cintas Corporation,Midwest,Industrials,Cintas,441,6892.3,885,45000,OH,no,no,yes,18023.6
+CTLT,Catalent,Northeast,Health Care,Catalent,869,2518,137.4,12300,NJ,no,no,yes,8045.1
+CTRA,Coterra,South,Energy,,,,,,,,,,
+CTSH,Cognizant Technology Solutions,Northeast,Information Technology,Cognizant Technology Solutions,194,16783,1842,292500,NJ,no,no,yes,25495.2
+CTVA,Corteva,South,Materials,Corteva,234,13846,-959,21000,DE,no,no,no,22043
+CTXS,Citrix Systems,South,Information Technology,Citrix Systems,779,3010.6,681.8,8400,FL,no,no,yes,17319.8
+CVS,CVS Health,Northeast,Health Care,CVS Health,5,256776,6634,290000,RI,no,yes,yes,98496
+CVX,Chevron,West,Energy,Chevron,15,146516,2924,48200,CA,no,no,yes,156714
+CZR,Caesars Entertainment,West,Consumer Discretionary,Caesars Entertainment,868,2528.2,81,15500,NV,no,no,yes,1120.3
+D,Dominion Energy,South,Utilities,Dominion Energy,197,16572,1358,19100,VA,no,no,yes,58397
+DAL,Delta Air Lines,South,Industrials,Delta Air Lines,68,47007,4767,91224,GA,no,no,yes,26543
+DD,DuPont,South,Materials,DuPont,152,21512,498,35000,DE,no,no,yes,25213.1
+DE,Deere & Co.,Midwest,Industrials,Deere,84,39258,3253,73489,IL,no,no,yes,94622
+DFS,Discover Financial Services,Midwest,Financials,Discover Financial Services,231,13989,2957,17200,IL,no,no,yes,10923.5
+DG,Dollar General,South,Consumer Discretionary,Dollar General,112,27754,1712.6,143000,TN,no,no,yes,47928
+DGX,Quest Diagnostics,Northeast,Health Care,Quest Diagnostics,410,7726,858,47000,NJ,no,no,yes,17164
+DHI,D. R. Horton,South,Consumer Discretionary,D.R. Horton,183,17592.9,1618.5,8916,TX,no,no,yes,27388
+DHR,Danaher,South,Health Care,Danaher,161,20521.2,3008.2,60000,DC,no,no,yes,168395
+DIS,The Walt Disney Company,West,Communication Services,Walt Disney,49,69570,11054,223000,CA,no,no,yes,315029
+DISCA,Discovery (Series A),Northeast,Communication Services,Discovery,287,11144,2069,9200,MD,no,no,yes,9503.1
+DISCK,Discovery (Series C),Northeast,Communication Services,,,,,,,,,,
+DISH,Dish Network,West,Communication Services,DISH Network,251,12807.7,1399.5,16000,CO,no,no,yes,10455.8
+DLR,Digital Realty Trust,South,Real Estate,Digital Realty Trust,746,3209.2,579.8,1550,CA,no,no,yes,36016.5
+DLTR,Dollar Tree,South,Consumer Discretionary,Dollar Tree,131,23610.8,827,125000,VA,no,no,yes,17398.5
+DOV,Dover Corporation,Midwest,Industrials,Dover,433,7136.4,677.9,24000,IL,no,no,yes,12094.4
+DOW,Dow,Midwest,Materials,Dow,78,42951,-1359,36500,MI,no,no,no,30430
+DPZ,Domino's Pizza,Midwest,Consumer Discretionary,Domino's Pizza,679,3618.8,400.7,13100,MI,no,no,yes,14933
+DRE,Duke Realty,Midwest,Real Estate,,,,,,,,,,
+DRI,Darden Restaurants,South,Consumer Discretionary,Darden Restaurants,372,8510.4,713.4,184514,FL,no,no,yes,6580
+DTE,DTE Energy,Midwest,Utilities,DTE Energy,253,12669,1169,10700,MI,no,no,yes,18289.5
+DUK,Duke Energy,South,Utilities,Duke Energy,123,24658,3748,28793,NC,no,yes,yes,66815
+DVA,DaVita,West,Health Care,DaVita,230,14101.5,811,65000,CO,no,no,yes,13476
+DVN,Devon Energy,South,Energy,Devon Energy,419,7372,-355,1800,OK,no,no,no,2645.8
+DXC,DXC Technology,South,Information Technology,DXC Technology,155,21184,1257,130000,VA,no,no,yes,3311.1
+DXCM,DexCom,West,Health Care,,,,,,,,,,
+EA,Electronic Arts,West,Communication Services,Electronic Arts,550,4950,1019,9700,CA,no,no,yes,42236
+EBAY,eBay,West,Consumer Discretionary,eBay,295,10800,1786,13300,CA,no,no,yes,23930.2
+ECL,Ecolab,Midwest,Materials,Ecolab,213,14906.3,1558.9,50200,MN,no,no,yes,62336
+ED,Consolidated Edison,Northeast,Utilities,Consolidated Edison,256,12574,1343,14890,NY,no,no,yes,26034.5
+EFX,Equifax,South,Industrials,Equifax,692,3507.6,-398.8,11200,GA,no,no,no,14569.4
+EIX,Edison International,West,Utilities,Edison International,259,12347,1284,12937,CA,no,no,yes,19867.6
+EL,Estée Lauder Companies,Northeast,Consumer Staples,Estée Lauder,215,14863,1785,48000,NY,no,no,yes,92289
+EMN,Eastman Chemical,South,Materials,Eastman Chemical,343,9273,759,14500,TN,no,no,yes,6330
+EMR,Emerson Electric,Midwest,Industrials,Emerson Electric,176,18372,2306,88000,MO,no,no,yes,50469
+ENPH,Enphase Energy,West,Information Technology,,,,,,,,,,
+EOG,EOG Resources,South,Energy,EOG Resources,186,17380,2734.9,2900,TX,no,no,yes,20907.4
+EPAM,EPAM Systems,Northeast,Information Technology,EPAM Systems,923,2293.8,261.1,36739,PA,yes,no,yes,18183
+EQIX,Equinix,West,Real Estate,Equinix,509,5562.1,507.5,8378,CA,no,no,yes,64843
+EQR,Equity Residential,Midwest,Real Estate,Equity Residential,838,2701.1,970.4,2700,IL,no,no,yes,22954.8
+ES,Eversource Energy,Northeast,Utilities,Eversource Energy,371,8526.5,909.1,8234,MA,no,no,yes,25835.3
+ESS,Essex Property Trust,West,Real Estate,,,,,,,,,,
+ETN,Eaton,NONUS,Industrials,,,,,,,,,,
+ETR,Entergy,South,Utilities,Entergy,293,10878.7,1241.2,13635,LA,no,no,yes,18870.6
+ETSY,Etsy,Northeast,Consumer Discretionary,,,,,,,,,,
+EVRG,Evergy,Midwest,Utilities,Evergy,539,5147.8,669.9,4617,MO,no,no,yes,12477.6
+EW,Edwards Lifesciences,West,Health Care,Edwards Lifesciences,613,4348,1046.9,13900,CA,no,no,yes,39105.8
+EXC,Exelon,Midwest,Utilities,Exelon,95,34438,2936,32713,IL,no,no,yes,41928
+EXPD,Expeditors,West,Industrials,Expeditors Intl. of Washington,389,8175.4,590.4,18000,WA,no,no,yes,11208.2
+EXPE,Expedia Group,West,Consumer Discretionary,Expedia Group,263,12067,565,25400,WA,no,no,yes,7877.2
+EXR,Extra Space Storage,West,Real Estate,,,,,,,,,,
+F,Ford,Midwest,Consumer Discretionary,Ford Motor,12,155900,47,190000,MI,no,no,yes,26297
+FANG,Diamondback Energy,South,Energy,Diamondback Energy,647,3964,240,712,TX,no,no,yes,4147.1
+FAST,Fastenal,Midwest,Industrials,Fastenal,525,5333.7,790.9,21948,MN,no,no,yes,27962
+FB,Meta Platforms,West,Communication Services,Facebook,46,70697,18485,44942,CA,yes,no,yes,768185
+FBHS,Fortune Brands Home & Security,Midwest,Industrials,Fortune Brands Home & Security,494,5764.6,431.9,24700,IL,no,no,yes,12761
+FCX,Freeport-McMoRan,West,Materials,Freeport-McMoRan,221,14402,-239,27500,AZ,no,no,no,44996
+FDS,FactSet,Northeast,Financials,,,,,,,,,,
+FDX,FedEx,South,Industrials,FedEx,47,69693,540,389500,TN,yes,no,yes,66788
+FE,FirstEnergy,Midwest,Utilities,FirstEnergy,294,10850,912,12316,OH,no,no,yes,21666.4
+FFIV,F5,West,Information Technology,F5 Networks,932,2242.4,427.7,5325,WA,no,no,yes,6483.5
+FIS,Fidelity National Information Services,South,Information Technology,Fidelity National Information Services,303,10333,298,55000,FL,no,no,yes,81343
+FISV,Fiserv,Midwest,Information Technology,Fiserv,311,10187,893,44000,WI,no,no,yes,73172
+FITB,Fifth Third Bancorp,Midwest,Financials,Fifth Third Bancorp,325,9790,2512,19869,OH,no,no,yes,10560.3
+FLT,Fleetcor,South,Information Technology,FleetCor Technologies,849,2648.8,895.1,8700,GA,no,no,yes,15935.9
+FMC,FMC Corporation,Northeast,Materials,FMC,578,4661.9,477.4,6400,PA,no,no,yes,13645
+FOX,Fox Corporation (Class B),Northeast,Communication Services,,,,,,,,,,
+FOXA,Fox Corporation (Class A),Northeast,Communication Services,Fox,280,11389,1595,7700,NY,no,no,yes,14142.9
+FRC,First Republic Bank,West,Financials,First Republic Bank,627,4156.7,930.3,4812,CA,yes,no,yes,14093.5
+FRT,Federal Realty Investment Trust,South,Real Estate,,,,,,,,,,
+FTNT,Fortinet,West,Information Technology,Fortinet,954,2156.2,326.5,7082,CA,yes,no,yes,18950
+FTV,Fortive,West,Industrials,Fortive,422,7326.1,738.9,25000,WA,no,no,yes,23672
+GD,General Dynamics,South,Industrials,General Dynamics,83,39350,3484,102900,VA,no,yes,yes,44203
+GE,General Electric,Northeast,Industrials,General Electric,33,95214,-4979,205000,MA,no,no,no,53132
+GILD,Gilead Sciences,West,Health Care,Gilead Sciences,140,22449,5386,11800,CA,no,no,yes,94124
+GIS,General Mills,Midwest,Consumer Staples,General Mills,192,16865.2,1752.7,40000,MN,no,no,yes,33837
+GL,Globe Life,South,Financials,Globe Life,592,4527.5,760.8,3196,TX,no,no,yes,7729.4
+GLW,Corning,Northeast,Information Technology,Corning,277,11503,960,49500,NY,no,no,yes,15664.2
+GM,General Motors,Midwest,Consumer Discretionary,General Motors,18,137237,6732,164000,MI,no,yes,yes,79953
+GNRC,Generac Holdings,Midwest,Industrials,Generac Holdings,946,2204.3,252,5551,WI,no,no,yes,11813
+GOOG,Alphabet (Class C),West,Communication Services,,,,,,,,,,
+GOOGL,Alphabet (Class A),West,Communication Services,Alphabet,11,161857,34343,118899,CA,no,no,yes,1274139
+GPC,Genuine Parts,South,Consumer Discretionary,Genuine Parts,171,19392.3,621.1,55000,GA,no,no,yes,14431
+GPN,Global Payments,South,Information Technology,Global Payments,553,4911.9,430.6,24000,GA,no,no,yes,43287.5
+GPS,Gap,West,Consumer Discretionary,Gap,199,16383,351,129000,CA,no,yes,yes,2614
+GRMN,Garmin,NONUS,Consumer Discretionary,,,,,,,,,,
+GS,Goldman Sachs,Northeast,Financials,Goldman Sachs Group,60,53922,8466,38300,NY,no,no,yes,104183
+GWW,W. W. Grainger,Midwest,Industrials,W.W. Grainger,278,11486,849,24550,IL,no,no,yes,21090
+HAL,Halliburton,South,Energy,Halliburton,142,22408,-1131,55000,TX,no,no,no,6027.4
+HAS,Hasbro,Northeast,Consumer Discretionary,Hasbro,574,4720.2,520.5,5600,RI,no,no,yes,9793.5
+HBAN,Huntington Bancshares,Midwest,Financials,Huntington Bancshares,500,5655,1411,15664,OH,no,no,yes,8398.6
+HCA,HCA Healthcare,South,Health Care,HCA Healthcare,65,51336,3505,245000,TN,no,no,yes,56831
+HD,Home Depot,South,Consumer Discretionary,Home Depot,26,110225,11242,415700,GA,no,no,yes,295312
+HES,Hess Corporation,Northeast,Energy,Hess,461,6510,-408,1775,NY,no,no,no,10163.6
+HIG,The Hartford,Northeast,Financials,Hartford Financial Services Group,160,20740,2085,19500,CT,no,no,yes,12624.8
+HII,Huntington Ingalls Industries,South,Industrials,Huntington Ingalls Industries,357,8899,549,42000,VA,no,no,yes,7420.3
+HLT,Hilton Worldwide,South,Consumer Discretionary,Hilton Worldwide Holdings,338,9452,881,173000,VA,no,no,yes,29881
+HOLX,Hologic,Northeast,Health Care,Hologic,718,3367.3,-203.6,6478,MA,no,no,no,9270.9
+HON,Honeywell,South,Industrials,Honeywell International,92,36709,6143,113000,NC,no,no,yes,146007
+HPE,Hewlett Packard Enterprise,South,Information Technology,Hewlett Packard Enterprise,109,29135,1049,61600,CA,no,no,yes,15962
+HPQ,HP,West,Information Technology,HP,58,58756,3152,56000,CA,no,no,yes,32499
+HRL,Hormel,Midwest,Consumer Staples,Hormel Foods,337,9497.3,978.8,18800,MN,no,no,yes,25081.9
+HSIC,Henry Schein,Northeast,Health Care,Henry Schein,304,10305.3,694.7,19000,NY,no,no,yes,10021
+HST,Host Hotels & Resorts,South,Real Estate,Host Hotels & Resorts,514,5469,920,175,MD,no,no,yes,7792.9
+HSY,The Hershey Company,Northeast,Consumer Staples,Hershey,398,7986.3,1149.7,15330,PA,no,yes,yes,27791.8
+HUM,Humana,South,Health Care,Humana,52,64888,2707,46000,KY,no,no,yes,54438
+HWM,Howmet Aerospace,Northeast,Industrials,Howmet Aerospace,226,14192,470,41700,PA,no,no,yes,7000.9
+IBM,IBM,Northeast,Information Technology,IBM,38,77147,9431,383800,NY,no,no,yes,115909
+ICE,Intercontinental Exchange,South,Financials,Intercontinental Exchange,459,6547,1933,5989,GA,yes,no,yes,56723
+IDXX,Idexx Laboratories,Northeast,Health Care,IDEXX Laboratories,887,2406.9,427.7,9200,ME,no,no,yes,20644.9
+IEX,IDEX Corporation,Midwest,Industrials,IDEX,873,2494.6,425.5,7439,IL,no,no,yes,10529.4
+IFF,International Flavors & Fragrances,Northeast,Materials,International Flavors & Fragrances,540,5140.1,455.9,13668,NY,no,no,yes,10902.4
+ILMN,Illumina,West,Health Care,Illumina,687,3543,1002,7700,CA,no,no,yes,43917
+INCY,Incyte,South,Health Care,Incyte,953,2158.8,446.9,1456,DE,no,no,yes,15874.5
+INFO,IHS Markit,NONUS,Industrials,,,,,,,,,,
+INTC,Intel,West,Information Technology,Intel,45,71965,21048,110800,CA,no,no,yes,202996
+INTU,Intuit,West,Information Technology,Intuit,445,6784,1557,9400,CA,no,no,yes,102329
+IP,International Paper,South,Materials,International Paper,144,22376,1225,51000,TN,no,no,yes,20044
+IPG,Interpublic Group,Northeast,Communication Services,Interpublic Group,308,10221.3,656,54300,NY,no,no,yes,6278.9
+IPGP,IPG Photonics,Northeast,Information Technology,,,,,,,,,,
+IQV,IQVIA,South,Health Care,IQVIA Holdings,290,11088,191,67000,NC,no,no,yes,36532
+IR,Ingersoll Rand,South,Industrials,Ingersoll Rand,881,2451.9,159.1,6600,NC,no,no,yes,10306.3
+IRM,Iron Mountain,Northeast,Real Estate,Iron Mountain,619,4262.6,267.4,25000,MA,no,no,yes,6838.8
+ISRG,Intuitive Surgical,West,Health Care,Intuitive Surgical,597,4478.5,1379.3,7326,CA,no,no,yes,85902
+IT,Gartner,Northeast,Information Technology,Gartner,621,4245.3,233.3,16724,CT,no,no,yes,14427
+ITW,Illinois Tool Works,Midwest,Industrials,Illinois Tool Works,229,14109,2521,45000,IL,no,no,yes,64884
+IVZ,Invesco,South,Financials,,,,,,,,,,
+J,Jacobs Engineering Group,South,Industrials,Jacobs Engineering Group,206,15463.6,848,50000,TX,no,no,yes,14557
+JBHT,J. B. Hunt,South,Industrials,J.B. Hunt Transport Services,346,9165.3,516.3,29056,AR,no,no,yes,9800.3
+JCI,Johnson Controls,NONUS,Industrials,,,,,,,,,,
+JKHY,Jack Henry & Associates,Midwest,Information Technology,,,,,,,,,,
+JNJ,Johnson & Johnson,Northeast,Health Care,Johnson & Johnson,35,82059,15119,132200,NJ,no,no,yes,427473
+JNPR,Juniper Networks,West,Information Technology,Juniper Networks,601,4445.4,345,9419,CA,no,no,yes,6326.3
+JPM,JPMorgan Chase,Northeast,Financials,JPMorgan Chase,17,142422,36431,256981,NY,no,no,yes,414465
+K,Kellogg's,Midwest,Consumer Staples,Kellogg,237,13578,960,31000,MI,no,no,yes,19812
+KEY,KeyCorp,Midwest,Financials,KeyCorp,411,7694,1717,17045,OH,no,no,yes,10057.8
+KEYS,Keysight Technologies,West,Information Technology,Keysight Technologies,617,4303,621,13600,CA,no,no,yes,15681.2
+KHC,Kraft Heinz,Midwest,Consumer Staples,Kraft Heinz,122,24977,1935,37000,IL,no,no,yes,30226.3
+KIM,Kimco Realty,Northeast,Real Estate,,,,,,,,,,
+KLAC,KLA Corporation,West,Information Technology,KLA,588,4568.9,1175.6,10020,CA,no,no,yes,22534.4
+KMB,Kimberly-Clark,South,Consumer Staples,Kimberly-Clark,175,18450,2157,40000,TX,no,no,yes,44691
+KMI,Kinder Morgan,South,Energy,Kinder Morgan,242,13209,2190,11086,TX,no,no,yes,31529.7
+KMX,CarMax,South,Consumer Discretionary,CarMax,173,19146,842.4,25946,VA,no,no,yes,8795
+KO,Coca-Cola,South,Consumer Staples,Coca-Cola,88,37266,8920,86200,GA,no,no,yes,209200
+KR,Kroger,Midwest,Consumer Staples,Kroger,23,122286,1659,435000,OH,no,no,yes,25178
+L,Loews Corporation,Northeast,Financials,Loews,212,14931,932,18605,NY,no,no,yes,10023
+LDOS,Leidos,South,Industrials,Leidos Holdings,289,11094,667,34000,VA,no,no,yes,15605
+LEN,Lennar,South,Consumer Discretionary,Lennar,147,22259.6,1849.1,10106,FL,no,no,yes,25222
+LH,LabCorp,South,Health Care,Laboratory Corp. of America (Labcorp),274,11554.8,823.8,65000,NC,no,no,yes,22394
+LHX,L3Harris Technologies,South,Industrials,L3Harris Technologies,250,12856,1333,50000,FL,no,no,yes,48000
+LIN,Linde,NONUS,Materials,,,,,,,,,,
+LKQ,LKQ Corporation,Midwest,Consumer Discretionary,LKQ,257,12506.1,541.3,51000,IL,no,no,yes,6310.7
+LLY,Eli Lilly,Midwest,Health Care,Eli Lilly,145,22319.5,8318.4,33625,IN,no,no,yes,132760.4
+LMT,Lockheed Martin,South,Industrials,Lockheed Martin,57,59812,6230,110000,MD,no,no,yes,95594
+LNC,Lincoln National,Northeast,Financials,Lincoln National,188,17258,886,11357,PA,no,no,yes,5142.2
+LNT,Alliant Energy,Midwest,Utilities,Alliant Energy,675,3647.7,557.2,3597,WI,no,no,yes,11832.5
+LOW,Lowe's,South,Consumer Discretionary,Lowe&#8217;s,44,72148,4281,260000,NC,no,no,yes,126315
+LRCX,Lam Research,West,Information Technology,Lam Research,331,9653.6,2191.4,10700,CA,no,no,yes,81078
+LUMN,Lumen Technologies,South,Communication Services,Lumen Technologies,143,22401,-5269,42500,LA,no,no,no,10307.1
+LUV,Southwest Airlines,South,Industrials,Southwest Airlines,141,22428,2300,60767,TX,no,no,yes,28467
+LVS,Las Vegas Sands,West,Consumer Discretionary,Las Vegas Sands,235,13739,2698,50000,NV,yes,no,yes,41576
+LW,Lamb Weston,West,Consumer Staples,Lamb Weston Holdings,665,3756.5,478.6,7600,ID,no,no,yes,8341.9
+LYB,LyondellBasell,NONUS,Materials,,,,,,,,,,
+LYV,Live Nation Entertainment,West,Communication Services,Live Nation Entertainment,275,11548,69.9,18200,CA,no,no,yes,16009
+MA,Mastercard,Northeast,Information Technology,Mastercard,191,16883,8118,18600,NY,no,no,yes,333881
+MAA,Mid-America Apartments,South,Real Estate,,,,,,,,,,
+MAR,Marriott International,South,Consumer Discretionary,Marriott International,157,20972,1273,174000,MD,no,no,yes,41103
+MAS,Masco,Midwest,Industrials,Masco,384,8235,935,22000,MI,no,no,yes,9118
+MCD,McDonald's,Midwest,Consumer Discretionary,McDonald&#8217;s,156,21076.5,6025.4,205000,IL,no,no,yes,159179
+MCHP,Microchip Technology,West,Information Technology,Microchip Technology,522,5349.5,355.9,18286,AZ,no,no,yes,25937
+MCK,McKesson Corporation,South,Health Care,McKesson,8,214319,34,70000,TX,no,no,yes,29570
+MCO,Moody's,Northeast,Financials,Moody&#8217;s,561,4829,1422,11081,NY,no,no,yes,39594.4
+MDLZ,Mondelez International,Midwest,Consumer Staples,Mondelez International,117,25868,3870,80000,IL,no,no,yes,81663
+MDT,Medtronic,NONUS,Health Care,,,,,,,,,,
+MET,MetLife,Northeast,Financials,MetLife,48,69620,5899,49000,NY,no,no,yes,46483
+MGM,MGM Resorts International,West,Consumer Discretionary,MGM Resorts International,249,12899.7,2049.1,72000,NV,no,no,yes,15366
+MHK,Mohawk Industries,South,Consumer Discretionary,Mohawk Industries,321,9970.7,744.2,41800,GA,no,no,yes,5464.3
+MKC,McCormick & Company,South,Consumer Staples,McCormick,523,5347.4,702.7,12400,MD,no,no,yes,18767.4
+MKTX,MarketAxess,Northeast,Financials,,,,,,,,,,
+MLM,Martin Marietta Materials,South,Materials,Martin Marietta Materials,572,4739.1,611.9,8846,NC,no,no,yes,11769.9
+MMC,Marsh & McLennan,Northeast,Financials,Marsh & McLennan,195,16652,1742,76000,NY,no,no,yes,43567
+MMM,3M,Midwest,Industrials,3M,103,32136,4570,96163,MN,no,no,yes,98187
+MNST,Monster Beverage,West,Consumer Staples,Monster Beverage,624,4200.8,1107.8,3092,CA,no,no,yes,30205.8
+MO,Altria Group,South,Consumer Staples,Altria Group,167,19796,-1293,7300,VA,no,no,no,71863
+MOS,The Mosaic Company,South,Materials,Mosaic,356,8906.3,-1067.4,12600,FL,no,no,no,4098.2
+MPC,Marathon Petroleum,Midwest,Energy,Marathon Petroleum,22,124813,2637,60910,OH,no,no,yes,24840
+MPWR,Monolithic Power Systems,West,Information Technology,,,,,,,,,,
+MRK,Merck,Northeast,Health Care,Merck,69,46840,9843,71000,NJ,no,no,yes,208627
+MRNA,Moderna,Northeast,Health Care,,,,,,,,,,
+MRO,Marathon Oil,South,Energy,Marathon Oil,534,5190,480,2000,TX,no,no,yes,2618.3
+MS,Morgan Stanley,Northeast,Financials,Morgan Stanley,61,53823,9042,60431,NY,no,no,yes,135401
+MSCI,MSCI,Northeast,Financials,,,,,,,,,,
+MSFT,Microsoft,West,Information Technology,Microsoft,21,125843,39240,144000,WA,no,no,yes,1696122
+MSI,Motorola Solutions,Midwest,Information Technology,Motorola Solutions,403,7887,868,17000,IL,no,no,yes,29314
+MTB,M&T Bank,Northeast,Financials,M&T Bank,438,6941.3,1929.1,17386,NY,no,no,yes,18440
+MTCH,Match Group,South,Communication Services,,,,,,,,,,
+MTD,Mettler Toledo,Midwest,Health Care,Mettler-Toledo International,780,3008.7,561.1,15525,OH,no,no,yes,16558.8
+MU,Micron Technology,West,Information Technology,Micron Technology,134,23406,6313,37000,ID,no,no,yes,46778.5
+NCLH,Norwegian Cruise Line Holdings,South,Consumer Discretionary,,,,,,,,,,
+NDAQ,Nasdaq,Northeast,Financials,Nasdaq,620,4262,774,4361,NY,no,yes,yes,23370
+NEE,NextEra Energy,South,Utilities,NextEra Energy,172,19204,3769,14800,FL,no,no,yes,164661
+NEM,Newmont,West,Materials,Newmont,328,9740,2805,16600,CO,no,no,yes,51030
+NFLX,Netflix,West,Communication Services,Netflix,164,20156.4,1866.9,8600,CA,yes,no,yes,259043
+NI,NiSource,Midwest,Utilities,NiSource,533,5208.9,383.1,8363,IN,no,no,yes,9545.1
+NKE,Nike,West,Consumer Discretionary,Nike,85,39117,4029,76700,OR,no,no,yes,225123
+NLOK,NortonLifeLock,West,Information Technology,NortonLifeLock,573,4731,31,11900,AZ,no,no,yes,11233.2
+NLSN,Nielsen Holdings,Northeast,Industrials,,,,,,,,,,
+NOC,Northrop Grumman,South,Industrials,Northrop Grumman,96,33841,2248,90000,VA,no,yes,yes,49812
+NOW,ServiceNow,West,Information Technology,ServiceNow,703,3460.4,626.7,10371,CA,no,no,yes,105782
+NRG,NRG Energy,South,Utilities,NRG Energy,324,9871,4438,4577,NJ,no,no,yes,6829.8
+NSC,Norfolk Southern,South,Industrials,Norfolk Southern,283,11296,2722,24587,VA,no,no,yes,37537.3
+NTAP,NetApp,West,Information Technology,NetApp,478,6146,1169,10500,CA,no,no,yes,9220.9
+NTRS,Northern Trust,Midwest,Financials,Northern Trust,440,6895.1,1492.2,19800,IL,no,no,yes,19730
+NUE,Nucor,South,Materials,Nucor,139,22588.9,1271.1,26800,NC,no,no,yes,16836
+NVDA,Nvidia,West,Information Technology,Nvidia,292,10918,2796,13775,CA,yes,no,yes,330936
+NVR,NVR,South,Consumer Discretionary,NVR,417,7428.4,878.5,5700,VA,no,no,yes,15920
+NWL,Newell Brands,South,Consumer Discretionary,Newell Brands,316,10083.1,106.6,30000,GA,no,no,yes,5949.1
+NWS,News Corp (Class B),Northeast,Communication Services,,,,,,,,,,
+NWSA,News Corp (Class A),Northeast,Communication Services,News Corp.,318,10074,155,28000,NY,no,no,yes,5279.7
+NXPI,NXP,NONUS,Information Technology,,,,,,,,,,
+O,Realty Income Corporation,West,Real Estate,,,,,,,,,,
+ODFL,Old Dominion Freight Line,South,Industrials,Old Dominion Freight Line,634,4109.1,615.5,20105,NC,no,no,yes,15691.6
+OGN,Organon & Co.,Northeast,Health Care,,,,,,,,,,
+OKE,Oneok,South,Energy,Oneok,313,10164.4,1278.6,2882,OK,no,no,yes,9014.5
+OMC,Omnicom Group,Northeast,Communication Services,Omnicom Group,211,14953.7,1339.1,70000,NY,no,no,yes,11906
+ORCL,Oracle,South,Information Technology,Oracle,82,39506,11083,136000,CA,no,yes,yes,170158
+ORLY,O'Reilly Automotive,Midwest,Consumer Discretionary,O&#8217;Reilly Automotive,314,10150,1391,67663,MO,no,no,yes,22353.4
+OTIS,Otis Worldwide,Northeast,Industrials,,,,,,,,,,
+OXY,Occidental Petroleum,South,Energy,Occidental Petroleum,148,21971,-667,14400,TX,no,yes,no,21437
+PAYC,Paycom,South,Information Technology,,,,,,,,,,
+PAYX,Paychex,Northeast,Information Technology,Paychex,662,3772.5,1034.4,15450,NY,no,no,yes,32212
+PBCT,People's United Financial,Northeast,Financials,People's United Financial,916,2312.2,520.4,6305,CT,no,no,yes,4792.8
+PCAR,Paccar,West,Industrials,Paccar,118,25599.7,2387.9,27000,WA,no,no,yes,30969
+PEAK,Healthpeak Properties,West,Real Estate,Healthpeak Properties,998,1997.4,45.5,204,CA,no,no,yes,12059.3
+PEG,Public Service Enterprise Group,Northeast,Utilities,Public Service Enterprise Group,317,10076,1693,12992,NJ,no,no,yes,22685.3
+PENN,Penn National Gaming,Northeast,Consumer Discretionary,Penn National Gaming,527,5301.4,43.9,28300,PA,no,no,yes,1478.3
+PEP,PepsiCo,Northeast,Consumer Staples,PepsiCo,51,67161,7314,267000,NY,no,no,yes,195312
+PFE,Pfizer,Northeast,Health Care,Pfizer,64,51750,16273,88300,NY,no,no,yes,202882
+PFG,Principal Financial Group,Midwest,Financials,Principal Financial,201,16222.1,1394.2,17601,IA,no,no,yes,14748
+PG,Procter & Gamble,Midwest,Consumer Staples,Procter & Gamble,50,67684,3897,97000,OH,no,no,yes,324875
+PGR,Progressive Corporation,Midwest,Financials,Progressive,86,39022.3,3970.3,41571,OH,no,yes,yes,56224
+PH,Parker-Hannifin,Midwest,Industrials,Parker-Hannifin,224,14320.3,1512.4,55610,OH,no,no,yes,16652.5
+PHM,PulteGroup,South,Consumer Discretionary,PulteGroup,309,10213,1016.7,5245,GA,no,no,yes,12518
+PKG,Packaging Corporation of America,Midwest,Materials,Packaging Corp. of America,437,6964.3,696.4,15500,IL,no,no,yes,13321
+PKI,PerkinElmer,Northeast,Health Care,PerkinElmer,809,2883.7,227.6,13000,MA,no,no,yes,8379
+PLD,Prologis,West,Real Estate,Prologis,727,3330.6,1573,1712,CA,no,no,yes,59400.6
+PM,Philip Morris International,Northeast,Consumer Staples,Philip Morris International,107,29805,7185,73500,NY,no,no,yes,119615
+PNC,PNC Financial Services,Northeast,Financials,PNC Financial Services Group,151,21624,5369,50968,PA,no,no,yes,66208
+PNR,Pentair,NONUS,Industrials,,,,,,,,,,
+PNW,Pinnacle West Capital,West,Utilities,Pinnacle West Capital,701,3471.2,538.3,6210,AZ,no,no,yes,8521.8
+POOL,Pool Corporation,South,Consumer Discretionary,Pool,747,3199.5,261.6,4500,LA,no,no,yes,7921.2
+PPG,PPG Industries,Northeast,Materials,PPG Industries,209,15146,1243,47600,PA,no,no,yes,34144
+PPL,PPL,Northeast,Utilities,PPL,408,7769,1746,12280,PA,no,no,yes,18949.6
+PRU,Prudential Financial,Northeast,Financials,Prudential Financial (U.S.),53,64807,4186,51511,NJ,no,no,yes,33268
+PSA,Public Storage,West,Real Estate,Public Storage,813,2846.8,1520.5,5900,CA,no,no,yes,34684.6
+PSX,Phillips 66,South,Energy,Phillips 66,27,109559,3076,14500,TX,no,no,yes,27084
+PTC,PTC,Northeast,Information Technology,,,,,,,,,,
+PVH,PVH,Northeast,Consumer Discretionary,PVH,322,9909,417.3,30750,NY,no,no,yes,2746.2
+PWR,Quanta Services,South,Industrials,Quanta Services,261,12112.2,402,40300,TX,no,no,yes,11008
+PXD,Pioneer Natural Resources,South,Energy,Pioneer Natural Resources,341,9304,756,2323,TX,no,no,yes,11624.9
+PYPL,PayPal,West,Information Technology,PayPal Holdings,182,17772,2459,23200,CA,no,no,yes,286198
+QCOM,Qualcomm,West,Information Technology,Qualcomm,126,24273,4386,37000,CA,no,no,yes,186163
+QRVO,Qorvo,South,Information Technology,Qorvo,765,3090.3,133.1,8100,NC,no,no,yes,9327.7
+RCL,Royal Caribbean Group,South,Consumer Discretionary,,,,,,,,,,
+RE,Everest Re,NONUS,Financials,,,,,,,,,,
+REG,Regency Centers,South,Real Estate,,,,,,,,,,
+REGN,Regeneron Pharmaceuticals,Northeast,Health Care,Regeneron Pharmaceuticals,405,7863.4,2115.8,8100,NY,yes,no,yes,61028
+RF,Regions Financial Corporation,South,Financials,Regions Financial,446,6755,1582,19564,AL,no,no,yes,8587.8
+RHI,Robert Half International,West,Industrials,Robert Half International,482,6074.4,454.4,16000,CA,no,no,yes,7602
+RJF,Raymond James Financial,South,Financials,Raymond James Financial,396,8023,1034,14200,FL,no,no,yes,14236
+RL,Ralph Lauren Corporation,Northeast,Consumer Discretionary,Ralph Lauren,469,6313,430.9,18650,NY,no,no,yes,4928.3
+RMD,ResMed,West,Health Care,ResMed,858,2606.6,404.6,7240,CA,no,no,yes,21300.6
+ROK,Rockwell Automation,Midwest,Industrials,Rockwell Automation,452,6694.8,695.8,23000,WI,no,no,yes,17533.3
+ROL,Rollins,South,Industrials,Rollins,993,2015.5,203.3,14952,GA,no,no,yes,11845.9
+ROP,Roper Technologies,South,Industrials,Roper Technologies,518,5366.8,1767.9,16460,FL,no,no,yes,33086.1
+ROST,Ross Stores,West,Consumer Discretionary,Ross Stores,202,16039.1,1660.9,92500,CA,no,yes,yes,30952.3
+RSG,Republic Services,West,Industrials,Republic Services,305,10299.4,1073.3,36000,AZ,no,no,yes,30177
+RTX,Raytheon Technologies,Northeast,Industrials,Raytheon Technologies,39,77046,5537,243200,MA,no,no,yes,104549
+SBAC,SBA Communications,South,Real Estate,SBA Communications,994,2014.6,147,1475,FL,no,no,yes,30217.6
+SBNY,Signature Bank,Northeast,Financials,,,,,,,,,,
+SBUX,Starbucks,West,Consumer Discretionary,Starbucks,114,26508.6,3599.2,346000,WA,no,no,yes,123779
+SCHW,Charles Schwab,South,Financials,Charles Schwab,271,11785,3704,19700,CA,no,no,yes,109983
+SEDG,SolarEdge,NONUS,Information Technology,,,,,,,,,,
+SEE,Sealed Air,South,Materials,Sealed Air,564,4791.1,263,16500,NC,no,no,yes,3821.9
+SHW,Sherwin-Williams,Midwest,Materials,Sherwin-Williams,180,17900.8,1541.3,61111,OH,no,no,yes,42185.8
+SIVB,SVB Financial,West,Financials,SVB Financial Group,688,3530.9,1136.9,3564,CA,no,no,yes,12272
+SJM,JM Smucker,Midwest,Consumer Staples,J.M. Smucker,407,7838,514.4,7400,OH,no,no,yes,12658.2
+SLB,Schlumberger,NONUS,Energy,,,,,,,,,,
+SNA,Snap-on,Midwest,Industrials,Snap-on,637,4067.7,693.5,12800,WI,no,no,yes,5951.1
+SNPS,Synopsys,West,Information Technology,Synopsys,723,3360.7,532.4,13896,CA,yes,no,yes,30028
+SO,Southern Company,South,Utilities,Southern Company,153,21419,4739,27943,GA,no,no,yes,64062
+SPG,Simon Property Group,Midwest,Real Estate,Simon Property Group,497,5755.2,2101.6,3750,IN,no,no,yes,31269
+SPGI,S&P Global,Northeast,Financials,S&P Global,451,6699,2123,22500,NY,no,no,yes,77459
+SRE,Sempra Energy,West,Utilities,Sempra Energy,258,12443,2197,13969,CA,no,no,yes,35542
+STE,Steris,NONUS,Health Care,,,,,,,,,,
+STT,State Street Corporation,Northeast,Financials,State Street,244,13131,2242,39103,MA,no,no,yes,27066
+STX,Seagate Technology,NONUS,Information Technology,,,,,,,,,,
+STZ,Constellation Brands,Northeast,Consumer Staples,Constellation Brands,392,8116,3435.9,9800,NY,no,no,yes,27601.3
+SWK,Stanley Black & Decker,Northeast,Industrials,Stanley Black & Decker,220,14442.2,955.8,59438,CT,no,no,yes,28209
+SWKS,Skyworks Solutions,Northeast,Information Technology,Skyworks Solutions,714,3376.8,853.6,9000,CA,no,no,yes,15155.5
+SYF,Synchrony Financial,Northeast,Financials,Synchrony Financial,170,19461,3747,16500,CT,no,yes,yes,9870.8
+SYK,Stryker Corporation,Midwest,Health Care,Stryker,214,14884,2083,40000,MI,no,no,yes,92148
+SYY,Sysco,South,Consumer Staples,Sysco,56,60113.9,1674.3,69000,TX,no,no,yes,26828
+T,AT&T,South,Communication Services,AT&T,9,181193,13903,247800,TX,no,no,yes,206369
+TAP,Molson Coors,Midwest,Consumer Staples,Molson Coors Beverage,298,10579.4,241.7,17700,CO,no,no,yes,8441
+TDG,TransDigm Group,Midwest,Industrials,TransDigm Group,513,5517.2,889.8,18300,OH,no,no,yes,17190.3
+TDY,Teledyne Technologies,West,Industrials,Teledyne Technologies,751,3163.6,402.3,11790,CA,no,no,yes,10893.1
+TECH,Bio-Techne,Midwest,Health Care,,,,,,,,,,
+TEL,TE Connectivity,NONUS,Information Technology,,,,,,,,,,
+TER,Teradyne,Northeast,Information Technology,Teradyne,921,2295,467.5,5400,MA,no,no,yes,9025.5
+TFC,Truist Financial,South,Financials,Truist Financial,217,14664,3224,59000,NC,no,no,yes,69604
+TFX,Teleflex,Northeast,Health Care,Teleflex,859,2595.4,461.5,14400,PA,no,no,yes,13580.1
+TGT,Target,Midwest,Consumer Discretionary,Target,37,78112,3281,368000,MN,no,no,yes,94296
+TJX,TJX Companies,Northeast,Consumer Discretionary,TJX,80,41717,3272.2,286000,MA,no,no,yes,81992
+TMO,Thermo Fisher Scientific,Northeast,Health Care,Thermo Fisher Scientific,119,25542,3696,75000,MA,no,no,yes,204446
+TMUS,T-Mobile US,West,Communication Services,,,,,,,,,,
+TPR,Tapestry,Northeast,Consumer Discretionary,Tapestry,485,6027.1,643.4,17400,NY,no,yes,yes,3574.6
+TRMB,Trimble,West,Information Technology,Trimble,738,3264.3,514.3,11484,CA,no,no,yes,7962.8
+TROW,T. Rowe Price,South,Financials,T. Rowe Price,504,5617.9,2131.3,7365,MD,no,no,yes,36126
+TRV,The Travelers Companies,Northeast,Financials,Travelers Cos.,106,31581,2622,30800,NY,no,no,yes,36735
+TSCO,Tractor Supply Company,South,Consumer Discretionary,Tractor Supply,380,8351.9,562.4,24000,TN,no,no,yes,9809.9
+TSLA,Tesla,West,Consumer Discretionary,Tesla,124,24578,-862,48016,CA,yes,no,no,806143
+TSN,Tyson Foods,South,Consumer Staples,Tyson Foods,79,42405,2022,141000,AR,no,no,yes,24169
+TT,Trane Technologies,NONUS,Industrials,,,,,,,,,,
+TTWO,Take-Two Interactive,Northeast,Communication Services,Take-Two Interactive Software,845,2668.4,333.8,4894,NY,no,no,yes,18790
+TWTR,Twitter,West,Communication Services,Twitter,704,3459.3,1465.7,4900,CA,yes,no,yes,35536
+TXN,Texas Instruments,South,Information Technology,Texas Instruments,222,14383,5017,29768,TX,no,no,yes,159107
+TXT,Textron,Northeast,Industrials,Textron,236,13630,815,35000,RI,no,no,yes,6071.3
+TYL,Tyler Technologies,South,Information Technology,,,,,,,,,,
+UA,Under Armour (Class C),South,Consumer Discretionary,,,,,,,,,,
+UAA,Under Armour (Class A),South,Consumer Discretionary,Under Armour,529,5267.1,92.1,11700,MD,no,no,yes,3878.1
+UAL,United Airlines,Midwest,Industrials,United Airlines Holdings,76,43259,3009,96000,IL,no,no,yes,9114
+UDR,UDR,West,Real Estate,,,,,,,,,,
+UHS,Universal Health Services,Northeast,Health Care,Universal Health Services,281,11378.3,814.9,79050,PA,no,no,yes,11193
+ULTA,Ulta Beauty,Midwest,Consumer Discretionary,Ulta Beauty,418,7398.1,705.9,31000,IL,no,yes,yes,9893.6
+UNH,UnitedHealth Group,Midwest,Health Care,UnitedHealth Group,7,242155,13839,325000,MN,no,no,yes,332885
+UNP,Union Pacific,Midwest,Industrials,Union Pacific,149,21708,5919,37483,NE,no,no,yes,147025
+UPS,United Parcel Service,South,Industrials,UPS,43,74094,4440,377640,GA,no,yes,yes,138166
+URI,United Rentals,Northeast,Industrials,United Rentals,340,9351,1174,19100,CT,no,no,yes,12557
+USB,U.S. Bancorp,Midwest,Financials,U.S. Bancorp,113,27325,6914,69651,MN,no,no,yes,68690
+V,Visa,West,Information Technology,Visa,137,22977,12080,19500,CA,no,no,yes,496377
+VFC,VF Corporation,West,Consumer Discretionary,VF,233,13870.6,1259.8,75000,CO,no,no,yes,32110
+VIAC,ViacomCBS,Northeast,Communication Services,ViacomCBS,111,27812,3308,26280,NY,no,no,yes,16130
+VLO,Valero Energy,South,Energy,Valero Energy,32,102729,2422,10222,TX,no,no,yes,22928
+VMC,Vulcan Materials,South,Materials,Vulcan Materials,551,4929.1,617.7,9173,AL,no,no,yes,14325.2
+VNO,Vornado Realty Trust,Northeast,Real Estate,,,,,,,,,,
+VRSK,Verisk Analytics,Northeast,Industrials,Verisk Analytics,857,2607.1,449.9,9180,NJ,no,no,yes,22729.5
+VRSN,Verisign,South,Information Technology,,,,,,,,,,
+VRTX,Vertex Pharmaceuticals,Northeast,Health Care,Vertex Pharmaceuticals,626,4162.8,1176.8,3000,MA,no,no,yes,55963
+VTR,Ventas,Midwest,Real Estate,Ventas,655,3872.8,433,516,IL,no,yes,yes,9992.7
+VTRS,Viatris,Northeast,Health Care,,,,,,,,,,
+VZ,Verizon Communications,Northeast,Communication Services,Verizon Communications,20,131868,19265,135000,NY,no,no,yes,236948
+WAB,Wabtec,Northeast,Industrials,Westinghouse Air Brake,388,8200,326.7,27500,PA,no,no,yes,9227.1
+WAT,Waters Corporation,Northeast,Health Care,Waters,889,2406.6,592.2,7467,MA,no,no,yes,11315.9
+WBA,Walgreens Boots Alliance,Midwest,Consumer Staples,Walgreens Boots Alliance,19,136866,3982,287000,IL,no,no,yes,41552
+WDC,Western Digital,West,Information Technology,Western Digital,198,16569,-754,61800,CA,no,no,no,15766
+WEC,WEC Energy Group,Midwest,Utilities,WEC Energy Group,416,7523.1,1134,7509,WI,no,no,yes,27799.2
+WELL,Welltower,Midwest,Real Estate,Welltower,542,5121.3,1232.4,443,OH,no,no,yes,18795.2
+WFC,Wells Fargo,West,Financials,Wells Fargo,30,103915,19549,259800,CA,no,no,yes,99941
+WHR,Whirlpool Corporation,Midwest,Consumer Discretionary,Whirlpool,162,20419,1184,77000,MI,no,no,yes,12242
+WLTW,Willis Towers Watson,NONUS,Financials,,,,,,,,,,
+WM,Waste Management,South,Industrials,Waste Management,207,15455,1670,44900,TX,no,no,yes,48621
+WMB,Williams Companies,South,Energy,Williams,387,8201,850,4812,OK,no,no,yes,17165.7
+WMT,Walmart,South,Consumer Staples,Walmart,1,523964,14881,2200000,AR,no,no,yes,411690
+WRB,W. R. Berkley Corporation,Northeast,Financials,W.R. Berkley,402,7902.2,681.9,7493,CT,no,no,yes,9569.1
+WRK,WestRock,South,Materials,WestRock,177,18289,862.9,51100,GA,no,no,yes,11971
+WST,West Pharmaceutical Services,Northeast,Health Care,,,,,,,,,,
+WY,Weyerhaeuser,West,Real Estate,Weyerhaeuser,457,6554,-76,9400,WA,no,no,no,12636.5
+WYNN,Wynn Resorts,West,Consumer Discretionary,Wynn Resorts,454,6611.1,123,30200,NV,no,no,yes,11874
+XEL,Xcel Energy,Midwest,Utilities,Xcel Energy,276,11529,1372,11295,MN,no,no,yes,34381
+XLNX,Xilinx,West,Information Technology,Xilinx,772,3059,889.8,4433,CA,no,no,yes,19394.3
+XOM,ExxonMobil,South,Energy,Exxon Mobil,3,264938,14340,74900,TX,no,no,yes,177923
+XRAY,Dentsply Sirona,South,Health Care,Dentsply Sirona,642,4029.2,262.9,15200,NC,no,no,yes,8598.5
+XYL,Xylem,Northeast,Industrials,Xylem,530,5249,401,16300,NY,no,no,yes,11737.9
+YUM,Yum! Brands,South,Consumer Discretionary,Yum Brands,505,5597,1294,34000,KY,no,no,yes,33006
+ZBH,Zimmer Biomet,Midwest,Health Care,Zimmer Biomet Holdings,399,7982.2,1131.6,19900,IN,no,no,yes,20891.4
+ZBRA,Zebra Technologies,Midwest,Information Technology,Zebra Technologies,596,4485,544,8200,IL,no,no,yes,9916
+ZION,Zions Bancorp,West,Financials,Zions Bancorp.,740,3245,816,10188,UT,no,no,yes,4389
+ZTS,Zoetis,Northeast,Health Care,Zoetis,472,6260,1500,10600,NJ,no,yes,yes,55895
