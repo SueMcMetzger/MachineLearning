@@ -1,6 +1,0 @@
-Month,DayofWeek,AgeOfMother,MotherEducationLevel,PriorBirths,MonthsPrenatalCare,NumPrenatalVisits,BMI_Index,WeightGainIndex,PrePregDiabetes,GestationalDiabetes,BabySex,BirthWeightGrams,BirthWeightIndex,HourOfBirth,NativityOfMother,RaceOfMother,Married,Smoker,Hypertension
-9,4,25,6,2,2,13,3,3,0,0,M,3260,7,7,US,White,1,0,0
-2,5,35,8,1,2,8,2,3,0,0,F,2315,5,17,US,White,0,0,0
-9,7,32,4,2,3,6,6,3,0,0,M,3459,7,3,US,White,0,1,0
-6,7,33,6,0,3,11,3,5,0,0,F,3510,8,21,US,White,1,0,0
-10,3,34,6,1,2,14,2,4,0,0,F,3020,7,16,Non-US,Asian,1,0,0
