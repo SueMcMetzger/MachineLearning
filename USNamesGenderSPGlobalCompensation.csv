@@ -1,4 +1,4 @@
-﻿First Name,Gender Firstname,Gender,GenderAccuracy,GenderSampleSize
+﻿FirstName,GenderFirstname,Gender,GenderAccuracy,GenderSampleSize
 Laurence,Laurence,female,98,459
 Francois,Francois,male,98,219
 Tyler,Tyler,male,97,15339
