@@ -1,7 +1,0 @@
-﻿TICKER,PERMNO,DATE,RET,alpha,R2,exret,Year,boardid,Sector,GenderRatio,NationalityMix,NumberDirectors,STDEVTimeBrd,STDEVTimeInCo,STDEVTotNoLstdBrd,STDEVNoQuals,STDEVAge
-MSFT,10107,12/30/2022,-6,0.0047,46.20,0.60,2022,20601,Software & Computer Services,0.583,0.4,12,2.6,5.4,2.3,0.7,5.6
-BA,19561,12/30/2022,6.49,0.0034,35.86,13.07,2022,4730,Aerospace & Defence,0.75,0,12,4.4,4.4,2.7,0.8,4.9
-JNJ,22111,12/30/2022,-0.76,0.0033,35.13,2.26,2022,17478,Pharmaceuticals and Biotechnology,0.643,0.3,14,4.3,4.7,2.7,1.8,5.4
-MCD,43449,12/30/2022,-3.39,0.0077,31.73,0.42,2022,19944,Leisure & Hotels,0.733,0.2,15,8.3,8.2,4.9,0.6,6.7
-NKE,57665,12/30/2022,6.98,0.0079,32.33,12.45,2022,22209,Clothing & Personal Products,0.636,0,11,5.7,11.3,2.7,0.9,7.2
-CRM,90215,12/30/2022,-17.26,0.0106,35.85,-7.66,2022,69444,Software & Computer Services,0.692,0.2,13,7.5,7.5,2.4,0.7,12.2
