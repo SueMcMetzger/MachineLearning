@@ -1,6 +1,6 @@
-Month,DayofWeek,AgeOfMother,MotherEducationLevel,PriorBirths,MonthsPrenatalCare,NumPrenatalVisits,BMI_Index,WeightGainIndex,PrePregDiabetes,GestationalDiabetes,BabySex,HourOfBirth,NativityOfMother,RaceOfMother,Married,Smoker,Hypertension
-4,2,38,6,1,1,15,2,3,0,0,M,15,US,White,1,0,0
-9,5,29,3,1,6,8,2,4,0,0,F,12,US,Black,0,0,0
-5,3,31,2,0,2,16,5,1,0,0,M,17,US,White,1,0,0
-4,4,26,3,0,2,7,2,4,0,0,F,3,US,White,1,0,0
-8,3,20,2,0,3,9,5,1,0,0,F,10,US,MoreThanOneRace,0,1,0
+Baby Female,Baby Non-cephalic at Birth,Birth Place Hospital,Cigarettes,C-Section,Day of Week,Father Age Bracket,Father Education,Father Race Recode 6,Gestation Recode 10,Married,Month,Month Prenatal Care Began Recoded,Mother Age,Mother BMI,Mother Born in US,Mother Education,Mother Height,Mother Race,No Known Infections,No Known Risk Factors,No Prenatal Visits,No Prenatal Visits Recoded,Plurality,Time of Birth,US Resident,Weight Gain Recoded
+1,0,0,0,0,7,7,5,1,10,1,1,3,37,25.8,1,6,67,1,0,0,10,6,1,1218,1,
+1,0,1,0,0,2,2,2,1,8,0,1,1,19,18.6,1,2,66,1,0,0,13,8,1,1122,1,1
+0,0,1,0,1,3,6,6,4,5,1,1,1,36,23.6,1,6,66,1,0,0,4,3,1,1954,1,4
+1,0,1,0,0,3,,,,7,0,5,1,32,30.8,1,4,65,1,0,1,3,3,1,1236,1,5
+1,0,1,0,0,7,6,,,8,1,5,1,37,23.4,1,8,62,1,0,0,9,6,1,1007,1,3
