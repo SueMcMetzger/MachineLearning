@@ -1,0 +1,1001 @@
+Rank,Company,Ticker,Sector,Profitable,Founder_is_CEO,FemaleCEO,Growth_in_Jobs,Change_in_Rank,Newcomer_to_the_Fortune500,Global500,Number_of_employees,MarketCap_March28_M,Assets_M,Headquarters,CompanyType
+1,Walmart,WMT,Retailing,yes,no,no,no,0,no,yes,2100000,484852.8,252399,Arkansas,Public
+2,Amazon,AMZN,Retailing,yes,no,no,no,0,no,yes,1525000,1873675.8,527854,Washington,Public
+3,Apple,AAPL,Technology,yes,no,no,no,1,no,yes,161000,2647973.8,352583,California,Public
+4,UnitedHealth Group,UNH,Health Care,yes,no,no,yes,1,no,yes,440000,456080.8,273720,Minnesota,Public
+5,Berkshire Hathaway,BRKA,Financials,yes,no,no,yes,2,no,yes,396500,908919.7,1069978,Nebraska,Public
+6,CVS Health,CVS,Health Care,yes,no,yes,no,0,no,yes,259500,100373.9,249728,Rhode Island,Public
+7,Exxon Mobil,XOM,Energy,yes,no,no,no,-4,no,yes,61500,461222.2,376317,Texas,Public
+8,Alphabet,GOOGL,Technology,yes,no,no,no,0,no,yes,182502,1884633,402392,California,Public
+9,McKesson,MCK,Health Care,yes,no,no,no,0,no,yes,48000,70546.5,62320,Texas,Public
+10,Cencora,COR,Health Care,yes,no,no,yes,1,no,yes,44000,48472.1,62558.7,Pennsylvania,Public
+11,Costco Wholesale,COST,Retailing,yes,no,no,yes,1,no,yes,316000,324924.4,68994,Washington,Public
+12,JPMorgan Chase,JPM,Financials,yes,no,no,yes,11,no,yes,309926,576938.4,3875393,New York,Public
+13,Microsoft,MSFT,Technology,yes,no,no,no,0,no,yes,221000,3126133.1,411976,Washington,Public
+14,Cardinal Health,CAH,Health Care,yes,no,no,yes,0,no,yes,47520,27217.8,43417,Ohio,Public
+15,Chevron,CVX,Energy,yes,no,no,yes,-5,no,yes,45600,292965.6,261632,California,Public
+16,Cigna,CI,Health Care,yes,no,no,yes,-1,no,yes,71413,103017.9,152761,Connecticut,Public
+17,Ford Motor,F,Motor Vehicles & Parts,yes,no,no,yes,2,no,yes,177000,53017.8,273310,Michigan,Public
+18,Bank of America,BAC,Financials,yes,no,no,no,14,no,yes,212985,299213,3180151,North Carolina,Public
+19,General Motors,GM,Motor Vehicles & Parts,yes,no,yes,no,2,no,yes,163000,52353.5,273064,Michigan,Public
+20,Elevance Health,ELV,Health Care,yes,no,yes,yes,2,no,yes,104900,120619.6,108928,Indiana,Public
+21,Citigroup,C,Financials,yes,no,yes,no,15,no,yes,237925,121122.2,2411834,New York,Public
+22,Centene,CNC,Health Care,yes,no,yes,no,3,no,yes,67700,41979.4,84641,Missouri,Public
+23,Home Depot,HD,Retailing,yes,no,no,no,-3,no,yes,463100,380153.7,76530,Georgia,Public
+24,Marathon Petroleum,MPC,Energy,yes,no,no,yes,-8,no,yes,18200,72607.7,85987,Ohio,Public
+25,Kroger,KR,Food & Drug Stores,yes,no,no,no,-1,no,yes,414000,41100.7,50505,Ohio,Public
+26,Phillips 66,PSX,Energy,yes,no,no,yes,-9,no,yes,14000,69880.8,75501,Texas,Public
+27,Fannie Mae,FNMA,Financials,yes,no,yes,yes,1,no,yes,8100,1818.2,4325437,District Of Columbia,Public
+28,Walgreens Boots Alliance,WBA,Food & Drug Stores,no,no,no,yes,-1,no,yes,268500,18712.3,96628,Illinois,Public
+29,Valero Energy,VLO,Energy,yes,no,no,yes,-11,no,yes,9897,56234.5,63056,Texas,Public
+30,Meta Platforms,META,Technology,yes,yes,no,no,1,no,yes,67317,1237940.1,229623,California,Public
+31,Verizon Communications,VZ,Telecommunications,yes,no,no,no,-5,no,yes,105400,176651.6,380255,New York,Public
+32,AT&T,T,Telecommunications,yes,no,no,no,-2,no,yes,150470,125889.1,407060,Texas,Public
+33,Comcast,CMCSA,Telecommunications,yes,no,no,no,-4,no,yes,186000,172180,264811,Pennsylvania,Public
+34,Wells Fargo,WFC,Financials,yes,no,no,no,13,no,yes,226000,205201.8,1932468,California,Public
+35,Goldman Sachs Group,GS,Financials,yes,no,no,no,20,no,yes,45300,135551.7,1641594,New York,Public
+36,Freddie Mac,FMCC,Financials,yes,no,no,yes,9,no,yes,8020,877.6,3280976,Virginia,Public
+37,Target,TGT,Retailing,yes,no,no,no,-4,no,yes,415000,81816.1,55356,Minnesota,Public
+38,Humana,HUM,Health Care,yes,no,no,yes,4,no,yes,67600,41796.7,47065,Kentucky,Public
+39,State Farm Insurance,,Financials,no,no,no,yes,5,no,yes,65054,,339484.7,Illinois,Private
+40,Tesla,TSLA,Motor Vehicles & Parts,yes,yes,no,yes,10,no,yes,140473,559854.3,106618,Texas,Public
+41,Morgan Stanley,MS,Financials,yes,no,no,no,20,no,yes,80006,153976.9,1193693,New York,Public
+42,Johnson & Johnson,JNJ,Health Care,yes,no,no,no,-2,no,yes,131900,381203.6,167558,New Jersey,Public
+43,Archer Daniels Midland,ADM,"Food, Beverages & Tobacco",yes,no,no,no,-8,no,yes,41008,32023.6,54631,Illinois,Public
+44,PepsiCo,PEP,"Food, Beverages & Tobacco",yes,no,no,yes,2,no,yes,318000,240552.8,100495,New York,Public
+45,United Parcel Service,UPS,Transportation,yes,no,yes,no,-8,no,yes,382550,126828.9,70857,Georgia,Public
+46,FedEx,FDX,Transportation,yes,no,no,no,-5,no,yes,446400,71299.4,87143,Tennessee,Public
+47,Walt Disney,DIS,Media,yes,no,no,yes,1,no,yes,199125,224445.2,205579,California,Public
+48,Dell Technologies,DELL,Technology,yes,yes,no,no,-14,no,yes,120000,81450.6,82089,Texas,Public
+49,Lowe's,LOW,Retailing,yes,no,no,no,-10,no,yes,226000,145752.5,41795,North Carolina,Public
+50,Procter & Gamble,PG,Household Products,yes,no,no,yes,1,no,yes,107000,381777.7,120829,Ohio,Public
+51,Energy Transfer,ET,Energy,yes,no,no,yes,-8,no,yes,13786,52974.8,113698,Texas,Public
+52,Boeing,BA,Aerospace & Defense,no,no,no,yes,6,no,yes,171000,117750,137012,Virginia,Public
+53,Albertsons,ACI,Food & Drug Stores,yes,no,no,yes,0,no,yes,198650,12350.3,26168.2,Idaho,Public
+54,Sysco,SYY,Wholesalers,yes,no,no,yes,2,no,yes,71750,40413.8,22821.1,Texas,Public
+55,RTX,RTX,Aerospace & Defense,yes,no,no,yes,2,no,yes,185000,129680.3,161869,Virginia,Public
+56,General Electric,GE,Industrials,yes,no,no,no,-4,no,yes,125000,191901.2,163045,Massachusetts,Public
+57,Lockheed Martin,LMT,Aerospace & Defense,yes,no,no,yes,3,no,yes,122000,109394.2,52456,Maryland,Public
+58,American Express,AXP,Financials,yes,no,no,no,19,no,yes,74600,163945.6,261108,New York,Public
+59,Caterpillar,CAT,Industrials,yes,no,no,yes,9,no,yes,113200,182986.8,87476,Texas,Public
+60,MetLife,MET,Financials,yes,no,no,no,-6,no,yes,45000,53583,687584,New York,Public
+61,HCA Healthcare,HCA,Health Care,yes,no,no,yes,5,no,yes,265000,88213.8,56211,Tennessee,Public
+62,Progressive,PGR,Financials,yes,no,yes,yes,26,no,yes,61432,121134.1,88690.8,Ohio,Public
+63,IBM,IBM,Technology,yes,no,no,no,2,no,yes,296600,175061.6,135241,New York,Public
+64,Deere,DE,Industrials,yes,no,no,yes,17,no,yes,82956,114332.9,104087,Illinois,Public
+65,Nvidia,NVDA,Technology,yes,yes,no,yes,87,no,no,29600,2258900,65728,California,Public
+66,StoneX Group,SNEX,Financials,yes,no,no,yes,-7,no,yes,4137,2216.7,21938.7,New York,Public
+67,Merck,MRK,Health Care,yes,no,no,yes,2,no,yes,71000,334182.4,106675,New Jersey,Public
+68,ConocoPhillips,COP,Energy,yes,no,no,yes,-19,no,yes,9900,149733.3,95924,Texas,Public
+69,Pfizer,PFE,Health Care,yes,no,no,yes,-31,no,yes,88000,157135.5,226501,New York,Public
+70,Delta Air Lines,DAL,Transportation,yes,no,no,yes,15,no,yes,103000,30795.9,73644,Georgia,Public
+71,TD Synnex,SNX,Wholesalers,yes,no,no,no,-7,no,yes,28000,9856.6,29412.8,California,Public
+72,Publix Super Markets,PFE,Food & Drug Stores,yes,no,no,yes,6,no,yes,253000,,34384,Florida,Private
+73,Allstate,ALL,Financials,no,no,no,no,11,no,yes,53200,45513.3,103362,Illinois,Public
+74,Cisco Systems,CSCO,Technology,yes,no,no,yes,8,no,yes,84900,202094.9,101852,California,Public
+75,Nationwide,,Financials,no,no,no,no,8,no,yes,24118,,290615,Ohio,Private
+76,Charter Communications,CHTR,Telecommunications,yes,no,no,no,3,no,yes,101100,51316,147193,Connecticut,Public
+77,AbbVie,ABBV,Health Care,yes,no,no,no,-4,no,yes,50000,322434.8,134711,Illinois,Public
+78,New York Life Insurance,,Financials,yes,no,no,yes,-7,no,yes,15384,,408904.9,New York,Private
+79,Intel,INTC,Technology,yes,no,no,no,-17,no,yes,124800,188026,191572,California,Public
+80,TJX,TJX,Retailing,yes,no,no,yes,7,no,yes,349000,115586,29747,Massachusetts,Public
+81,Prudential Financial,PRU,Financials,yes,no,no,yes,-14,no,yes,40366,42191.2,721123,New Jersey,Public
+82,HP,HPQ,Technology,yes,no,no,no,-19,no,yes,58000,29569.7,37004,California,Public
+83,United Airlines Holdings,UAL,Transportation,yes,no,no,yes,13,no,yes,103300,15705.9,71104,Illinois,Public
+84,Performance Food Group,PFGC,Wholesalers,yes,no,no,no,7,no,yes,34825,11612.9,12499,Virginia,Public
+85,Tyson Foods,TSN,"Food, Beverages & Tobacco",no,no,no,no,-5,no,yes,139000,20928.3,36251,Arkansas,Public
+86,American Airlines Group,AAL,Transportation,yes,no,no,yes,3,no,yes,132100,10050.5,63058,Texas,Public
+87,Liberty Mutual Insurance Group,,Financials,yes,no,no,no,-1,no,yes,45000,,165208,Massachusetts,Private
+88,Nike,NKE,Apparel,yes,no,no,yes,5,no,yes,83700,142391.2,37531,Oregon,Public
+89,Oracle,ORCL,Technology,yes,no,yes,yes,12,no,yes,164000,345240.8,134384,Texas,Public
+90,Enterprise Products Partners,EPD,Energy,yes,no,no,yes,-18,no,yes,7500,63269.4,70982,Texas,Public
+91,Capital One Financial,COF,Financials,yes,yes,no,no,15,no,yes,51987,56891.2,478464,Virginia,Public
+92,Plains GP Holdings,PAGP,Energy,yes,no,no,yes,-18,no,yes,4200,3597.5,28597,Texas,Public
+93,World Kinect,WKC,Energy,yes,no,no,yes,-23,no,yes,5289,1583,7375.3,Florida,Public
+94,AIG,AIG,Financials,yes,no,no,no,-18,no,yes,25200,53230.1,539306,New York,Public
+95,Coca-Cola,KO,"Food, Beverages & Tobacco",yes,no,no,no,5,no,yes,79100,263758.6,97703,Georgia,Public
+96,TIAA,,Financials,no,no,yes,no,7,no,yes,16023,,629369.9,New York,Private
+97,CHS,,"Food, Beverages & Tobacco",yes,no,no,yes,-7,no,yes,10609,,18957.4,Minnesota,Private
+98,Bristol-Myers Squibb,BMY,Health Care,yes,no,no,no,-3,no,yes,34100,109911.1,95159,New Jersey,Public
+99,Dow,DOW,Chemicals,yes,no,no,no,-24,no,yes,35900,40740.3,57967,Michigan,Public
+100,Best Buy,BBY,Retailing,yes,no,yes,yes,-6,no,yes,85000,17667.7,14967,Minnesota,Public
+101,Thermo Fisher Scientific,TMO,Technology,yes,no,no,no,-4,no,yes,122000,221622.5,98726,Massachusetts,Public
+102,Massachusetts Mutual Life Insurance,,Financials,no,no,no,yes,2,no,yes,11323,,397895,Massachusetts,Private
+103,USAA,,Financials,yes,no,no,yes,11,no,yes,37376,,211637.6,Texas,Private
+104,General Dynamics,GD,Aerospace & Defense,yes,no,yes,yes,1,no,yes,111600,77506.3,54810,Virginia,Public
+105,Travelers,TRV,Financials,yes,no,no,yes,7,no,yes,33133,52731,125978,New York,Public
+106,Warner Bros. Discovery,WBD,Media,no,no,no,no,12,no,yes,35300,21298.5,122757,New York,Public
+107,U.S. Bancorp,USB,Financials,yes,no,no,no,42,no,no,75465,69656.5,663491,Minnesota,Public
+108,Abbott Laboratories,ABT,Health Care,yes,no,no,no,-9,no,yes,114000,197221,73214,Illinois,Public
+109,Northrop Grumman,NOC,Aerospace & Defense,yes,no,yes,yes,4,no,yes,101000,70908.8,46544,Virginia,Public
+110,Northwestern Mutual,,Financials,yes,no,no,no,1,no,yes,8239,,358828.6,Wisconsin,Private
+111,Dollar General,DG,Retailing,yes,no,no,yes,-3,no,yes,185800,34281.9,30795.6,Tennessee,Public
+112,PBF Energy,PBF,Energy,yes,no,no,yes,-20,no,yes,3776,6860.3,14387.8,New Jersey,Public
+113,Uber Technologies,UBER,Technology,yes,no,no,no,14,no,yes,30400,160258.1,38699,California,Public
+114,Honeywell International,HON,Industrials,yes,no,no,no,1,no,yes,95000,133860.3,61525,North Carolina,Public
+115,Mondelez International,MDLZ,"Food, Beverages & Tobacco",yes,no,no,no,16,no,yes,91000,94253.4,71391,Illinois,Public
+116,Starbucks,SBUX,"Hotels, Restaurants & Leisure",yes,no,no,no,9,no,yes,381000,103471.8,29445.5,Washington,Public
+117,Qualcomm,QCOM,Technology,yes,no,no,no,-19,no,yes,50000,188938.8,51040,California,Public
+118,Broadcom,AVGO,Technology,yes,no,no,no,5,no,yes,20000,614223.1,72861,California,Public
+119,US Foods Holding,USFD,Wholesalers,yes,no,no,yes,-2,no,yes,30000,13217.4,13187,Illinois,Public
+120,D.R. Horton,DHI,Engineering & Construction,yes,no,no,yes,0,no,yes,13450,54600.5,32582.4,Texas,Public
+121,Philip Morris International,PM,"Food, Beverages & Tobacco",yes,no,no,yes,7,no,yes,82700,142428,65304,Connecticut,Public
+122,Paccar,PCAR,Motor Vehicles & Parts,yes,no,no,yes,18,no,no,32400,64919.7,40823.4,Washington,Public
+123,Salesforce,CRM,Technology,yes,yes,no,no,10,no,yes,72682,292144.6,99823,California,Public
+124,Nucor,NUE,Materials,yes,no,no,yes,-22,no,yes,32000,47492,35340.5,North Carolina,Public
+125,Jabil,JBL,Technology,yes,no,no,no,-4,no,yes,236000,17084.7,19424,Florida,Public
+126,Lennar,LEN,Engineering & Construction,yes,no,no,yes,-7,no,yes,12284,47374.8,39234.3,Florida,Public
+127,Eli Lilly,LLY,Health Care,yes,no,no,yes,15,no,no,43000,739658,64006.3,Indiana,Public
+128,Molina Healthcare,MOH,Health Care,yes,no,no,yes,-2,no,yes,18000,24068,14892,California,Public
+129,Cummins,CMI,Industrials,yes,no,yes,yes,17,no,no,75500,41798.1,32005,Indiana,Public
+130,Bank of New York Mellon,BK,Financials,yes,no,no,yes,71,no,no,53400,43380.4,409953,New York,Public
+131,Netflix,NFLX,Media,yes,no,no,yes,-2,no,yes,13000,262827.9,48732,California,Public
+132,Truist Financial,TFC,Financials,no,no,no,no,25,no,no,49935,52022.4,535349,North Carolina,Public
+133,Arrow Electronics,ARW,Wholesalers,yes,no,no,no,-24,no,yes,22100,6988.1,21726.2,Colorado,Public
+134,3M,MMM,Chemicals,no,no,no,no,-18,no,yes,85000,58695,50580,Minnesota,Public
+135,Visa,V,Business Services,yes,no,no,yes,2,no,no,28800,560847.5,90499,California,Public
+136,Apollo Global Management,APO,Financials,yes,yes,no,yes,220,no,no,6855,63889.7,313488,New York,Public
+137,HF Sinclair,DINO,Energy,yes,no,no,no,-30,no,yes,5218,11987.6,17716.3,Texas,Public
+138,CBRE Group,CBRE,Financials,yes,no,no,yes,-3,no,no,130000,29725.9,22548,Texas,Public
+139,PNC Financial Services Group,PNC,Financials,yes,no,no,no,29,no,no,55612,64291.8,561580,Pennsylvania,Public
+140,Lithia Motors,LAD,Retailing,yes,no,no,yes,5,no,no,25051,8283,19632.5,Oregon,Public
+141,CarMax,KMX,Retailing,yes,no,no,no,-17,no,yes,30621,13756.5,26182.7,Virginia,Public
+142,Paramount Global,PARA,Media,no,no,no,no,-8,no,yes,24150,8099,53543,New York,Public
+143,Dollar Tree,DLTR,Retailing,no,no,no,yes,1,no,no,138860,29024.4,22023.5,Virginia,Public
+144,United Natural Foods,UNFI,Wholesalers,yes,no,no,no,-5,no,no,29455,682.9,7394,Rhode Island,Public
+145,PayPal Holdings,PYPL,Business Services,yes,no,no,no,3,no,no,27200,71796,82166,California,Public
+146,Penske Automotive Group,PAG,Retailing,yes,no,no,yes,1,no,no,28000,10861,15671.5,Michigan,Public
+147,Hewlett Packard Enterprise,HPE,Technology,yes,no,no,yes,-4,no,no,62000,23049,57153,Texas,Public
+148,Duke Energy,DUK,Energy,yes,no,yes,no,-7,no,no,27037,74607.9,176893,North Carolina,Public
+149,Occidental Petroleum,OXY,Energy,yes,no,yes,yes,-39,no,yes,12570,57611.3,74008,Texas,Public
+150,NRG Energy,NRG,Energy,no,no,no,yes,-20,no,yes,18131,14535.4,26038,Texas,Public
+151,Amgen,AMGN,Health Care,yes,no,no,yes,3,no,no,26700,152372.5,97154,California,Public
+152,NextEra Energy,NEE,Energy,yes,no,no,yes,35,no,no,16800,131170.7,177489,Florida,Public
+153,Danaher,DHR,Health Care,yes,no,no,no,-21,no,yes,62000,184928.7,84488,District Of Columbia,Public
+154,Gilead Sciences,GILD,Health Care,yes,no,no,yes,-4,no,no,18000,91340.5,62125,California,Public
+155,AutoNation,AN,Retailing,yes,no,no,yes,-4,no,no,25300,6902.1,11980,Florida,Public
+156,Kraft Heinz,KHC,"Food, Beverages & Tobacco",yes,no,no,no,-3,no,no,36000,44857,90339,Illinois,Public
+157,Avnet,AVT,Wholesalers,yes,no,no,yes,6,no,no,15800,4480.2,12477.2,Arizona,Public
+158,Applied Materials,AMAT,Technology,yes,no,no,yes,-3,no,no,34000,171356,30729,California,Public
+159,Southwest Airlines,LUV,Transportation,yes,no,no,yes,6,no,no,74806,17416.6,36487,Texas,Public
+160,Charles Schwab,SCHW,Financials,yes,no,no,no,15,no,no,33000,131974.9,493178,Texas,Public
+161,Baker Hughes,BKR,Energy,yes,no,no,yes,24,no,no,58000,33529.5,36945,Texas,Public
+162,McDonald's,MCD,"Hotels, Restaurants & Leisure",yes,no,no,no,7,no,no,150000,203582.4,56146.8,Illinois,Public
+163,Southern Company,SO,Energy,yes,no,no,yes,-25,no,no,27960,78269.4,139331,Georgia,Public
+164,Mastercard,MA,Business Services,yes,no,no,yes,13,no,no,33400,449252.6,42448,New York,Public
+165,Constellation Energy,CEG,Energy,yes,no,no,yes,-3,no,no,13842,58250.1,50758,Maryland,Public
+166,Hartford Financial Services Group,HIG,Financials,yes,no,no,no,8,no,no,18700,30636.6,76780,Connecticut,Public
+167,PG&E,PCG,Energy,yes,no,yes,yes,13,no,no,28010,35759.5,125698,California,Public
+168,Coupang,CPNG,Retailing,yes,yes,no,yes,27,no,no,78000,31903.1,13346,Washington,Public
+169,EOG Resources,EOG,Energy,yes,no,no,yes,-13,no,no,3050,73535.6,43857,Texas,Public
+170,Union Pacific,UNP,Transportation,yes,no,no,no,-11,no,no,32973,150041,67132,Nebraska,Public
+171,Rite Aid,RADCQ,Food & Drug Stores,no,no,no,no,-10,no,no,47000,9,7527.4,Pennsylvania,Public
+172,Macy's,M,Retailing,yes,no,no,no,-14,no,no,85581,5482.7,16246,New York,Public
+173,Marriott International,MAR,"Hotels, Restaurants & Leisure",yes,no,no,yes,19,no,no,148000,72730.7,25674,Maryland,Public
+174,Lear,LEA,Motor Vehicles & Parts,yes,no,no,yes,15,no,no,186600,8263.1,14695.5,Michigan,Public
+175,Genuine Parts,GPC,Wholesalers,yes,no,no,yes,4,no,no,60000,21600.9,17968.5,Georgia,Public
+176,Sherwin-Williams,SHW,Chemicals,yes,no,yes,no,2,no,no,64088,88255.4,22954.4,Ohio,Public
+177,Halliburton,HAL,Energy,yes,no,no,yes,20,no,no,48000,35087.8,24683,Texas,Public
+178,Freeport-McMoRan,FCX,Energy,yes,no,yes,yes,-7,no,no,27200,67445.9,52506,Arizona,Public
+179,Live Nation Entertainment,LYV,Media,yes,no,no,yes,69,no,no,23200,24411.5,19074,California,Public
+180,Marsh & McLennan,MMC,Financials,yes,no,no,no,13,no,no,85000,101657.8,48030,New York,Public
+181,Advanced Micro Devices,AMD,Technology,yes,no,yes,yes,-14,no,no,26000,291697.1,67885,California,Public
+182,First Citizens BancShares,FCNCA,Financials,yes,no,no,yes,420,yes,no,15868,23620.4,213758,North Carolina,Public
+183,WESCO International,WCC,Wholesalers,yes,no,no,no,-2,no,no,20000,8727.3,15060.9,Pennsylvania,Public
+184,Carrier Global,CARR,Industrials,yes,no,no,yes,12,no,no,53000,52323,32822,Florida,Public
+185,Cleveland-Cliffs,CLF,Materials,yes,no,no,yes,-15,no,no,28000,11331.1,17537,Ohio,Public
+186,Block,SQ,Business Services,yes,yes,no,yes,48,no,no,12985,52075.3,34069.9,California,Public
+187,Exelon,EXC,Energy,yes,no,no,yes,31,no,no,19962,37560,101546,Illinois,Public
+188,KKR,KKR,Financials,yes,no,no,yes,308,no,no,4490,89013.9,317294.2,New York,Public
+189,CDW,CDW,Technology,yes,no,yes,no,-23,no,no,15100,34329.5,13284.6,Illinois,Public
+190,Booking Holdings,BKNG,Technology,yes,no,no,yes,53,no,no,23482,123968.4,24342,Connecticut,Public
+191,Synchrony,SYF,Financials,yes,no,no,yes,44,no,no,20000,17543.1,117479,Connecticut,Public
+192,Quanta Services,PWR,Engineering & Construction,yes,no,no,yes,52,no,no,52500,37865.6,16237.2,Texas,Public
+193,Jones Lang LaSalle,JLL,Financials,yes,no,no,yes,-3,no,no,106100,9255.6,16064.8,Illinois,Public
+194,Discover Financial Services,DFS,Financials,yes,no,no,yes,79,no,no,21100,32846.5,151522,Illinois,Public
+195,Tenet Healthcare,THC,Health Care,yes,no,no,yes,20,no,no,95905,10510.5,28312,Texas,Public
+196,Altria Group,MO,"Food, Beverages & Tobacco",yes,no,no,yes,-2,no,no,6400,76922.2,38570,Virginia,Public
+197,Stryker,SYK,Health Care,yes,no,no,yes,27,no,no,52000,136158.7,39912,Michigan,Public
+198,Kimberly-Clark,KMB,Household Products,yes,no,no,no,1,no,no,41000,43579.9,17344,Texas,Public
+199,Waste Management,WM,Business Services,yes,no,no,no,5,no,no,48000,85600.6,32823,Texas,Public
+200,Cheniere Energy,LNG,Energy,yes,no,no,yes,-78,no,yes,1605,37851.2,43076,Texas,Public
+201,Ross Stores,ROST,Retailing,yes,no,yes,yes,22,no,no,108000,49409.1,14300.1,California,Public
+202,WestRock,,Materials,no,no,no,yes,-19,no,no,56100,12707,27443.7,Georgia,Private
+203,General Mills,GIS,"Food, Beverages & Tobacco",yes,no,no,yes,16,no,no,34000,39501.5,31451.7,Minnesota,Public
+204,Goodyear Tire & Rubber,GT,Motor Vehicles & Parts,no,no,no,no,-13,no,no,71000,3901.3,21582,Ohio,Public
+205,BJ's Wholesale Club,BJ,Retailing,yes,no,no,no,5,no,no,34000,10058.5,6677.6,Massachusetts,Public
+206,GE HealthCare Technologies,GEHC,Health Care,yes,no,no,no,0,yes,no,51000,41396.5,32454,Illinois,Public
+207,Colgate-Palmolive,CL,Household Products,yes,no,no,yes,21,no,no,34000,74019.9,16393,New York,Public
+208,Whirlpool,WHR,Industrials,yes,no,no,no,-5,no,no,59000,6515.3,17312,Michigan,Public
+209,L3Harris Technologies,LHX,Aerospace & Defense,yes,no,no,yes,37,no,no,50000,40508.1,41687,Florida,Public
+210,Adobe,ADBE,Technology,yes,no,no,yes,23,no,no,29945,226060.8,29779,California,Public
+211,Becton Dickinson,BDX,Health Care,yes,no,no,no,-2,no,no,73000,71488.9,52780,New Jersey,Public
+212,Pioneer Natural Resources,PXD,Energy,yes,no,no,yes,-48,no,no,2213,61326.1,36613,Texas,Private
+213,Cognizant Technology Solutions,CTSH,Technology,yes,no,no,no,-5,no,no,347700,36486.8,18483,New Jersey,Public
+214,Murphy USA,MUSA,Retailing,yes,no,no,yes,-32,no,no,10750,8726.5,4340.1,Arkansas,Public
+215,Fiserv,FI,Business Services,yes,no,no,yes,15,no,no,42000,94358.1,90890,Wisconsin,Public
+216,Parker-Hannifin,PH,Industrials,yes,no,yes,yes,45,no,no,62730,71369.5,29964.5,Ohio,Public
+217,American Electric Power,AEP,Energy,yes,no,no,yes,-12,no,no,17250,45339.4,96684,Ohio,Public
+218,International Paper,IP,Materials,yes,no,no,no,-34,no,no,39000,13514.7,23261,Tennessee,Public
+219,ManpowerGroup,MAN,Business Services,yes,no,no,no,-17,no,no,27900,3756.3,8830.2,Wisconsin,Public
+220,Aramark,ARMK,Business Services,yes,no,no,no,33,no,no,262550,8535,16871.2,Pennsylvania,Public
+221,Steel Dynamics,STLD,Materials,yes,yes,no,yes,-45,no,no,12600,23412.5,14908.4,Indiana,Public
+222,Aflac,AFL,Financials,yes,no,no,no,-15,no,no,12785,49404.5,126724,Georgia,Public
+223,Reinsurance Group of America,RGA,Financials,yes,no,no,yes,34,no,no,3900,12683.2,97623,Missouri,Public
+224,Emerson Electric,EMR,Industrials,yes,no,no,no,-18,no,no,67000,64842.2,42746,Missouri,Public
+225,State Street,STT,Financials,yes,no,no,yes,80,no,no,46451,23346.3,297258,Massachusetts,Public
+226,PPG Industries,PPG,Chemicals,yes,no,no,yes,6,no,no,53000,34103.8,21647,Pennsylvania,Public
+227,United States Steel,X,Materials,yes,no,no,no,-41,no,no,21803,9168,20451,Pennsylvania,Public
+228,Automatic Data Processing,ADP,Business Services,yes,no,yes,yes,23,no,no,63000,102590.8,50971,New Jersey,Public
+229,Group 1 Automotive,GPI,Retailing,yes,no,no,yes,23,no,no,16011,3999.4,7774.1,Texas,Public
+230,Dominion Energy,D,Energy,yes,no,no,yes,12,no,no,17700,41201.2,109032,Virginia,Public
+231,BlackRock,BLK,Financials,yes,yes,no,no,-2,no,no,19800,124173.4,123211,New York,Public
+232,Oneok,OKE,Energy,yes,no,no,yes,-59,no,no,4775,46751.9,44266,Oklahoma,Public
+233,C.H. Robinson Worldwide,CHRW,Transportation,yes,no,no,no,-73,no,no,15246,8907.9,5225.3,Minnesota,Public
+234,Texas Instruments,TXN,Technology,yes,no,no,yes,-34,no,no,34000,158540.8,32348,Texas,Public
+235,Kohl's,KSS,Retailing,yes,no,no,no,-9,no,no,66000,3232.9,14009,Wisconsin,Public
+236,AutoZone,AZO,Retailing,yes,no,no,yes,22,no,no,95200,54532.7,15985.9,Tennessee,Public
+237,Lam Research,LRCX,Technology,yes,no,no,no,3,no,no,17200,127375.7,18781.6,California,Public
+238,Corteva,CTVA,"Food, Beverages & Tobacco",yes,no,no,yes,0,no,no,22500,40304.4,42996,Indiana,Public
+239,Peter Kiewit Sons',,Engineering & Construction,yes,no,no,yes,68,no,no,31100,,9724,Nebraska,Private
+240,Builders FirstSource,BLDR,Materials,yes,no,no,no,-68,no,no,29000,25430.6,10499.5,Texas,Public
+241,Kyndryl Holdings,KD,Technology,no,no,no,no,-16,no,no,90000,5007,11464,New York,Public
+242,EchoStar,SATS,Telecommunications,no,no,no,yes,0,yes,no,15300,3869.1,57108.9,Colorado,Public
+243,American Family Insurance Group,,Financials,no,no,no,no,58,no,no,12417,,38023.5,Wisconsin,Private
+244,Delek US Holdings,DK,Energy,yes,no,no,no,-46,no,no,3591,1968,7171.8,Tennessee,Public
+245,Land O'Lakes,,"Food, Beverages & Tobacco",yes,no,yes,no,-32,no,no,9000,,9464.3,Minnesota,Private
+246,Sempra,SRE,Energy,yes,no,no,yes,39,no,no,16835,45438.8,87181,California,Public
+247,Global Partners,GLP,Wholesalers,yes,no,no,yes,-27,no,no,4273,1508.7,3446,Massachusetts,Public
+248,Grainger,GWW,Wholesalers,yes,no,no,yes,24,no,no,24650,49983.2,8147,Illinois,Public
+249,Jacobs Solutions,J,Business Services,yes,no,no,yes,28,no,no,58550,19316.3,14617.1,Texas,Public
+250,Edison International,EIX,Energy,yes,no,no,yes,-9,no,no,14346,27208.4,81758,California,Public
+251,MGM Resorts International,MGM,"Hotels, Restaurants & Leisure",yes,no,no,yes,64,no,no,67000,14966.3,42368.5,Nevada,Public
+252,Guardian Life Ins. Co. of America,,Financials,yes,no,no,no,29,no,no,7561,,96202,New York,Private
+253,Illinois Tool Works,ITW,Industrials,yes,no,no,no,7,no,no,45000,80162.3,15518,Illinois,Public
+254,Ameriprise Financial,AMP,Financials,yes,no,no,yes,35,no,no,13800,43927.7,175191,Minnesota,Public
+255,PulteGroup,PHM,Engineering & Construction,yes,no,no,no,4,no,no,6382,25449.4,16087.1,Georgia,Public
+256,Targa Resources,TRGP,Energy,yes,no,no,yes,-68,no,no,3182,24921.7,20671.8,Texas,Public
+257,Ally Financial,ALLY,Financials,yes,no,no,no,81,no,no,11100,12337.7,196392,Michigan,Public
+258,BorgWarner,BWA,Motor Vehicles & Parts,yes,no,no,no,4,no,no,39900,8023.4,14453,Michigan,Public
+259,Estée Lauder,EL,Household Products,yes,no,no,no,-29,no,no,53010,55258.7,23415,New York,Public
+260,Loews,L,Financials,yes,no,no,yes,37,no,no,12280,17396.1,79197,New York,Public
+261,O'Reilly Automotive,ORLY,Retailing,yes,no,no,yes,26,no,no,82958,66634.4,13873,Missouri,Public
+262,Markel Group,MKL,Financials,yes,no,no,yes,90,no,no,21600,19946.7,55045.7,Virginia,Public
+263,Stanley Black & Decker,SWK,Household Products,no,no,no,no,-36,no,no,50500,15062,23663.8,Connecticut,Public
+264,Micron Technology,MU,Technology,no,no,no,no,-128,no,no,43000,130547.6,64254,Idaho,Public
+265,Fluor,FLR,Engineering & Construction,yes,no,no,no,38,no,no,30187,7192.3,6973,Texas,Public
+266,Leidos Holdings,LDOS,Technology,yes,no,no,yes,22,no,no,47000,17700.6,12695,Virginia,Public
+267,Viatris,VTRS,Health Care,yes,no,no,yes,-11,no,no,38000,14179.6,47685.5,Pennsylvania,Public
+268,Kinder Morgan,KMI,Energy,yes,no,yes,yes,-54,no,no,10891,40703.3,71020,Texas,Public
+269,Ecolab,ECL,Chemicals,yes,no,no,yes,24,no,no,48000,66017.1,21846.6,Minnesota,Public
+270,Baxter International,BAX,Health Care,yes,no,no,no,4,no,no,60000,21704.5,28276,Illinois,Public
+271,Devon Energy,DVN,Energy,yes,no,no,yes,-55,no,no,1900,31864.3,24490,Oklahoma,Public
+272,Kellanova,K,"Food, Beverages & Tobacco",yes,no,no,no,-2,no,no,23000,19579.4,15621,Illinois,Public
+273,Farmers Insurance Exchange,,Financials,no,no,no,no,22,no,no,9685,,23677.7,California,Private
+274,Casey's General Stores,CASY,Retailing,yes,no,no,yes,42,no,no,31637,11788.1,5943.3,Iowa,Public
+275,IQVIA Holdings,IQV,Health Care,yes,no,no,yes,11,no,no,87000,46029.4,26681,North Carolina,Public
+276,Republic Services,RSG,Business Services,yes,no,no,yes,33,no,no,41000,60229,31410.1,Arizona,Public
+277,Fox,FOXA,Media,yes,no,no,no,23,no,no,10400,14225.1,21866,New York,Public
+278,Gap,GPS,Retailing,yes,no,no,no,-13,no,no,85000,10290.3,11044,California,Public
+279,Keurig Dr Pepper,KDP,"Food, Beverages & Tobacco",yes,no,no,yes,17,no,no,28100,42557.4,52130,Massachusetts,Public
+280,Reliance,RS,Materials,yes,no,yes,yes,-33,no,no,15250,19190.4,10480.3,Arizona,Public
+281,Asbury Automotive Group,ABG,Retailing,yes,no,no,yes,-13,no,no,15000,4810.9,10159.4,Georgia,Public
+282,Pacific Life,,Financials,yes,no,no,yes,30,no,no,4181,,217386,California,Private
+283,Vistra,VST,Energy,yes,no,no,no,21,no,no,4870,24230.2,32966,Texas,Public
+284,Western & Southern Financial Group,,Financials,yes,no,no,yes,30,no,no,2669,,75968.9,Ohio,Private
+285,Andersons,ANDE,"Food, Beverages & Tobacco",yes,no,no,yes,-46,no,no,2297,1953.4,3855,Ohio,Public
+286,Nordstrom,JWN,Retailing,yes,no,no,no,-19,no,no,54000,3309.2,8444,Washington,Public
+287,Omnicom Group,OMC,Business Services,yes,no,no,yes,3,no,no,75900,19081.1,28044.6,New York,Public
+288,Fidelity National Information Services,FIS,Business Services,no,no,yes,no,-5,no,no,60000,42762.2,55105,Florida,Public
+289,Consolidated Edison,ED,Energy,yes,no,no,yes,-25,no,no,14592,31375.8,66331,New York,Public
+290,CSX,CSX,Transportation,yes,no,no,yes,-11,no,no,23232,72568,42408,Florida,Public
+291,AECOM,ACM,Engineering & Construction,yes,no,no,yes,19,no,no,52000,13341.2,11233.4,Texas,Public
+292,Lumen Technologies,LUMN,Telecommunications,no,no,yes,no,-55,no,no,28000,1585,34018,Louisiana,Public
+293,Tractor Supply,TSCO,Retailing,yes,no,no,yes,-2,no,no,37500,28248,9188.2,Tennessee,Public
+294,DXC Technology,DXC,Technology,no,no,no,no,-39,no,no,130000,3878.7,15845,Virginia,Public
+295,AGCO,AGCO,Industrials,yes,no,no,yes,29,no,no,27900,9179.5,11421.2,Georgia,Public
+296,Sonic Automotive,SAH,Retailing,yes,no,no,yes,3,no,no,10500,1941.7,5364.6,North Carolina,Public
+297,Intuit,INTU,Technology,yes,no,no,yes,24,no,no,22900,181986.4,27780,California,Public
+298,United Rentals,URI,Business Services,yes,no,no,yes,57,no,no,26300,48437.2,25589,Connecticut,Public
+299,Universal Health Services,UHS,Health Care,yes,no,no,yes,12,no,no,85025,12265.2,13967.6,Pennsylvania,Public
+300,Boston Scientific,BSX,Health Care,yes,no,no,yes,23,no,no,48000,100673.1,35136,Massachusetts,Public
+301,Otis Worldwide,OTIS,Industrials,yes,no,yes,yes,5,no,no,71000,40249.5,10117,Connecticut,Public
+302,Xcel Energy,XEL,Energy,yes,no,no,no,-31,no,no,11311,29839.6,64079,Minnesota,Public
+303,Edward Jones,,Financials,yes,no,yes,yes,30,no,no,54000,,28003,Missouri,Private
+304,Ball,BALL,Materials,yes,no,no,no,-35,no,no,21000,21206.3,19303,Colorado,Public
+305,LKQ,LKQ,Wholesalers,yes,no,no,yes,14,no,no,49000,14248.5,15079,Illinois,Public
+306,Mutual of Omaha,,Financials,yes,no,no,no,22,no,no,6231,,51838.6,Nebraska,Private
+307,Mosaic,MOS,Chemicals,yes,no,no,yes,-90,no,no,14049,10442,23032.8,Florida,Public
+308,Textron,TXT,Aerospace & Defense,yes,no,no,yes,10,no,no,35000,18500.5,16856,Rhode Island,Public
+309,Labcorp Holdings,LH,Health Care,yes,no,no,no,-31,no,no,61975,18372.5,16725.1,North Carolina,Public
+310,Principal Financial,PFG,Financials,yes,no,no,yes,-74,no,no,19800,20357.8,305046.7,Iowa,Public
+311,Regeneron Pharmaceuticals,REGN,Health Care,yes,yes,no,yes,28,no,no,13450,105644.7,33080.2,New York,Public
+312,Raymond James Financial,RJF,Financials,yes,no,no,yes,51,no,no,18000,26843.3,78360,Florida,Public
+313,Dick's Sporting Goods,DKS,Retailing,yes,no,yes,yes,21,no,no,37200,18539.3,9311.8,Pennsylvania,Public
+314,Auto-Owners Insurance,,Financials,no,no,no,yes,48,no,no,6946,,36238.2,Michigan,Private
+315,Expedia Group,EXPE,Retailing,yes,no,yes,yes,38,no,no,17100,18773.7,21642,Washington,Public
+316,J.B. Hunt Transport Services,JBHT,Transportation,yes,no,no,no,-36,no,no,34718,20582.2,8538.3,Arkansas,Public
+317,M&T Bank,MTB,Financials,yes,no,no,no,122,no,no,21980,24233.4,208264,New York,Public
+318,DTE Energy,DTE,Energy,yes,no,no,no,-106,no,no,9950,23204.6,44755,Michigan,Public
+319,AES,AES,Energy,yes,no,no,yes,8,no,no,9600,12744.8,44799,Virginia,Public
+320,Berry Global Group,BERY,Materials,yes,no,no,no,-36,no,no,44000,7009.6,16587,Indiana,Public
+321,Fifth Third Bancorp,FITB,Financials,yes,no,no,no,90,no,no,18724,25434.9,214574,Ohio,Public
+322,Air Products & Chemicals,APD,Chemicals,yes,no,no,yes,0,no,no,21850,53856.9,32002.5,Pennsylvania,Public
+323,Corning,GLW,Industrials,yes,no,no,no,-31,no,no,49800,28192.4,28500,New York,Public
+324,EMCOR Group,EME,Engineering & Construction,yes,no,no,yes,45,no,no,38300,16482.1,6609.7,Connecticut,Public
+325,Amphenol,APH,Technology,yes,no,no,yes,1,no,no,95000,69193.3,16526.4,Connecticut,Public
+326,Westlake,WLK,Chemicals,yes,no,no,no,-63,no,no,15520,19636.5,21035,Texas,Public
+327,DuPont,DD,Chemicals,yes,no,no,yes,-77,no,no,24000,32016.1,38552,Delaware,Public
+328,Liberty Media,LSXMA,Media,yes,no,no,no,12,no,no,6486,9699.7,41168,Colorado,Public
+329,S&P Global,SPGI,Business Services,yes,no,no,yes,37,no,no,40450,136253.3,60589,New York,Public
+330,Community Health Systems,CYH,Health Care,no,no,no,no,7,no,no,54500,486.4,14455,Tennessee,Public
+331,FirstEnergy,FE,Energy,yes,no,no,no,12,no,no,12042,22226.4,48767,Ohio,Public
+332,Unum Group,UNM,Financials,yes,no,no,no,15,no,no,10683,10298.6,63255.2,Tennessee,Public
+333,Henry Schein,HSIC,Health Care,yes,no,no,yes,-8,no,no,25000,9704.8,10573,New York,Public
+334,Western Digital,WDC,Technology,no,no,no,no,-113,no,no,53000,22278.8,24429,California,Public
+335,Analog Devices,ADI,Technology,yes,no,no,yes,9,no,no,26000,98085.7,48794.5,Massachusetts,Public
+336,Conagra Brands,CAG,"Food, Beverages & Tobacco",yes,no,no,yes,24,no,no,18600,14168.1,22052.6,Illinois,Public
+337,Citizens Financial Group,CFG,Financials,yes,no,no,no,82,no,no,17570,16635.3,221964,Rhode Island,Public
+338,Norfolk Southern,NSC,Transportation,yes,no,no,yes,-18,no,no,20700,57570.4,41652,Georgia,Public
+339,Entergy,ETR,Energy,yes,no,no,yes,-37,no,no,12177,22535.5,59703.4,Louisiana,Public
+340,W.R. Berkley,WRB,Financials,yes,no,no,yes,27,no,no,8329,22689.2,37202,Connecticut,Public
+341,DaVita,DVA,Health Care,yes,no,no,no,16,no,no,70000,12107,16893.6,Colorado,Public
+342,Northern Trust,NTRS,Financials,yes,no,no,no,135,no,no,23100,18141.4,150783.1,Illinois,Public
+343,Hormel Foods,HRL,"Food, Beverages & Tobacco",yes,no,no,no,-13,no,no,20000,19108.8,13448.8,Minnesota,Public
+344,Crown Holdings,CCK,Materials,yes,no,no,no,-27,no,no,25000,9574.2,15034,Florida,Public
+345,Avis Budget Group,CAR,Retailing,yes,no,no,no,1,no,no,21250,4344,32569,New Jersey,Public
+346,Wayfair,W,Retailing,no,yes,no,no,-10,no,no,12800,8174.7,3474,Massachusetts,Public
+347,MasTec,MTZ,Engineering & Construction,no,no,no,yes,47,no,no,34000,7393,9373.5,Florida,Public
+348,Eversource Energy,ES,Energy,no,no,no,yes,-13,no,no,10171,20962.9,55612.2,Massachusetts,Public
+349,Newmont,NEM,Energy,no,no,no,yes,-1,no,no,21700,41315.9,55506,Colorado,Public
+350,Ryder System,R,Transportation,yes,no,no,no,-5,no,no,47500,5320.5,15778,Florida,Public
+351,Fidelity National Financial,FNF,Financials,yes,no,no,yes,8,no,no,22293,14507.3,80614,Florida,Public
+352,Molson Coors Beverage,TAP,"Food, Beverages & Tobacco",yes,no,no,no,22,no,no,16500,14297.8,26375.1,Illinois,Public
+353,Caesars Entertainment,CZR,"Hotels, Restaurants & Leisure",yes,no,no,yes,1,no,no,51000,9461,33366,Nevada,Public
+354,Lincoln National,LNC,Financials,no,no,yes,no,-132,no,no,11024,5417.5,372413,Pennsylvania,Public
+355,VF,VFC,Apparel,yes,no,no,no,-6,no,no,26400,5964.4,13990.5,Colorado,Public
+356,International Flavors & Fragrances,IFF,Chemicals,no,no,no,no,-24,no,no,21500,21954.9,30978,New York,Public
+357,Huntington Ingalls Industries,HII,Aerospace & Defense,yes,no,no,yes,18,no,no,44000,11544.7,11215,Virginia,Public
+358,Advance Auto Parts,AAP,Retailing,yes,no,no,yes,10,no,no,54500,5072.2,12276.3,North Carolina,Public
+359,Public Service Enterprise Group,PEG,Energy,yes,no,no,yes,33,no,no,12543,33295.6,50741,New Jersey,Public
+360,Ulta Beauty,ULTA,Retailing,yes,no,no,yes,23,no,no,38000,25238.8,5707,Illinois,Public
+361,Hershey,HSY,"Food, Beverages & Tobacco",yes,no,yes,yes,19,no,no,19578,39719.1,11902.9,Pennsylvania,Public
+362,Chewy,CHWY,Retailing,yes,no,no,no,27,no,no,18100,6919.5,3186.9,Florida,Public
+363,American Tower,AMT,Financials,yes,no,no,no,10,no,no,5643,92146.5,66027.6,Massachusetts,Public
+364,Mohawk Industries,MHK,Household Products,no,no,no,yes,-13,no,no,43300,8337.2,13559.9,Georgia,Public
+365,Assurant,AIZ,Financials,yes,no,no,no,19,no,no,13600,9784.3,33635.2,Georgia,Public
+366,Thor Industries,THO,Motor Vehicles & Parts,yes,no,no,no,-112,no,no,24900,6257.1,7260.8,Indiana,Public
+367,Graybar Electric,,Wholesalers,yes,no,yes,yes,11,no,no,9500,,4006.1,Missouri,Private
+368,Yum China Holdings,YUMC,"Hotels, Restaurants & Leisure",yes,no,yes,yes,37,no,no,293500,15598.8,12031,Texas,Public
+369,Celanese,CE,Chemicals,yes,no,yes,no,27,no,no,12410,19173.3,26597,Texas,Public
+370,Qurate Retail,QRTEA,Retailing,no,no,no,no,-28,no,no,20386,510.9,11368,Colorado,Public
+371,Williams,WMB,Energy,yes,no,no,yes,-1,no,no,5601,47482,52627,Oklahoma,Public
+372,Interpublic Group,IPG,Business Services,yes,no,no,no,-1,no,no,57400,12357.8,19267.3,New York,Public
+373,Ovintiv,OVV,Energy,yes,no,no,no,-44,no,no,1743,13958.7,19987,Colorado,Public
+374,Icahn Enterprises,IEP,Financials,no,no,no,no,-80,no,no,15038,7297.9,20858,Florida,Public
+375,Huntington Bancshares,HBAN,Financials,yes,no,no,yes,91,no,no,19955,20308.6,189368,Ohio,Public
+376,Erie Insurance Group,,Financials,no,no,no,yes,38,no,no,6510,,27515.2,Pennsylvania,Private
+377,Carvana,CVNA,Retailing,yes,yes,no,no,-69,no,no,13700,16943.7,7071,Arizona,Public
+378,Hess,HES,Energy,yes,no,no,yes,-20,no,no,1756,46883.7,24007,New York,Public
+379,Dana,DAN,Motor Vehicles & Parts,yes,no,no,no,8,no,no,41800,1840.9,7965,Ohio,Public
+380,Alcoa,AA,Materials,no,no,no,yes,-49,no,no,13600,6067.3,14155,Pennsylvania,Public
+381,Equitable Holdings,EQH,Financials,yes,no,no,yes,-83,no,no,10700,12532.3,276814,New York,Public
+382,KLA,KLAC,Technology,yes,no,no,yes,34,no,no,15105,94470.2,14072.4,California,Public
+383,Darden Restaurants,DRI,"Hotels, Restaurants & Leisure",yes,no,no,yes,19,no,no,187384,19959.5,10241.5,Florida,Public
+384,Autoliv,ALV,Motor Vehicles & Parts,yes,no,no,yes,45,no,no,66434,9809.7,8332,Michigan,Public
+385,Alaska Air Group,ALK,Transportation,yes,no,no,yes,13,no,no,24610,5408.1,14613,Washington,Public
+386,KeyCorp,KEY,Financials,yes,no,no,yes,73,no,no,17692,14663.3,188281,Ohio,Public
+387,Las Vegas Sands,LVS,"Hotels, Restaurants & Leisure",yes,no,no,yes,326,yes,no,38550,38840.4,21778,Nevada,Public
+388,Owens & Minor,OMI,Health Care,no,no,no,no,2,no,no,22200,2122.5,5093.3,Virginia,Public
+389,Hilton Worldwide Holdings,HLT,"Hotels, Restaurants & Leisure",yes,no,no,yes,42,no,no,178000,53788.4,15401,Virginia,Public
+390,Ebay,EBAY,Technology,yes,no,no,yes,3,no,no,12300,27340,21620,California,Public
+391,Arthur J. Gallagher,AJG,Financials,yes,no,no,yes,52,no,no,52118,54584.4,51615.8,Illinois,Public
+392,LPL Financial Holdings,LPLA,Financials,yes,no,no,yes,48,no,no,7372,19735.9,10385.5,California,Public
+393,Cincinnati Financial,CINF,Financials,yes,no,no,yes,141,yes,no,5426,19456.1,32769.5,Ohio,Public
+394,Toll Brothers,TOL,Engineering & Construction,yes,no,no,no,-12,no,no,4800,13476.5,12527,Pennsylvania,Public
+395,Motorola Solutions,MSI,Technology,yes,no,no,yes,23,no,no,21000,59141.7,13336,Illinois,Public
+396,Airbnb,ABNB,Technology,yes,yes,no,yes,54,no,no,6907,106739.8,20645,California,Public
+397,Intercontinental Exchange,ICE,Financials,yes,yes,no,yes,4,no,no,13222,78694.7,136084,Georgia,Public
+398,News Corp.,NWSA,Media,yes,no,no,no,-17,no,no,25000,15120.1,16921,New York,Public
+399,Chipotle Mexican Grill,CMG,"Hotels, Restaurants & Leisure",yes,no,no,yes,39,no,no,116068,79707,8044.4,California,Public
+400,Vertex Pharmaceuticals,VRTX,Health Care,yes,no,yes,yes,27,no,no,5400,107975.3,22730.2,Massachusetts,Public
+401,Biogen,BIIB,Health Care,yes,no,no,no,-15,no,no,7570,31344.1,26844.8,Massachusetts,Public
+402,GXO Logistics,GXO,Transportation,yes,no,no,no,21,no,no,109000,6411.5,9507,Connecticut,Public
+403,SpartanNash,SPTN,Wholesalers,yes,no,no,no,-4,no,no,13500,699.6,2355.6,Michigan,Public
+404,Burlington Stores,BURL,Retailing,yes,no,no,yes,30,no,no,44050,14841.4,7706.8,New Jersey,Public
+405,Thrivent Financial for Lutherans,,Financials,yes,no,yes,yes,7,no,no,3810,,115628.7,Minnesota,Private
+406,NVR,NVR,Engineering & Construction,yes,no,no,no,-30,no,no,6300,25904.2,6601.8,Virginia,Public
+407,Owens Corning,OC,Materials,yes,no,no,no,-12,no,no,18000,14510.2,11237,Ohio,Public
+407,Westinghouse Air Brake Technologies,WAB,Industrials,yes,no,no,yes,46,no,no,29000,25789.6,18988,Pennsylvania,Public
+409,Oshkosh,OSK,Industrials,yes,no,no,yes,46,no,no,17300,8178.1,9129.2,Wisconsin,Public
+410,Global Payments,GPN,Business Services,yes,no,no,yes,15,no,no,27000,34094.6,50570.2,Georgia,Public
+411,Lululemon athletica,LULU,Retailing,yes,no,no,yes,50,no,no,38000,49225.1,7091.9,Washington,Public
+412,Albemarle,ALB,Chemicals,yes,no,no,yes,81,no,no,9000,15482.7,18270.7,North Carolina,Public
+413,JetBlue Airways,JBLU,Transportation,no,no,yes,yes,4,no,no,21310,2523.8,13853,New York,Public
+414,Seaboard,SEB,"Food, Beverages & Tobacco",yes,no,no,yes,-50,no,no,12847,3130.6,7566,Kansas,Public
+415,Constellation Brands,STZ,"Food, Beverages & Tobacco",no,no,no,no,15,no,no,9400,49683.2,24662.3,New York,Public
+416,Graphic Packaging Holding,GPK,Materials,yes,no,no,no,-7,no,no,23500,8930.6,11175,Georgia,Public
+417,Hertz Global Holdings,HTZ,Retailing,yes,no,no,yes,18,no,no,27000,2390.5,24605,Florida,Public
+418,FM Global,,Financials,yes,no,no,yes,290,yes,no,5667,,34479,Rhode Island,Private
+419,Campbell Soup,CPB,"Food, Beverages & Tobacco",yes,no,no,no,23,no,no,14500,13250.7,12058,New Jersey,Public
+420,Expeditors Intl. of Washington,EXPD,Transportation,yes,no,no,no,-175,no,no,18452,17248.7,4523.8,Washington,Public
+421,A-Mark Precious Metals,AMRK,Wholesalers,yes,no,no,yes,37,no,no,421,701.4,1545.6,California,Public
+422,Booz Allen Hamilton Holding,BAH,Technology,yes,no,no,yes,30,no,no,31900,19259.5,6550.7,Virginia,Public
+423,Quest Diagnostics,DGX,Health Care,yes,no,no,no,-32,no,no,44000,14782.7,14022,New Jersey,Public
+424,Altice USA,ATUS,Telecommunications,yes,no,no,no,-27,no,no,10600,1190.5,31923.6,New York,Public
+425,PVH,PVH,Apparel,yes,no,no,no,-3,no,no,23000,8385.6,11172.9,New York,Public
+426,Eastman Chemical,EMN,Chemicals,yes,no,no,no,-49,no,no,14000,11786.2,14633,Tennessee,Public
+427,Insight Enterprises,NSIT,Technology,yes,no,yes,yes,-48,no,no,14437,6046.1,6286.4,Arizona,Public
+428,Regions Financial,RF,Financials,yes,no,no,yes,55,no,no,20101,19332.9,152194,Alabama,Public
+429,Beacon Roofing Supply,BECN,Wholesalers,yes,no,no,yes,20,no,no,8063,6217.6,6207.7,Virginia,Public
+430,Rockwell Automation,ROK,Industrials,yes,no,no,yes,46,no,no,29000,33384.1,11304,Wisconsin,Public
+431,Polaris,PII,Transportation,yes,no,no,yes,-7,no,no,18500,5654.8,5516.3,Minnesota,Public
+432,ServiceNow,NOW,Technology,yes,no,no,yes,67,no,no,22668,156292,17387,California,Public
+433,Sanmina,SANM,Technology,yes,yes,no,no,38,no,no,36000,3468.2,4874,California,Public
+434,UGI,UGI,Energy,no,no,no,yes,-46,no,no,10500,5142.4,15401,Pennsylvania,Public
+435,WEC Energy Group,WEC,Energy,yes,no,no,no,-31,no,no,7000,25935.2,43939.7,Wisconsin,Public
+436,BrightSpring Health Services,BGST,Health Care,no,no,no,no,0,yes,no,35000,1860.8,5532.7,Kentucky,Public
+437,Cintas,CTAS,Business Services,yes,no,no,yes,36,no,no,44500,69695.1,8546.4,Ohio,Public
+438,Commercial Metals,CMC,Materials,yes,no,no,yes,-10,no,no,13022,6800.2,6639.1,Texas,Public
+439,Continental Resources,CLR,Energy,yes,no,no,yes,-32,no,no,1457,,22387.4,Oklahoma,Private
+440,Chesapeake Energy,CHK,Energy,yes,no,no,no,-90,no,no,1000,11618.5,14376,Oklahoma,Public
+441,CenterPoint Energy,CNP,Energy,yes,no,no,no,-28,no,no,8827,18035.1,39715,Texas,Public
+442,NGL Energy Partners,NGL,Energy,yes,no,no,no,25,no,no,638,763.3,5456.1,Oklahoma,Public
+443,DoorDash,DASH,Technology,no,yes,no,yes,88,yes,no,19300,55639.5,10839,California,Public
+444,NOV,NOV,Energy,yes,no,no,yes,57,yes,no,33676,7690.9,11294,Texas,Public
+445,Zoetis,ZTS,Health Care,yes,no,yes,yes,18,no,no,14100,77475.7,14286,New Jersey,Public
+446,J.M. Smucker,SJM,"Food, Beverages & Tobacco",no,no,no,no,19,no,no,5800,13364.3,14991.4,Ohio,Public
+447,Microchip Technology,MCHP,Technology,yes,no,no,yes,75,yes,no,22600,48478.2,16370.3,Arizona,Public
+448,Dover,DOV,Industrials,yes,no,no,no,-3,no,no,25000,24341.7,11348.5,Illinois,Public
+449,Diamondback Energy,FANG,Energy,yes,no,no,yes,-49,no,no,1023,35362.8,29001,Texas,Public
+450,Avery Dennison,AVY,Materials,yes,no,no,no,-29,no,no,35000,17976.2,8209.8,Ohio,Public
+451,PPL,PPL,Energy,yes,no,no,yes,19,no,no,6629,20306.2,39236,Pennsylvania,Public
+452,ON Semiconductor,ON,Technology,yes,no,no,no,2,no,no,30050,31430,13215.2,Arizona,Public
+453,ARKO,ARKO,Retailing,yes,no,no,yes,7,no,no,13481,662.2,3650.4,Virginia,Public
+454,Par Pacific Holdings,PARR,Energy,yes,no,no,yes,38,no,no,1814,2199.2,3864,Texas,Public
+455,APA,APA,Energy,yes,no,no,no,-114,no,no,2271,10367.4,15244,Texas,Public
+456,Equinix,EQIX,Financials,yes,no,no,yes,41,no,no,13151,78093.9,32650.7,California,Public
+457,New York Community Bancorp,NYCB,Financials,no,no,no,yes,0,yes,no,8766,2569.3,114057,New York,Public
+458,Foot Locker,FL,Retailing,no,no,yes,no,-26,no,no,30591,2693.1,6868,New York,Public
+459,Ingredion,INGR,"Food, Beverages & Tobacco",yes,no,no,no,9,no,no,11600,7665.9,7642,Illinois,Public
+460,Newell Brands,NWL,Household Products,no,no,no,no,-52,no,no,24600,3333.7,12163,Georgia,Public
+461,ABM Industries,ABM,Business Services,yes,no,no,no,14,no,no,123000,2824.1,4933.7,New York,Public
+462,Securian Financial Group,,Financials,yes,no,no,no,105,yes,no,5565,,73457.5,Minnesota,Private
+463,Prologis,PLD,Financials,yes,yes,no,yes,112,yes,no,2574,120459.8,93020.8,California,Public
+464,Blackstone,BX,Financials,yes,yes,no,yes,-20,no,no,4735,93882.8,40287.5,New York,Public
+465,Skechers U.S.A.,SKX,Apparel,yes,yes,no,yes,23,no,no,13550,9389.7,7547.4,California,Public
+466,Masco,MAS,Household Products,yes,no,no,no,-30,no,no,18000,17335.1,5363,Michigan,Public
+467,Rush Enterprises,RUSHB,Retailing,yes,no,no,yes,40,yes,no,8449,4164.4,4364.2,Texas,Public
+468,Franklin Resources,BEN,Financials,yes,no,yes,no,-12,no,no,9200,14801.5,30121.2,California,Public
+469,ODP,ODP,Retailing,yes,no,no,no,-23,no,no,20000,1942.6,3886,Florida,Public
+470,American Financial Group,AFG,Financials,yes,no,no,yes,40,yes,no,8500,11418.1,29787,Ohio,Public
+471,Packaging Corp. of America,PKG,Materials,yes,no,no,no,-24,no,no,14900,17033.7,8681.1,Illinois,Public
+472,Vulcan Materials,VMC,Materials,yes,no,no,no,22,no,no,10961,36099.6,14545.7,Alabama,Public
+473,Interactive Brokers Group,IBKR,Financials,yes,no,no,yes,263,yes,no,2932,47328.3,128423,Connecticut,Public
+474,Williams-Sonoma,WSM,Retailing,yes,no,yes,no,-37,no,no,15000,20357.6,5273.5,California,Public
+475,XPO,XPO,Transportation,yes,no,no,no,3,no,no,39450,14169.3,7492,Connecticut,Public
+476,Weyerhaeuser,WY,Materials,yes,no,no,yes,-91,no,no,9318,26200.5,16983,Washington,Public
+477,Genworth Financial,GNW,Financials,yes,no,no,yes,9,no,no,2700,2825.7,90817,Virginia,Public
+478,CMS Energy,CMS,Energy,yes,no,no,no,-37,no,no,8356,18018.6,33517,Michigan,Public
+479,Science Applications International,SAIC,Technology,yes,no,yes,no,0,no,no,24000,6734.4,5314,Virginia,Public
+480,Jefferies Financial Group,JEF,Financials,yes,no,no,yes,22,yes,no,7564,9347.9,57905.2,New York,Public
+481,Bath & Body Works,BBWI,Retailing,yes,no,yes,yes,1,no,no,33069,11249.3,5463,Ohio,Public
+482,Electronic Arts,EA,Media,yes,no,no,yes,30,yes,no,13400,35469.4,13459,California,Public
+483,Taylor Morrison Home,TMHC,Engineering & Construction,yes,no,yes,no,-26,no,no,2800,6616.7,8672.1,Arizona,Public
+484,Zimmer Biomet Holdings,ZBH,Health Care,yes,no,no,no,25,yes,no,18000,27116.8,21496.9,Indiana,Public
+485,Clorox,CLX,Household Products,yes,no,yes,no,20,yes,no,8700,19001.9,5945,California,Public
+486,Xylem,XYL,Industrials,yes,no,no,yes,117,yes,no,23000,31246.4,16112,District Of Columbia,Public
+487,Voya Financial,VOYA,Financials,yes,no,yes,yes,92,yes,no,9000,7510.9,157085,New York,Public
+488,Fastenal,FAST,Wholesalers,yes,no,no,yes,26,yes,no,20721,44157,4462.9,Minnesota,Public
+489,Watsco,WSO,Wholesalers,yes,no,no,yes,6,no,no,7388,17061.3,3729.2,Florida,Public
+490,Workday,WDAY,Technology,yes,no,no,yes,72,yes,no,18800,72006,16452,California,Public
+491,Old Republic International,ORI,Financials,yes,no,no,no,-29,no,no,9200,8463.5,26501.4,Illinois,Public
+492,RPM International,RPM,Chemicals,yes,no,no,yes,34,yes,no,17274,15329.3,6782,Ohio,Public
+493,UFP Industries,UFPI,Materials,yes,no,no,yes,-90,no,no,15800,7568.8,4017.8,Michigan,Public
+494,Ameren,AEE,Energy,yes,no,no,yes,-14,no,no,9372,19711.1,40830,Missouri,Public
+495,Knight-Swift Transportation Hldgs.,KNX,Transportation,yes,no,no,yes,-5,no,no,34550,8885.4,12870.8,Arizona,Public
+496,Monster Beverage,MNST,"Food, Beverages & Tobacco",yes,no,no,yes,60,yes,no,5629,61688.9,9686.5,California,Public
+497,Intuitive Surgical,ISRG,Health Care,yes,no,no,yes,63,yes,no,13676,141456.9,15441.5,California,Public
+498,Super Micro Computer,SMCI,Technology,yes,yes,no,yes,138,yes,no,5126,59137.7,3674.7,California,Public
+499,Concentrix,CNXC,Technology,yes,no,no,yes,54,yes,no,440000,4342.2,12491.8,California,Public
+500,O-I Glass,OI,Materials,no,no,no,no,19,yes,no,23000,2549.4,9669,Ohio,Public
+501,Yum Brands,YUM,"Hotels, Restaurants & Leisure",yes,no,no,no,20,n/a,no,25438,39007.3,6231,Kentucky,Public
+502,Domtar,,Materials,yes,no,no,yes,166,n/a,no,13000,,7531,South Carolina,Private
+503,CommScope Holding,COMM,Technology,no,no,no,no,-88,n/a,no,20000,278,9371.9,South Carolina,Public
+504,Post Holdings,POST,"Food, Beverages & Tobacco",yes,no,no,yes,41,n/a,no,11430,6449.2,11646.7,Missouri,Public
+505,Crown Castle,CCI,Financials,yes,no,no,no,8,n/a,no,4700,45953,38527,Texas,Public
+506,Avantor,AVTR,Technology,yes,no,no,no,-21,n/a,no,14500,17366.5,12972.7,Pennsylvania,Public
+507,KBR,KBR,Technology,no,no,no,yes,25,n/a,no,34000,8598.7,5565,Texas,Public
+508,Opendoor Technologies,OPEN,Technology,no,no,yes,no,-242,n/a,no,1982,2059.3,3567,Arizona,Public
+509,APi Group,APG,Engineering & Construction,yes,no,no,yes,24,n/a,no,29000,9587.9,7590,Minnesota,Public
+510,EQT,EQT,Energy,yes,no,no,yes,-23,n/a,no,881,16337.5,25285.1,Pennsylvania,Public
+511,EnLink Midstream,ENLC,Energy,yes,no,no,no,-105,n/a,no,1072,6181.3,8328.6,Texas,Public
+512,Palo Alto Networks,PANW,Technology,yes,no,no,yes,92,n/a,no,13948,91802.4,14501.1,California,Public
+513,Xerox Holdings,XRX,Technology,yes,no,no,no,-8,n/a,no,20100,2222.9,10008,Connecticut,Public
+514,Ingersoll Rand,IR,Industrials,yes,no,no,yes,64,n/a,no,18000,38306.2,15563.5,North Carolina,Public
+515,Dillard's,DDS,Retailing,yes,no,no,yes,-4,n/a,no,24900,7654.8,3448.9,Arkansas,Public
+516,Martin Marietta Materials,MLM,Materials,yes,no,no,no,23,n/a,no,9400,37955.3,15124.9,North Carolina,Public
+517,Vertiv Holdings,VRT,Industrials,yes,no,no,no,80,n/a,no,27000,31195.5,7998.5,Ohio,Public
+518,Moderna,MRNA,Health Care,no,no,no,yes,-307,n/a,no,5600,40799.7,18426,Massachusetts,Public
+519,Boise Cascade,BCC,Wholesalers,yes,no,no,yes,-68,n/a,no,7300,6067.9,3458.6,Idaho,Public
+520,Sprouts Farmers Market,SFM,Food & Drug Stores,yes,no,no,yes,21,n/a,no,32000,6526.1,3327.4,Arizona,Public
+521,Agilent Technologies,A,Technology,yes,no,no,no,-1,n/a,no,18100,42642.5,10763,California,Public
+521,Olin,OLN,Chemicals,yes,no,no,no,-111,n/a,no,7326,7034.9,7713.2,Missouri,Public
+523,Darling Ingredients,DAR,"Food, Beverages & Tobacco",yes,no,no,yes,12,n/a,no,15800,7431.3,11061.1,Texas,Public
+524,Sonoco Products,SON,Materials,yes,no,no,yes,-26,n/a,no,23000,5665.8,7192,South Carolina,Public
+525,CACI International,CACI,Technology,yes,no,no,yes,39,n/a,no,23000,8442.3,6600.8,Virginia,Public
+526,Core & Main,CNM,Wholesalers,yes,no,no,yes,2,n/a,no,5000,11528.5,5069,Missouri,Public
+527,Marathon Oil,MRO,Energy,yes,no,no,yes,-63,n/a,no,1681,16195.7,19575,Texas,Public
+528,Hyatt Hotels,H,"Hotels, Restaurants & Leisure",yes,no,no,yes,54,n/a,no,51000,16425.1,12833,Illinois,Public
+529,Select Medical Holdings,SEM,Health Care,yes,no,no,yes,23,n/a,no,46500,3870.1,7689.6,Pennsylvania,Public
+530,McCormick,MKC,"Food, Beverages & Tobacco",yes,no,no,no,18,n/a,no,13800,20616.8,12862.3,Maryland,Public
+531,Tapestry,TPR,Apparel,yes,no,yes,yes,-4,n/a,no,15550,10890.3,7116.8,New York,Public
+532,Coca-Cola Consolidated,COKE,"Food, Beverages & Tobacco",yes,no,no,no,33,n/a,no,16000,7934,4288.9,North Carolina,Public
+533,Howmet Aerospace,HWM,Aerospace & Defense,yes,no,no,yes,66,n/a,no,23200,28077.1,10428,Pennsylvania,Public
+534,Welltower,WELL,Financials,yes,no,no,yes,49,n/a,no,533,53156,44012.2,Ohio,Public
+535,CF Industries Holdings,CF,Chemicals,yes,no,no,yes,-170,n/a,no,2694,15620.7,14376.2,Illinois,Public
+536,Ametek,AME,Technology,yes,no,no,yes,34,n/a,no,21500,42288.6,15023.5,Pennsylvania,Public
+537,TransDigm Group,TDG,Aerospace & Defense,yes,no,no,yes,76,n/a,no,15500,68484.7,19970,Ohio,Public
+538,Wynn Resorts,WYNN,"Hotels, Restaurants & Leisure",yes,no,no,yes,240,n/a,no,27800,11456.6,13996.2,Nevada,Public
+539,Southwestern Energy,SWN,Energy,yes,no,no,yes,-264,n/a,no,1165,8349.1,11991,Texas,Public
+540,Amkor Technology,AMKR,Technology,yes,no,no,no,-32,n/a,no,28700,7927.6,6771.1,Arizona,Public
+541,Insperity,NSP,Business Services,yes,yes,no,yes,35,n/a,no,4400,4087.3,2119.7,Texas,Public
+542,Patterson,PDCO,Health Care,yes,no,no,no,-6,n/a,no,7600,2477.2,2879.1,Minnesota,Public
+543,T. Rowe Price,TROW,Financials,yes,no,no,yes,-6,n/a,no,7906,27266.7,12278.8,Maryland,Public
+544,Ralph Lauren,RL,Apparel,yes,no,no,yes,17,n/a,no,19100,12002.7,6789.5,New York,Public
+545,KB Home,KBH,Engineering & Construction,yes,no,no,no,-27,n/a,no,2205,5361.6,6648.4,California,Public
+546,Brunswick,BC,Transportation,yes,no,no,no,-23,n/a,no,18104,6555.5,6230.5,Illinois,Public
+547,Robert Half,RHI,Business Services,yes,no,no,no,-47,n/a,no,15000,8340.9,3010.8,California,Public
+548,PENN Entertainment,PENN,"Hotels, Restaurants & Leisure",no,no,no,yes,-6,n/a,no,23333,2775.6,16064.2,Pennsylvania,Public
+549,NetApp,NTAP,Technology,yes,no,no,no,6,n/a,no,12000,21663.4,9818,California,Public
+550,Organon,OGN,Health Care,yes,no,no,no,18,n/a,no,10000,4806,12058,New Jersey,Public
+551,Petco Health and Wellness,WOOF,Retailing,no,no,no,no,20,n/a,no,29000,698.3,5363.2,California,Public
+552,Regal Rexnord,RRX,Industrials,no,no,no,yes,79,n/a,no,32100,11977.1,15431.4,Wisconsin,Public
+553,Resideo Technologies,REZI,Materials,yes,no,no,no,-7,n/a,no,14000,3258,6645,Arizona,Public
+554,Camping World Holdings,CWH,Retailing,yes,no,no,no,-38,n/a,no,12459,2354.4,4845.7,Illinois,Public
+555,Huntsman,HUN,Chemicals,yes,no,no,no,-122,n/a,no,6000,4503.1,7248,Texas,Public
+556,Victoria's Secret,VSCO,Retailing,yes,no,no,no,-6,n/a,no,21500,1503.4,4600,Ohio,Public
+557,Levi Strauss,LEVI,Apparel,yes,no,yes,yes,12,n/a,no,19100,7956.6,6053.6,California,Public
+558,Roper Technologies,ROP,Technology,yes,no,no,yes,49,n/a,no,16800,60022.4,28167.5,Florida,Public
+559,Academy Sports and Outdoors,ASO,Retailing,yes,no,no,yes,-15,n/a,no,16509,5025.3,4676.7,Texas,Public
+560,Meritage Homes,MTH,Engineering & Construction,yes,no,no,no,-3,n/a,no,1838,6346.3,6353.1,Arizona,Public
+561,American Axle & Manufacturing,AXL,Motor Vehicles & Parts,no,no,no,no,27,n/a,no,19000,865.1,5356.3,Michigan,Public
+562,Fortive,FTV,Industrials,yes,no,no,no,25,n/a,no,18000,30225.7,16911.8,Washington,Public
+563,Nasdaq,NDAQ,Financials,yes,no,yes,yes,-4,n/a,no,8525,36295.5,32294,New York,Public
+564,Broadridge Financial Solutions,BR,Business Services,yes,no,no,yes,32,n/a,no,14700,24126.8,8233.2,New York,Public
+565,Spirit AeroSystems Holdings,SPR,Aerospace & Defense,no,no,no,yes,80,n/a,no,20655,4192.2,6950.1,Kansas,Public
+566,Warner Music Group,WMG,Media,yes,no,no,no,15,n/a,no,5900,17100.4,8545,New York,Public
+567,Chemours,CC,Chemicals,no,no,yes,no,-43,n/a,no,6200,3907.5,8251,Delaware,Public
+568,ADT,ADT,Business Services,yes,no,no,no,-25,n/a,no,14300,6117.7,15964.1,Florida,Public
+569,Edwards Lifesciences,EW,Health Care,yes,no,no,yes,48,n/a,no,19800,57520.1,9363.2,California,Public
+570,First American Financial,FAF,Financials,yes,no,no,no,-89,n/a,no,19210,6294.3,16802.8,California,Public
+571,Hanover Insurance Group,THG,Financials,yes,no,no,yes,37,n/a,no,4800,4892.5,14612.6,Massachusetts,Public
+572,Silgan Holdings,SLGN,Materials,yes,no,no,no,-32,n/a,no,14400,5185,7611.2,Connecticut,Public
+573,Endeavor Group Holdings,EDR,Media,yes,yes,no,no,53,n/a,no,10000,17817.4,21544.8,California,Public
+574,Moody's,MCO,Business Services,yes,no,no,yes,36,n/a,no,15151,71752.2,14622,New York,Public
+575,Coterra Energy,CTRA,Energy,yes,no,no,no,-155,n/a,no,1083,20946,20415,Texas,Public
+576,Gartner,IT,Technology,yes,no,no,yes,30,n/a,no,20237,37165,7835.9,Connecticut,Public
+577,Under Armour,UAA,Apparel,yes,yes,no,no,17,n/a,no,11078,3157.4,4857.1,Maryland,Public
+578,Ingles Markets,IMKTA,Food & Drug Stores,yes,no,no,yes,20,n/a,no,19540,1456.5,2473.8,North Carolina,Public
+579,Church & Dwight,CHD,Household Products,yes,no,no,yes,39,n/a,no,5550,25441.7,8569.2,New Jersey,Public
+580,Old Dominion Freight Line,ODFL,Transportation,yes,no,no,no,-22,n/a,no,22902,47738.1,5512.4,North Carolina,Public
+581,U-Haul Holding,UHAL,Transportation,yes,no,no,yes,12,n/a,no,26501,13091.3,18124.6,Nevada,Public
+582,Oscar Health,OSCR,Health Care,no,no,no,no,164,n/a,no,2400,3416,3601.5,New York,Public
+583,Arista Networks,ANET,Technology,yes,no,yes,yes,126,n/a,no,4023,90657.5,9946.8,California,Public
+584,Synopsys,SNPS,Technology,yes,no,no,yes,58,n/a,no,20300,87178.7,10333.1,California,Public
+585,Harley-Davidson,HOG,Transportation,yes,no,no,yes,7,n/a,no,6400,5973.3,12140.6,Wisconsin,Public
+586,Frontier Communications,FYBR,Telecommunications,yes,no,no,no,4,n/a,no,13297,6022.6,20693,Texas,Public
+587,Primoris Services,PRIM,Engineering & Construction,yes,no,no,yes,114,n/a,no,14058,2282.6,3827.4,Texas,Public
+588,Carlisle,CSL,Materials,yes,no,no,no,-58,n/a,no,11100,18732,6620,Arizona,Public
+589,Simon Property Group,SPG,Financials,yes,no,no,no,35,n/a,no,2750,50980.3,34283.5,Indiana,Public
+590,Hanesbrands,HBI,Apparel,no,no,no,no,-39,n/a,no,47520,2039,5640.3,North Carolina,Public
+591,Anywhere Real Estate,HOUS,Financials,no,no,no,no,-74,n/a,no,8028,686.5,5839,New Jersey,Public
+592,Teledyne Technologies,TDY,Aerospace & Defense,yes,no,no,yes,19,n/a,no,14900,20341.7,14527.9,California,Public
+593,CME Group,CME,Financials,yes,no,no,yes,53,n/a,no,3565,77510.5,129706.1,Illinois,Public
+594,Juniper Networks,JNPR,Technology,yes,no,no,yes,29,n/a,no,11144,12021.6,9518.5,California,Public
+595,Coty,COTY,Household Products,yes,no,yes,yes,27,n/a,no,11350,10706.2,12661.6,New York,Public
+596,Pool,POOL,Wholesalers,yes,no,no,no,-30,n/a,no,6100,15528.9,3428.1,Louisiana,Public
+597,Evergy,EVRG,Energy,yes,no,no,yes,-13,n/a,no,4658,12263.8,30976.1,Missouri,Public
+598,Marvell Technology,MRVL,Technology,no,no,no,no,-18,n/a,no,6544,61382.1,21228.5,Delaware,Public
+599,NiSource,NI,Energy,yes,no,no,yes,-13,n/a,no,7388,12378.5,31077.2,Indiana,Public
+600,SS&C Technologies Holdings,SSNC,Technology,yes,yes,no,no,25,n/a,no,26600,15907.2,18102.5,Connecticut,Public
+601,Schneider National,SNDR,Transportation,yes,no,no,yes,-72,n/a,no,17300,3992.5,4557.2,Wisconsin,Public
+602,Autodesk,ADSK,Technology,yes,no,no,no,46,n/a,no,13700,55707.8,9912,California,Public
+603,Sealed Air,SEE,Materials,yes,no,no,yes,-3,n/a,no,17000,5375.2,7200.6,North Carolina,Public
+604,Iron Mountain,IRM,Business Services,yes,no,no,yes,37,n/a,no,27000,23443.4,17473.8,New Hampshire,Public
+605,Digital Realty Trust,DLR,Financials,yes,no,no,yes,68,n/a,no,3664,44982.8,44113.3,Texas,Public
+606,Keysight Technologies,KEYS,Technology,yes,no,no,no,8,n/a,no,14900,27297,8683,California,Public
+607,Globe Life,GL,Financials,yes,no,no,yes,25,n/a,no,3636,10943.1,28051.5,Texas,Public
+608,Parsons,PSN,Aerospace & Defense,yes,no,yes,yes,115,n/a,no,18500,8778.6,4804.1,Virginia,Public
+609,Mattel,MAT,Household Products,yes,no,no,no,3,n/a,no,33000,6814.6,6435.8,California,Public
+610,Southwest Gas Holdings,SWX,Energy,yes,no,yes,yes,43,n/a,no,14943,5453.5,11869.9,Nevada,Public
+611,CUNA Mutual Group (TruStage),,Financials,yes,no,no,no,24,n/a,no,4100,,44970.3,Wisconsin,Private
+612,Clean Harbors,CLH,Business Services,yes,no,no,yes,25,n/a,no,21280,10858.8,6382.9,Massachusetts,Public
+613,Cornerstone Building Brands,,Materials,no,no,yes,no,-75,n/a,no,17600,,6933.3,North Carolina,Private
+614,Hubbell,HUBB,Industrials,yes,no,no,yes,37,n/a,no,18317,22281,6914,Connecticut,Public
+615,Spirit Airlines,SAVE,Transportation,no,no,no,yes,28,n/a,no,13167,529.9,9417.2,Florida,Public
+616,Lamb Weston Holdings,LW,"Food, Beverages & Tobacco",yes,no,no,yes,117,n/a,no,10300,15380,6519.8,Idaho,Public
+617,Take-Two Interactive Software,TTWO,Media,no,no,no,yes,201,n/a,no,11580,25330.4,15862.1,New York,Public
+618,GMS,GMS,Wholesalers,yes,no,no,yes,60,n/a,no,7007,3877.4,3267,Georgia,Public
+619,Penn Mutual Life Insurance,,Financials,yes,no,no,yes,70,n/a,no,3370,,46740.7,Pennsylvania,Private
+620,Landstar System,LSTR,Transportation,yes,no,no,yes,-131,n/a,no,1468,6893.5,1801.8,Florida,Public
+621,Host Hotels & Resorts,HST,Financials,yes,no,no,no,35,n/a,no,163,14550.9,12243,Maryland,Public
+622,Fortinet,FTNT,Technology,yes,yes,no,yes,81,n/a,no,13568,52122.6,7258.9,California,Public
+623,OneMain Holdings,OMF,Financials,yes,no,no,no,21,n/a,no,9100,6118.8,24294,Indiana,Public
+624,GameStop,GME,Retailing,yes,no,no,no,-47,n/a,no,15750,3829.5,2709,Texas,Public
+625,Equifax,EFX,Business Services,yes,no,no,yes,15,n/a,no,14900,33234.3,12280,Georgia,Public
+626,American Eagle Outfitters,AEO,Retailing,yes,no,no,yes,23,n/a,no,26700,5084.7,3557.9,Pennsylvania,Public
+627,Comerica,CMA,Financials,yes,no,no,yes,158,n/a,no,7701,7285.6,85834,Texas,Public
+628,Greif,GEF,Materials,yes,no,no,no,-79,n/a,no,12000,3263.7,5960.8,Ohio,Public
+629,Comfort Systems USA,FIX,Engineering & Construction,yes,no,no,yes,99,n/a,no,15800,11337.4,3305.6,Texas,Public
+630,TopBuild,BLD,Engineering & Construction,yes,no,no,yes,17,n/a,no,14012,14021.8,5162.9,Florida,Public
+631,Bread Financial Holdings,BFH,Business Services,yes,no,no,no,83,n/a,no,7000,1840.6,23141,Ohio,Public
+632,Coherent,COHR,Technology,no,no,no,yes,216,n/a,no,26622,9202.9,13711.1,Pennsylvania,Public
+633,Telephone & Data Systems,TDS,Telecommunications,no,no,no,no,-18,n/a,no,8800,1810.3,13921,Illinois,Public
+634,Stifel Financial,SF,Financials,yes,no,no,no,52,n/a,no,9000,8035.6,37727.5,Missouri,Public
+635,Urban Outfitters,URBN,Retailing,yes,yes,no,yes,31,n/a,no,19460,4028.8,4111.2,Pennsylvania,Public
+636,Terex,TEX,Industrials,yes,no,no,yes,66,n/a,no,10200,4314.8,3615.5,Connecticut,Public
+637,Ryerson Holding,RYI,Materials,yes,no,no,yes,-83,n/a,no,4600,1139.6,2569.6,Illinois,Public
+638,Snap-on,SNA,Industrials,yes,no,no,yes,23,n/a,no,13200,15651.8,7544.9,Wisconsin,Public
+639,Flowers Foods,FLO,"Food, Beverages & Tobacco",yes,no,no,yes,25,n/a,no,9300,5001,3427,Georgia,Public
+640,First Horizon,FHN,Financials,yes,no,no,no,181,n/a,no,7314,8546.1,81661,Tennessee,Public
+641,Paychex,PAYX,Business Services,yes,no,no,yes,40,n/a,no,16600,44186.1,10546.4,New York,Public
+642,Hasbro,HAS,Household Products,no,no,no,no,-57,n/a,no,5502,7844.5,6540.9,Rhode Island,Public
+643,Sentry Insurance Group,,Financials,yes,no,no,yes,54,n/a,no,4507,,24980.9,Wisconsin,Private
+644,Ares Management,ARES,Financials,yes,yes,no,yes,139,n/a,no,2850,41170.7,24730.5,California,Public
+645,Lennox International,LII,Industrials,yes,no,no,no,25,n/a,no,12600,17393.3,2798.3,Texas,Public
+646,Peabody Energy,BTU,Energy,yes,no,no,no,4,n/a,no,5400,3088.1,5962.1,Missouri,Public
+647,Kemper,KMPR,Financials,no,no,no,no,-46,n/a,no,8100,3983.6,12742.7,Illinois,Public
+648,Nexstar Media Group,NXST,Media,yes,yes,no,yes,-15,n/a,no,12586,5759.4,12078,Texas,Public
+649,TelevisaUnivision,,Media,no,no,no,no,31,n/a,no,14000,,17297.8,New York,Private
+650,Tempur Sealy International,TPX,Household Products,yes,no,no,no,5,n/a,no,12000,9864.7,4553.9,Kentucky,Public
+651,TriNet Group,TNET,Business Services,yes,no,no,no,7,n/a,no,3600,6699.7,3693,California,Public
+652,Worthington Enterprises,WOR,Materials,yes,no,no,no,-23,n/a,no,8200,3111.2,3650.9,Ohio,Public
+653,Maximus,MMS,Technology,yes,no,no,yes,26,n/a,no,39600,5120.5,3985.8,Virginia,Public
+654,Compass,COMP,Technology,no,yes,no,no,-82,n/a,no,2549,1768.6,1160.3,New York,Public
+655,Brink's,BCO,Business Services,yes,no,no,no,38,n/a,no,67100,4131.7,6601.8,Virginia,Public
+656,Kelly Services,KELYA,Business Services,yes,no,no,no,-4,n/a,no,6200,883.5,2581.6,Michigan,Public
+657,Navient,NAVI,Financials,yes,no,no,yes,107,n/a,no,4500,1961.8,61375,Virginia,Public
+658,Puget Energy,,Energy,yes,no,yes,yes,62,n/a,no,3340,,17732.5,Washington,Private
+659,AMC Entertainment Holdings,AMC,Media,no,no,no,yes,103,n/a,no,18347,979.4,9009.2,Kansas,Public
+660,Encompass Health,EHC,Health Care,yes,no,no,yes,-3,n/a,no,30059,8269.6,6102.4,Alabama,Public
+661,Skyworks Solutions,SWKS,Technology,yes,no,no,no,-56,n/a,no,9701,17379.4,8426.7,California,Public
+662,Timken,TKR,Industrials,yes,no,no,yes,34,n/a,no,19602,6154.1,6541.7,Ohio,Public
+663,Liberty Energy,LBRT,Energy,yes,yes,no,yes,62,n/a,no,5500,3441.3,3033.6,Colorado,Public
+664,Marriott Vacations Worldwide,VAC,"Hotels, Restaurants & Leisure",yes,no,no,yes,11,n/a,no,22000,3789.7,9680,Florida,Public
+665,Leggett & Platt,LEG,Household Products,no,no,no,no,-27,n/a,no,19300,2562.4,4634.5,Missouri,Public
+666,Big Lots,BIG,Retailing,no,no,no,no,-57,n/a,no,21150,126.5,3325.3,Ohio,Public
+667,Weis Markets,WMK,Food & Drug Stores,yes,no,no,no,5,n/a,no,23000,1732.3,2039.6,Pennsylvania,Public
+668,Pinnacle West Capital,PNW,Energy,yes,no,no,yes,47,n/a,no,6133,9215.1,24661.2,Arizona,Public
+669,EPAM Systems,EPAM,Technology,yes,yes,no,no,-6,n/a,no,53150,15969.6,4352.4,Pennsylvania,Public
+670,Antero Resources,AR,Energy,yes,yes,no,yes,-166,n/a,no,604,8803.5,13619.4,Colorado,Public
+671,Bloomin' Brands,BLMN,"Hotels, Restaurants & Leisure",yes,no,no,no,33,n/a,no,87000,2497.2,3424.1,Florida,Public
+672,MDU Resources Group,MDU,Energy,yes,no,yes,no,-157,n/a,no,9145,5138,7833.2,North Dakota,Public
+673,MDC Holdings,,Engineering & Construction,yes,no,no,yes,-78,n/a,no,1760,4721.3,5631.1,Colorado,Private
+674,Texas Roadhouse,TXRH,"Hotels, Restaurants & Leisure",yes,no,no,yes,66,n/a,no,91000,10322.9,2793.4,Kentucky,Public
+675,Mercury General,MCY,Financials,yes,no,no,no,121,n/a,no,4100,2857.2,7103.4,California,Public
+676,Fortune Brands Innovations,FBIN,Materials,yes,no,no,yes,-207,n/a,no,11700,10643.1,6565,Illinois,Public
+677,Zions Bancorp.,ZION,Financials,yes,no,no,no,168,n/a,no,9679,6405.8,87203,Utah,Public
+678,JELD-WEN Holding,JELD,Materials,yes,no,no,no,-39,n/a,no,17700,1825.2,2980.1,North Carolina,Public
+679,Snap,SNAP,Technology,no,yes,no,yes,5,n/a,no,5289,18949.2,7967.8,California,Public
+680,Zebra Technologies,ZBRA,Industrials,yes,no,no,no,-89,n/a,no,9750,15493.3,7306,Illinois,Public
+681,Agilon Health,AGL,Health Care,no,no,no,yes,260,n/a,no,1117,2498.2,1740.9,Texas,Public
+682,Toro,TTC,Industrials,yes,no,no,no,12,n/a,no,10706,9566.8,3644.3,Minnesota,Public
+683,Zoom Video Communications,ZM,Technology,yes,yes,no,no,24,n/a,no,7420,20105.2,9929.8,California,Public
+684,Tetra Tech,TTEK,Engineering & Construction,yes,no,no,yes,135,n/a,no,27000,9875.8,3820.5,California,Public
+685,Public Storage,PSA,Financials,yes,no,no,yes,39,n/a,no,6200,50964.6,19809.2,California,Public
+686,Illumina,ILMN,Technology,no,no,no,no,1,n/a,no,11490,21820.1,10111,California,Public
+687,Ventas,VTR,Financials,no,no,yes,yes,43,n/a,no,486,17523.2,24725.4,Illinois,Public
+688,FMC,FMC,Chemicals,yes,no,no,no,-99,n/a,no,6600,7950.8,11926.2,Pennsylvania,Public
+689,ArcBest,ARCB,Transportation,yes,no,yes,no,-68,n/a,no,15000,3349.3,2485.1,Arkansas,Public
+690,Domino's Pizza,DPZ,"Hotels, Restaurants & Leisure",yes,no,no,yes,2,n/a,no,8850,17305.7,1674.9,Michigan,Public
+691,ASGN,ASGN,Business Services,yes,no,no,no,-3,n/a,no,15450,4871.3,3544.6,Virginia,Public
+692,Rivian Automotive,RIVN,Motor Vehicles & Parts,no,yes,no,yes,0,n/a,no,16790,10703.1,16778,California,Public
+693,Elanco Animal Health,ELAN,Health Care,no,no,no,yes,12,n/a,no,9800,8025.6,14362,Indiana,Public
+694,Graham Holdings,GHC,Business Services,yes,no,no,yes,61,n/a,no,17006,3421.6,7187.7,Virginia,Public
+695,Floor & Decor Holdings,FND,Retailing,yes,no,no,yes,23,n/a,no,11320,13870.7,4662.6,Georgia,Public
+696,Applied Industrial Technologies,AIT,Wholesalers,yes,no,no,yes,74,n/a,no,6200,7639.2,2743.3,Ohio,Public
+697,PriceSmart,PSMT,Retailing,yes,yes,no,yes,40,n/a,no,11000,2563.3,2005.6,California,Public
+698,Lyft,LYFT,Technology,no,no,no,no,36,n/a,no,2945,7736.3,4564.5,California,Public
+699,Ciena,CIEN,Technology,yes,no,no,yes,98,n/a,no,8398,7150.6,5601.5,Maryland,Public
+700,IAC,IAC,Technology,yes,no,no,no,-70,n/a,no,9500,4585.4,10371.2,New York,Public
+701,Country Financial,,Financials,no,no,no,yes,59,n/a,no,3275,,17272.8,Illinois,Private
+702,Western Union,WU,Business Services,yes,no,no,yes,-4,n/a,no,9000,4783.9,8198.8,Colorado,Public
+703,Flowserve,FLS,Industrials,yes,no,no,no,97,n/a,no,16000,5994.4,5108.7,Texas,Public
+704,Western Alliance Bancorp.,WAL,Financials,yes,no,no,no,187,n/a,no,3260,7072.5,70862,Arizona,Public
+705,Option Care Health,OPCH,Health Care,yes,no,no,no,45,n/a,no,6806,5819.1,3217,Illinois,Public
+706,SiteOne Landscape Supply,SITE,Wholesalers,yes,no,no,yes,35,n/a,no,7585,7887.3,2828.9,Georgia,Public
+707,Topgolf Callaway Brands,MODG,"Hotels, Restaurants & Leisure",yes,no,no,no,36,n/a,no,32000,2968.8,9120.6,California,Public
+708,eXp World Holdings,EXPI,Financials,no,yes,no,yes,-23,n/a,no,2114,1569.7,385.7,Washington,Public
+709,Abercrombie & Fitch,ANF,Retailing,yes,no,yes,yes,80,n/a,no,19200,6317.3,2974.2,Ohio,Public
+710,Atmos Energy,ATO,Energy,yes,no,no,yes,12,n/a,no,5019,17930.3,22517,Texas,Public
+711,Catalent,CTLT,Health Care,no,no,no,no,-49,n/a,no,17800,10202.6,10777,New Jersey,Public
+712,Brown & Brown,BRO,Financials,yes,no,no,yes,95,n/a,no,16152,24978.7,14883.4,Florida,Public
+713,GoDaddy,GDDY,Technology,yes,no,no,no,22,n/a,no,6159,16909.3,7564.9,Arizona,Public
+714,American Water Works,AWK,Energy,yes,no,yes,no,60,n/a,no,6500,23809.2,30298,New Jersey,Public
+715,Selective Insurance Group,SIGI,Financials,yes,no,no,yes,95,n/a,no,2650,6636.6,11802.5,New Jersey,Public
+716,Brown-Forman,BF.B,"Food, Beverages & Tobacco",yes,no,no,yes,35,n/a,no,5600,24616.6,7777,Kentucky,Public
+717,Advantage Solutions,ADV,Business Services,no,no,no,no,21,n/a,no,45000,1387.4,3779.3,California,Public
+718,ResMed,RMD,Health Care,yes,no,no,yes,86,n/a,no,10140,29086.8,6751.7,California,Public
+719,Splunk,,Technology,yes,no,no,no,76,n/a,no,7500,,6687.4,California,Private
+720,Plexus,PLXS,Technology,yes,no,no,no,49,n/a,no,25000,2618.1,3321.2,Wisconsin,Public
+721,Hub Group,HUBG,Transportation,yes,no,no,yes,-101,n/a,no,5950,2715.4,2936,Illinois,Public
+722,Lincoln Electric Holdings,LECO,Industrials,yes,no,no,no,55,n/a,no,12000,14515.4,3377.3,Ohio,Public
+723,NCR Atleos,NATL,Business Services,no,no,no,no,0,n/a,no,20000,1424,5741,Georgia,Public
+724,Calumet,CLMT,Energy,yes,no,no,yes,-50,n/a,no,1580,1192.1,2751.3,Indiana,Public
+725,Dycom Industries,DY,Engineering & Construction,yes,no,no,yes,46,n/a,no,15611,4175.5,2516.9,Florida,Public
+726,Valmont Industries,VMI,Materials,yes,no,no,no,-15,n/a,no,11125,4607.7,3477.4,Nebraska,Public
+727,ATI,ATI,Materials,yes,no,yes,yes,38,n/a,no,7300,6367.6,4985.1,Texas,Public
+728,Twilio,TWLO,Technology,no,no,no,no,39,n/a,no,5867,11133,11609.7,California,Public
+729,CNO Financial Group,CNO,Financials,yes,no,no,yes,77,n/a,no,3500,2985.6,35102.5,Indiana,Public
+730,Patterson-UTI Energy,PTEN,Energy,yes,no,no,yes,221,n/a,no,10600,4873.8,7420,Texas,Public
+731,Brinker International,EAT,"Hotels, Restaurants & Leisure",yes,no,no,yes,42,n/a,no,64323,2197.2,2487,Texas,Public
+732,Charles River Laboratories International,CRL,Health Care,yes,no,no,yes,13,n/a,no,21100,13956.8,8195,Massachusetts,Public
+733,Hyster-Yale,HY,Industrials,yes,no,no,yes,80,n/a,no,8600,1122.3,2079.1,Ohio,Public
+734,Brighthouse Financial,BHF,Financials,no,no,no,no,-286,n/a,no,1500,3240.9,236340,North Carolina,Public
+735,Service Corp. International,SCI,Business Services,yes,no,no,no,-4,n/a,no,21267,10872.8,16355.4,Texas,Public
+736,CrossAmerica Partners,CAPL,Energy,yes,no,no,yes,-65,n/a,no,2521,865.6,1181.7,Pennsylvania,Public
+737,Cadence,CDNS,Technology,yes,no,no,yes,72,n/a,no,11226,84855.2,5669.5,California,Public
+738,MillerKnoll,MLKN,Household Products,yes,no,yes,no,11,n/a,no,10900,1803,4274.8,Michigan,Public
+739,Realty Income,O,Financials,yes,no,no,yes,103,n/a,no,418,46586.8,57779.4,California,Public
+740,Middleby,MIDD,Industrials,yes,no,no,no,-1,n/a,no,10722,8644.6,6906.7,Illinois,Public
+741,M/I Homes,MHO,Engineering & Construction,yes,no,no,no,-12,n/a,no,1607,3789.8,4022.4,Ohio,Public
+742,Hologic,HOLX,Health Care,yes,no,no,yes,-82,n/a,no,6990,18299.7,9139.3,Massachusetts,Public
+743,Alliant Energy,LNT,Energy,yes,no,yes,yes,-22,n/a,no,3281,12907.5,21237,Wisconsin,Public
+744,Generac Holdings,GNRC,Industrials,yes,no,no,no,-54,n/a,no,8458,7602.4,5093.3,Wisconsin,Public
+745,MSC Industrial Direct,MSM,Wholesalers,yes,no,no,yes,45,n/a,no,7254,5463.4,2544.1,New York,Public
+746,Rocket Companies,RKT,Financials,no,no,no,no,-173,n/a,no,14700,28891.1,19231.7,Michigan,Public
+747,Upbound Group,UPBD,Retailing,no,no,no,yes,-28,n/a,no,12970,1916,2721.4,Texas,Public
+748,East West Bancorp,EWBC,Financials,yes,no,no,yes,209,n/a,no,3206,11077.8,69612.9,California,Public
+749,Hilton Grand Vacations,HGV,"Hotels, Restaurants & Leisure",yes,no,no,yes,17,n/a,no,15000,4945,8685,Florida,Public
+750,Grocery Outlet Holding,GO,Food & Drug Stores,yes,no,no,yes,55,n/a,no,949,2855.8,2969.6,California,Public
+751,Dentsply Sirona,XRAY,Health Care,no,no,no,no,6,n/a,no,15000,6882.4,7370,North Carolina,Public
+752,V2X,VVX,Aerospace & Defense,no,no,no,yes,155,n/a,no,16000,1469.2,3081.9,Virginia,Public
+753,Crocs,CROX,Apparel,yes,no,no,yes,59,n/a,no,7030,8699.7,4643.8,Colorado,Public
+754,Spectrum Brands Holdings,SPB,Household Products,yes,no,no,no,-87,n/a,no,3100,2694.5,5258.4,Wisconsin,Public
+755,Visteon,VC,Motor Vehicles & Parts,yes,no,no,no,24,n/a,no,10000,3233.3,2727,Michigan,Public
+756,Acuity Brands,AYI,Industrials,yes,no,no,no,-14,n/a,no,12200,8281.4,3408.5,Georgia,Public
+757,Greenbrier,GBX,Transportation,yes,no,yes,no,139,n/a,no,13800,1619.8,3978.4,Oregon,Public
+758,Webster Financial,WBS,Financials,yes,no,no,no,181,n/a,no,4196,8709.8,74945.2,Connecticut,Public
+759,Cabot,CBT,Chemicals,yes,no,no,yes,-43,n/a,no,4268,5110.7,3604,Massachusetts,Public
+760,RXO,RXO,Transportation,yes,no,no,no,-95,n/a,no,7242,2560.9,1825,North Carolina,Public
+761,Chord Energy,CHRD,Energy,yes,no,no,no,33,n/a,no,514,7404.7,6926.2,Texas,Public
+762,Popular,BPOP,Financials,yes,no,no,yes,76,n/a,no,9088,6368.4,70758.2,Puerto Rico,Public
+763,Garrett Motion,GTX,Motor Vehicles & Parts,yes,no,no,yes,38,n/a,no,8650,2263.4,2527,Michigan,Public
+764,Tutor Perini,TPC,Engineering & Construction,no,no,no,yes,12,n/a,no,8200,752.3,4429.9,California,Public
+765,Copart,CPRT,Retailing,yes,no,no,yes,55,n/a,no,12000,55687.9,6737.9,Texas,Public
+766,Toast,TOST,Business Services,no,yes,no,yes,171,n/a,no,5500,13656.2,1958,Massachusetts,Public
+767,Align Technology,ALGN,Health Care,yes,no,no,no,19,n/a,no,21610,24628.1,6083.9,Arizona,Public
+768,A.O. Smith,AOS,Industrials,yes,no,no,no,12,n/a,no,12000,13156.3,3213.9,Wisconsin,Public
+769,TransUnion,TRU,Business Services,no,no,no,yes,13,n/a,no,13200,15499.5,11105.1,Illinois,Public
+770,NCR Voyix,VYX,Technology,no,no,no,no,-296,n/a,no,15500,1822.4,4990,Georgia,Public
+771,Akamai Technologies,AKAM,Technology,yes,yes,no,yes,28,n/a,no,10281,16663.3,9900,Massachusetts,Public
+772,Trimble,TRMB,Technology,yes,no,no,yes,19,n/a,no,12700,15812.4,9539.3,Colorado,Public
+773,Medical Mutual of Ohio,,Financials,yes,no,no,yes,50,n/a,no,3084,,2787.4,Ohio,Private
+774,AMN Healthcare Services,AMN,Health Care,yes,no,yes,no,-146,n/a,no,3585,2368.4,2924.4,Texas,Public
+775,Mettler-Toledo International,MTD,Technology,yes,no,no,no,-17,n/a,no,16650,28473.6,3355.6,Ohio,Public
+776,ScanSource,SCSC,Wholesalers,yes,yes,no,no,41,n/a,no,2300,1108.5,2068.2,South Carolina,Public
+777,LCI Industries,LCII,Motor Vehicles & Parts,yes,no,no,no,-143,n/a,no,11700,3131.6,2959.3,Indiana,Public
+778,Cboe Global Markets,CBOE,Financials,yes,no,no,yes,-31,n/a,no,1647,19398.5,7487.5,Illinois,Public
+779,Diebold Nixdorf,DBD,Technology,no,no,no,no,50,n/a,no,21000,1293.8,4162,Ohio,Public
+780,ChampionX,CHX,Energy,yes,no,no,no,-8,n/a,no,7100,6858.6,3241.7,Texas,Public
+781,Corpay,CPAY,Business Services,yes,no,no,yes,50,n/a,no,10500,22169.7,15476.3,Georgia,Public
+782,iHeartMedia,IHRT,Media,no,no,no,no,-21,n/a,no,9990,313.1,6952.6,Texas,Public
+783,Travel + Leisure,TNL,"Hotels, Restaurants & Leisure",yes,no,no,yes,25,n/a,no,19000,3477.7,6738,Florida,Public
+784,Dream Finders Homes,DFH,Engineering & Construction,yes,yes,no,yes,59,n/a,no,1236,4078.5,2562.4,Florida,Public
+785,Boyd Gaming,BYD,"Hotels, Restaurants & Leisure",yes,no,no,yes,26,n/a,no,16129,6466.3,6273.1,Nevada,Public
+786,NLV Financial,,Financials,yes,no,no,yes,0,n/a,no,1370,,45472.1,Vermont,Private
+787,Ensign Group,ENSG,Health Care,yes,no,no,yes,102,n/a,no,35300,7080.1,4177.5,California,Public
+788,Sally Beauty Holdings,SBH,Retailing,yes,no,yes,no,-20,n/a,no,20000,1302.7,2725.3,Texas,Public
+789,Conduent,CNDT,Business Services,no,no,no,no,-26,n/a,no,59000,709.7,3162,New Jersey,Public
+790,Sylvamo,SLVM,Materials,yes,no,no,no,-63,n/a,no,6500,2559.8,2872,Tennessee,Public
+791,Tri Pointe Homes,TPH,Engineering & Construction,yes,no,no,no,-81,n/a,no,1438,3710.3,4914.6,Nevada,Public
+792,EnerSys,ENS,Industrials,yes,no,no,no,49,n/a,no,11350,3817.7,3616.7,Pennsylvania,Public
+793,Incyte,INCY,Health Care,yes,no,no,yes,39,n/a,no,2524,12791.3,6782.1,Delaware,Public
+794,Century Communities,CCS,Engineering & Construction,yes,yes,no,yes,-99,n/a,no,1650,3066.9,4139.4,Colorado,Public
+795,Rithm Capital,RITM,Financials,yes,no,no,yes,-112,n/a,no,6570,5392.8,35311.8,New York,Public
+796,Euronet Worldwide,EEFT,Business Services,yes,yes,no,yes,43,n/a,no,10000,5032.9,5894.4,Kansas,Public
+797,Hawaiian Electric Industries,HE,Energy,yes,no,no,no,-13,n/a,no,3652,1243.1,17243.8,Hawaii,Public
+798,DraftKings,DKNG,"Hotels, Restaurants & Leisure",no,yes,no,yes,0,n/a,no,4400,39447.3,3944.9,Massachusetts,Public
+799,IDEXX Laboratories,IDXX,Health Care,yes,no,no,yes,36,n/a,no,11000,44843.4,3259.9,Maine,Public
+800,MYR Group,MYRG,Engineering & Construction,yes,no,no,yes,93,n/a,no,9000,2958.7,1578.7,Colorado,Public
+801,Deckers Outdoor,DECK,Apparel,yes,no,no,yes,72,n/a,no,4200,24160.5,2556.2,California,Public
+802,DexCom,DXCM,Health Care,yes,no,no,yes,103,n/a,no,9550,53471,6264.5,California,Public
+803,MKS Instruments,MKSI,Technology,no,no,no,no,11,n/a,no,10100,8918.4,9118,Massachusetts,Public
+804,VICI Properties,VICI,Financials,yes,no,no,yes,160,n/a,no,28,31075.1,44059.8,New York,Public
+805,Cooper Cos.,COO,Health Care,yes,no,no,yes,45,n/a,no,15000,20165.8,11658.9,California,Public
+806,Frontier Group Holdings,ULCC,Transportation,no,no,no,yes,40,n/a,no,7214,1811.6,4993,Colorado,Public
+807,Qorvo,QRVO,Technology,yes,no,no,no,-131,n/a,no,8500,11086.7,6691.9,North Carolina,Public
+808,Five Below,FIVE,Retailing,yes,no,no,yes,72,n/a,no,14500,10018.5,3872,Pennsylvania,Public
+809,TreeHouse Foods,THS,"Food, Beverages & Tobacco",yes,no,no,no,-132,n/a,no,7400,2097.9,4106.6,Illinois,Public
+810,Scotts Miracle-Gro,SMG,Chemicals,no,no,no,no,-54,n/a,no,6375,4228.7,3413.7,Ohio,Public
+811,Atlassian,TEAM,Technology,no,yes,no,yes,105,n/a,no,10726,50612.9,4106.8,California,Public
+812,Entegris,ENTG,Technology,yes,no,no,no,43,n/a,no,8000,21184.1,8812.6,Massachusetts,Public
+813,Atkore,ATKR,Industrials,yes,no,no,yes,-54,n/a,no,5208,6999.2,2935,Illinois,Public
+814,H.B. Fuller,FUL,Chemicals,yes,no,yes,yes,-33,n/a,no,7200,4345,4723.6,Minnesota,Public
+815,Granite Construction,GVA,Engineering & Construction,yes,no,no,yes,38,n/a,no,4100,2512.1,2813.5,California,Public
+816,Winnebago Industries,WGO,Motor Vehicles & Parts,yes,no,no,no,-162,n/a,no,6250,2165.9,2432.4,Minnesota,Public
+817,FTI Consulting,FCN,Business Services,yes,no,no,yes,71,n/a,no,7990,7472.3,3325.9,District Of Columbia,Public
+818,AptarGroup,ATR,Materials,yes,no,no,yes,29,n/a,no,13800,9520.6,4451.9,Illinois,Public
+819,Columbia Sportswear,COLM,Apparel,yes,no,no,yes,8,n/a,no,10070,4854.2,2939,Oregon,Public
+820,Roku,ROKU,Media,no,yes,no,no,55,n/a,no,3150,9353.3,4261.8,California,Public
+821,Civitas Resources,CIVI,Energy,yes,no,no,yes,-46,n/a,no,516,7668.5,14097.3,Colorado,Public
+822,H&R Block,HRB,Financials,yes,no,no,yes,6,n/a,no,39200,6851.9,3072.3,Missouri,Public
+823,Alpha Metallurgical Resources,AMR,Energy,yes,no,no,yes,-91,n/a,no,4160,4307.6,2406.1,Tennessee,Public
+824,Patrick Industries,PATK,Motor Vehicles & Parts,yes,no,no,no,-165,n/a,no,10000,2674,2562.4,Indiana,Public
+825,Murphy Oil,MUR,Energy,yes,no,no,yes,-73,n/a,no,725,6972.7,9766.7,Texas,Public
+826,Synovus Financial,SNV,Financials,yes,no,no,no,163,n/a,no,4798,5865.5,59809.5,Georgia,Public
+827,Cracker Barrel Old Country Store,CBRL,"Hotels, Restaurants & Leisure",yes,no,yes,yes,31,n/a,no,77000,1614.7,2218.1,Tennessee,Public
+828,Cheesecake Factory,CAKE,"Hotels, Restaurants & Leisure",yes,yes,no,yes,24,n/a,no,47900,1847.8,2840.4,California,Public
+829,CNX Resources,CNX,Energy,yes,no,no,yes,0,n/a,no,470,3632.4,8626.7,Pennsylvania,Public
+830,Chefs' Warehouse,CHEF,Wholesalers,yes,yes,no,yes,131,n/a,no,4873,1499.2,1705.3,Connecticut,Public
+831,Donaldson,DCI,Industrials,yes,no,no,no,20,n/a,no,13000,8989.2,2770.5,Minnesota,Public
+832,Mueller Industries,MLI,Industrials,yes,no,no,no,-88,n/a,no,4509,6126.3,2759.3,Tennessee,Public
+833,MRC Global,MRC,Wholesalers,yes,no,no,no,4,n/a,no,2800,1060.8,1886,Texas,Public
+834,Chart Industries,GTLS,Industrials,yes,no,yes,yes,0,n/a,no,11637,6964,9102.4,Georgia,Public
+835,Alight,ALIT,Business Services,no,no,no,no,39,n/a,no,18000,5545.4,10782,Illinois,Public
+836,Vishay Intertechnology,VSH,Technology,yes,no,no,no,-14,n/a,no,23500,3118.6,4239.9,Pennsylvania,Public
+837,Range Resources,RRC,Energy,yes,no,no,yes,-111,n/a,no,548,8352.5,7203.9,Texas,Public
+838,Valley National Bancorp,VLY,Financials,yes,no,no,no,0,n/a,no,3749,4050.7,60935,New York,Public
+839,Match Group,MTCH,Technology,yes,no,no,no,30,n/a,no,2610,9723.5,4507.9,Texas,Public
+840,Gen Digital,GEN,Technology,yes,no,no,yes,79,n/a,no,3700,14266.8,15947,Arizona,Public
+841,Wintrust Financial,WTFC,Financials,yes,no,no,yes,0,n/a,no,5521,6417.1,56259.9,Illinois,Public
+842,Moog,MOG.A,Aerospace & Defense,yes,no,no,no,44,n/a,no,13500,5306.8,3808,New York,Public
+843,First Solar,FSLR,Energy,yes,no,no,yes,115,n/a,no,6700,18068,10365.1,Arizona,Public
+844,Central Garden & Pet,CENT,Household Products,yes,no,yes,no,0,n/a,no,6500,2435.1,3378.6,California,Public
+845,Green Plains,GPRE,Energy,no,no,no,yes,-52,n/a,no,921,1494.6,1939.3,Nebraska,Public
+846,Werner Enterprises,WERN,Transportation,yes,no,no,no,8,n/a,no,13809,2482.9,3157.9,Nebraska,Public
+847,AppLovin,APP,Technology,yes,yes,no,yes,67,n/a,no,1731,22795.6,5359.2,California,Public
+848,ITT,ITT,Industrials,yes,no,no,yes,47,n/a,no,10600,11168.1,3932.6,Connecticut,Public
+849,Herc Holdings,HRI,Business Services,yes,no,no,yes,86,n/a,no,7200,4773,7061,Florida,Public
+850,Gray Television,GTN,Media,no,no,no,yes,-58,n/a,no,9649,634.8,10640,Georgia,Public
+851,IDEX,IEX,Industrials,yes,no,no,no,20,n/a,no,8800,18469.6,5865.2,Illinois,Public
+852,Boston Properties,BXP,Financials,yes,no,no,yes,26,n/a,no,836,10254.4,26026.1,Massachusetts,Public
+853,Pitney Bowes,PBI,Technology,no,no,no,no,-38,n/a,no,10500,764.4,4272.2,Connecticut,Public
+854,Steelcase,SCS,Household Products,yes,no,yes,no,75,n/a,no,12250,1494,2202.8,Michigan,Public
+855,Sun Communities,SUI,Financials,no,no,no,no,44,n/a,no,6757,15996.9,16940.7,Michigan,Public
+856,AdaptHealth,AHCO,Health Care,no,no,yes,no,42,n/a,no,10700,1529.8,4508.7,Pennsylvania,Public
+857,Vertex Energy,VTNR,Energy,no,yes,no,no,54,n/a,no,481,130.9,854.6,Texas,Public
+858,Genesis Energy,GEL,Energy,yes,no,no,yes,64,n/a,no,2137,1361.8,7018.8,Texas,Public
+859,Jackson Financial,JXN,Financials,yes,no,yes,no,-577,n/a,no,3428,5120,330255,Michigan,Public
+860,FirstCash Holdings,FCFS,Retailing,yes,no,no,yes,78,n/a,no,19000,5753.1,4289.9,Texas,Public
+861,Cal-Maine Foods,CALM,"Food, Beverages & Tobacco",yes,no,no,no,0,n/a,no,2896,2882.6,1954.5,Mississippi,Public
+862,Arch Resources,ARCH,Energy,yes,no,no,no,-75,n/a,no,3404,2933.8,2484.2,Missouri,Public
+863,Avient,AVNT,Chemicals,yes,no,no,no,-194,n/a,no,9300,3960.5,5968.5,Ohio,Public
+864,Cano Health,,Health Care,no,no,no,no,70,n/a,no,2700,1.2,1013.7,Florida,Private
+865,BlueLinx Holdings,BXC,Wholesalers,yes,no,no,no,-166,n/a,no,1990,1126.6,1537.6,Georgia,Public
+866,Sinclair,SBGI,Media,no,no,no,no,-112,n/a,no,7300,856.7,6085,Maryland,Public
+867,BOK Financial,BOKF,Financials,yes,no,no,yes,0,n/a,no,4966,5945.7,49824.8,Oklahoma,Public
+868,Permian Resources,PR,Energy,yes,no,no,yes,0,n/a,no,461,13631.1,14965.6,Texas,Public
+869,PACS Group,PACS,Health Care,yes,yes,no,no,0,n/a,no,32433,,3512.7,Utah,Public
+870,Coinbase Global,COIN,Financials,yes,yes,no,no,-2,n/a,no,3416,64232,206983,Delaware,Public
+871,Western Midstream Partners,WES,Energy,yes,no,no,yes,-11,n/a,no,1377,13526.2,12471.6,Texas,Public
+872,Federated Mutual Insurance,,Financials,yes,no,no,yes,40,n/a,no,2922,,12190,Minnesota,Private
+873,G-III Apparel Group,GIII,Apparel,yes,no,no,no,-8,n/a,no,4050,1317.6,2681.2,New York,Public
+874,Vontier,VNT,Technology,yes,no,no,no,-4,n/a,no,8000,6980.9,4294,North Carolina,Public
+875,Matson,MATX,Transportation,yes,no,no,yes,-163,n/a,no,4315,3876.4,4294.6,Hawaii,Public
+876,Kirby,KEX,Transportation,yes,no,no,yes,48,n/a,no,5450,5573.5,5722.2,Texas,Public
+877,Kaiser Aluminum,KALU,Materials,yes,no,no,no,-47,n/a,no,4000,1431.2,2267.4,Tennessee,Public
+878,Vista Outdoor,VSTO,Business Services,no,no,no,yes,7,n/a,no,7000,1906.1,2798.9,Minnesota,Public
+879,Designer Brands,DBI,Retailing,yes,no,no,no,-30,n/a,no,14000,625.6,2076.2,Ohio,Public
+880,Rollins,ROL,Business Services,yes,no,no,yes,66,n/a,no,19031,22419.4,2595.5,Georgia,Public
+881,Advanced Drainage Systems,WMS,Materials,yes,no,no,yes,49,n/a,no,5870,13368.7,2901.1,Ohio,Public
+882,Cinemark Holdings,CNK,Media,yes,no,no,yes,111,n/a,no,17888,2188.3,4836.8,Texas,Public
+883,CrowdStrike,CRWD,Technology,yes,yes,no,yes,0,n/a,no,7925,77540.7,6646.5,Texas,Public
+884,Pinterest,PINS,Technology,no,no,no,yes,33,n/a,no,4014,23540.4,3594.4,California,Public
+885,Instacart,CART,Retailing,no,no,yes,no,0,n/a,no,3380,9937.7,4727,California,Public
+886,Hillenbrand,HI,Industrials,yes,no,yes,no,16,n/a,no,10400,3527.9,5547.7,Indiana,Public
+887,Allison Transmission Holdings,ALSN,Motor Vehicles & Parts,yes,no,no,yes,44,n/a,no,3700,7110.6,5025,Indiana,Public
+888,RH,RH,Retailing,yes,no,no,no,-86,n/a,no,5645,6378.6,4143.9,California,Public
+889,Brookdale Senior Living,BKD,Health Care,no,no,yes,no,24,n/a,no,30600,1251.5,5573.4,Tennessee,Public
+890,QuidelOrtho,QDEL,Health Care,no,no,no,yes,-31,n/a,no,7100,3204.8,8563.1,California,Public
+891,Trinity Industries,TRN,Transportation,yes,no,yes,yes,0,n/a,no,9480,2279.8,8906.5,Texas,Public
+892,Teleflex,TFX,Health Care,yes,no,no,no,29,n/a,no,14500,10642.8,7532.5,Pennsylvania,Public
+893,HEICO,HEI,Aerospace & Defense,yes,no,no,yes,0,n/a,no,9600,23341.3,7195.1,Florida,Public
+894,Bruker,BRKR,Technology,yes,no,no,yes,86,n/a,no,9707,12932.8,4249.9,Massachusetts,Public
+895,Carlyle Group,CG,Financials,no,no,no,yes,-195,n/a,no,2200,16986.8,21176,District Of Columbia,Public
+896,Energizer Holdings,ENR,Household Products,yes,no,no,no,-12,n/a,no,5080,2113.3,4509.6,Missouri,Public
+897,Quad/Graphics,QUAD,Media,no,no,no,no,-31,n/a,no,13150,277.6,1509.7,Wisconsin,Public
+898,Rackspace Technology,RXT,Technology,no,no,no,no,-21,n/a,no,5800,347.2,4096.2,Texas,Public
+899,Waters,WAT,Technology,yes,no,no,no,-2,n/a,no,7900,20379.3,4626.9,Massachusetts,Public
+900,West Pharmaceutical Services,WST,Health Care,yes,no,no,no,8,n/a,no,10600,28968.1,3829.5,Pennsylvania,Public
+901,Carter's,CRI,Apparel,yes,no,no,no,-34,n/a,no,15230,3089.2,2378.6,Georgia,Public
+902,NeueHealth,NEUE,Health Care,no,no,no,no,-355,n/a,no,1252,52.4,1225.5,Florida,Public
+903,SkyWest,SKYW,Transportation,yes,no,no,no,-9,n/a,no,12296,2788.3,7026.3,Utah,Public
+904,Acadia Healthcare,ACHC,Health Care,no,no,no,yes,58,n/a,no,20250,7322.1,5358.8,Tennessee,Public
+905,Revvity,RVTY,Health Care,yes,no,no,no,-223,n/a,no,11500,12970.1,13564.7,Massachusetts,Public
+906,Portland General Electric,POR,Energy,yes,no,yes,no,46,n/a,no,2842,4251.3,11208,Oregon,Public
+907,Woodward,WWD,Aerospace & Defense,yes,no,no,yes,0,n/a,no,8800,9293.2,4010.2,Colorado,Public
+908,TEGNA,TGNA,Media,yes,no,no,no,-52,n/a,no,6200,2631,7000.1,Virginia,Public
+909,Sabre,SABR,Retailing,no,no,no,no,70,n/a,no,6232,918.4,4672.2,Texas,Public
+910,Light & Wonder,LNW,"Hotels, Restaurants & Leisure",yes,no,no,yes,0,n/a,no,6500,9170.7,5552,Nevada,Public
+911,Vail Resorts,MTN,"Hotels, Restaurants & Leisure",yes,no,yes,yes,70,n/a,no,32100,8460.4,5947.8,Colorado,Public
+912,Radius Recycling,RDUS,Materials,no,no,yes,no,-88,n/a,no,3353,588.7,1715.9,Oregon,Public
+913,PennyMac Financial Services,PFSI,Financials,yes,no,no,no,52,n/a,no,3914,4593.5,18844.6,California,Public
+914,Saia,SAIA,Transportation,yes,no,no,yes,6,n/a,no,14000,15554,2583.6,Georgia,Public
+915,Equity Residential,EQR,Financials,yes,no,no,no,21,n/a,no,2400,23953.6,20034.6,Illinois,Public
+916,Helmerich & Payne,HP,Energy,yes,no,no,no,0,n/a,no,7100,4156.6,4382,Oklahoma,Public
+917,Korn Ferry,KFY,Business Services,yes,no,no,no,36,n/a,no,10697,3431.4,3574.4,California,Public
+918,PC Connection,CNXN,Wholesalers,yes,no,no,yes,-42,n/a,no,2703,1738.1,1188.4,New Hampshire,Public
+919,Curtiss-Wright,CW,Aerospace & Defense,yes,no,yes,yes,56,n/a,no,8600,9797.4,4621,North Carolina,Public
+920,SLM,SLM,Financials,yes,no,no,yes,0,n/a,no,1740,4801.4,29169.5,Delaware,Public
+921,Benchmark Electronics,BHE,Technology,yes,no,no,yes,-12,n/a,no,12703,1073.6,2274.8,Arizona,Public
+922,American National Group,AEL,Financials,yes,no,no,yes,0,n/a,no,1020,4463.9,79918.3,Iowa,Private
+923,Pure Storage,PSTG,Technology,yes,no,no,yes,10,n/a,no,5600,16892.1,3655.8,California,Public
+924,Knife River,KNF,Materials,yes,no,no,no,0,n/a,no,4389,4589.9,2599.8,North Dakota,Public
+925,Caleres,CAL,Retailing,yes,no,no,no,-25,n/a,no,7150,1456.7,1804.7,Missouri,Public
+926,BrightView Holdings,BV,Business Services,no,no,no,no,1,n/a,no,20700,1123.4,3352.2,Pennsylvania,Public
+927,Cooper-Standard Holdings,CPS,Motor Vehicles & Parts,no,no,no,no,55,n/a,no,21500,284.8,1872.3,Michigan,Public
+928,Primerica,PRI,Financials,yes,no,no,yes,12,n/a,no,3150,8777.3,15027.7,Georgia,Public
+929,F5,FFIV,Technology,yes,no,no,no,16,n/a,no,6492,11149.1,5248.3,Washington,Public
+930,Matador Resources,MTDR,Energy,yes,yes,no,yes,-48,n/a,no,395,8331.6,7727,Texas,Public
+931,Snowflake,SNOW,Technology,no,no,no,yes,0,n/a,no,7004,54006.7,8223.4,Montana,Public
+932,Viasat,VSAT,Technology,yes,yes,no,no,-9,n/a,no,6800,2267,7730.3,California,Public
+933,California Resources,CRC,Energy,yes,no,no,no,9,n/a,no,970,3788.8,3998,California,Public
+934,Peloton Interactive,PTON,"Hotels, Restaurants & Leisure",no,no,yes,no,-131,n/a,no,3541,1572,2769.1,New York,Public
+935,Roblox,RBLX,Media,no,yes,no,yes,0,n/a,no,2457,24115.9,6168.1,California,Public
+936,Installed Building Products,IBP,Engineering & Construction,yes,no,no,yes,14,n/a,no,10600,7339.2,1981.3,Ohio,Public
+937,First National of Nebraska,FINN,Financials,yes,no,no,no,0,n/a,no,4799,3265.1,31285.9,Nebraska,Public
+938,Guess,GES,Retailing,yes,no,no,no,10,n/a,no,12000,1689.9,2590,California,Public
+939,ESAB,ESAB,Industrials,yes,no,no,no,28,n/a,no,9000,6671.5,3828.6,Maryland,Public
+940,Amica Mutual Insurance,,Financials,no,no,no,yes,23,n/a,no,3597,,6668,Rhode Island,Private
+941,AvalonBay Communities,AVB,Financials,yes,no,no,yes,27,n/a,no,3009,26383.6,20678.2,Virginia,Public
+942,DocuSign,DOCU,Technology,yes,no,no,no,41,n/a,no,6840,12232.5,2971.3,California,Public
+943,Titan Machinery,TITN,Retailing,yes,no,no,yes,0,n/a,no,3471,566.9,1992.3,North Dakota,Public
+944,ModivCare,MODV,Health Care,no,no,no,yes,41,n/a,no,21200,332.9,1767.3,Colorado,Public
+945,Hovnanian Enterprises,HOV,Engineering & Construction,yes,no,no,no,-42,n/a,no,1715,956.7,2492.9,New Jersey,Public
+946,Etsy,ETSY,Retailing,yes,no,no,no,26,n/a,no,2420,8142.8,2685.4,New York,Public
+947,Adams Resources & Energy,AE,Energy,yes,no,no,no,-111,n/a,no,741,74.4,361.3,Texas,Public
+948,Surgery Partners,SGRY,Health Care,no,no,no,yes,30,n/a,no,12000,3776.7,6876.7,Tennessee,Public
+949,Columbia Banking System,COLB,Financials,yes,no,no,yes,0,n/a,no,5114,4050.2,52173.6,Washington,Public
+950,Verisk,VRSK,Business Services,yes,no,no,yes,-63,n/a,no,7500,33801.3,4366.1,New Jersey,Public
+951,MasterBrand,MBC,Materials,yes,no,no,no,0,n/a,no,12307,2380,2381.7,Ohio,Public
+952,Hawaiian Holdings,HA,Transportation,no,no,no,yes,2,n/a,no,7362,690.8,3733.5,Hawaii,Public
+953,AMC Networks,AMCX,Media,yes,no,yes,no,-74,n/a,no,1900,528.4,4969.8,New York,Public
+954,SBA Communications,SBAC,Financials,yes,no,no,no,1,n/a,no,1787,23427.2,10178.4,Florida,Public
+955,Americold Realty Trust,COLD,Financials,no,no,no,no,-51,n/a,no,14632,7071.9,7869.3,Georgia,Public
+956,NewMarket,NEU,Chemicals,yes,no,no,no,-24,n/a,no,2000,6085.6,2308.9,Virginia,Public
+957,Park Hotels & Resorts,PK,Financials,yes,no,no,no,30,n/a,no,90,3682.3,9419,Virginia,Public
+958,Alexandria Real Estate Equities,ARE,Financials,yes,no,no,no,0,n/a,no,568,22555.2,36771.4,California,Public
+959,Griffon,GFF,Materials,yes,no,no,no,-67,n/a,no,5700,3763,2418.9,New York,Public
+960,Air Lease,AL,Business Services,yes,no,no,yes,0,n/a,no,163,5728.7,30452.3,California,Public
+961,UL Solutions,ULS,Business Services,yes,no,yes,yes,0,n/a,no,15063,,2736,Illinois,Public
+962,Teradyne,TER,Technology,yes,no,no,no,-90,n/a,no,6500,17260,3486.8,Massachusetts,Public
+963,OGE Energy,OGE,Energy,yes,no,no,yes,-130,n/a,no,2329,6871.3,12790.7,Oklahoma,Public
+964,Bio-Rad Laboratories,BIO,Technology,no,no,no,no,-46,n/a,no,8030,9794,12299.1,California,Public
+965,Spire,SR,Energy,yes,no,no,yes,0,n/a,no,3589,3374.3,10313.6,Missouri,Public
+966,Gannett,GCI,Media,no,no,no,no,-65,n/a,no,12800,363.1,2181.2,Virginia,Public
+967,Stericycle,SRCL,Business Services,no,no,yes,no,-23,n/a,no,13948,4882.9,5352.6,Illinois,Public
+968,Cullen/Frost Bankers,CFR,Financials,yes,no,no,yes,0,n/a,no,5495,7228.9,50845,Texas,Public
+969,Extra Space Storage,EXR,Financials,yes,no,no,yes,0,n/a,no,7618,31101.5,27456.3,Utah,Public
+970,REV Group,REVG,Motor Vehicles & Parts,yes,no,no,no,0,n/a,no,6724,1144.3,1410.4,Wisconsin,Public
+971,ProFrac Holding,ACDC,Energy,no,yes,no,no,26,n/a,no,2949,1334.2,3070.7,Texas,Public
+972,Nordson,NDSN,Industrials,yes,no,no,yes,-3,n/a,no,7900,15701.6,5251.8,Ohio,Public
+973,Summit Materials,SUM,Materials,yes,no,yes,yes,25,n/a,no,5300,7767.1,5149.6,Colorado,Public
+974,Valvoline,VVV,Chemicals,yes,no,yes,yes,-221,n/a,no,10250,5778.5,2889.9,Kentucky,Public
+975,Kontoor Brands,KTB,Apparel,yes,no,no,no,-19,n/a,no,13700,3359.5,1645.4,North Carolina,Public
+976,Skyline Champion,SKY,Engineering & Construction,yes,no,no,no,0,n/a,no,7700,4909.6,1562.7,Michigan,Public
+977,Teladoc Health,TDOC,Health Care,no,no,yes,no,22,n/a,no,5208,2522.3,4392.4,New York,Public
+978,Louisiana-Pacific,LPX,Materials,yes,no,no,no,-261,n/a,no,4100,6067.6,2437,Tennessee,Public
+979,Universal,UVV,"Food, Beverages & Tobacco",yes,no,no,yes,0,n/a,no,19600,1270.9,2639.2,Virginia,Public
+980,Consol Energy,CEIX,Energy,yes,no,no,yes,0,n/a,no,2020,2480,2675,Pennsylvania,Public
+981,Encore Wire,,Industrials,yes,no,no,no,-91,n/a,no,1629,4147.7,1967.9,Texas,Private
+982,Playtika Holding,PLTK,Media,yes,yes,no,no,-22,n/a,no,3600,2613.1,3175,Nevada,Public
+983,Alliance Resource Partners,ARLP,Energy,yes,no,no,yes,17,n/a,no,3595,2567.6,2788.4,Oklahoma,Public
+984,Envista Holdings,NVST,Health Care,no,no,no,yes,-14,n/a,no,12800,3674.3,6605.1,California,Public
+985,Shift4 Payments,FOUR,Business Services,yes,yes,no,yes,0,n/a,no,3030,5694.7,3387.8,Pennsylvania,Public
+986,Talen Energy,TLNE,Energy,no,no,no,no,0,n/a,no,2000,5569.4,7121,Texas,Public
+987,Carpenter Technology,CRS,Materials,yes,no,no,yes,0,n/a,no,4500,3529,3053.9,Pennsylvania,Public
+988,WEX,WEX,Business Services,yes,no,yes,yes,0,n/a,no,7200,9913.3,13882.1,Maine,Public
+989,Old National Bancorp,ONB,Financials,yes,no,no,no,0,n/a,no,3940,5096,49089.8,Indiana,Public
+990,AGNC Investment,AGNC,Financials,yes,no,no,yes,0,n/a,no,53,6887.3,71596,Maryland,Public
+991,Wabash National,WNC,Motor Vehicles & Parts,yes,no,no,no,-5,n/a,no,6667,1349.9,1362.8,Indiana,Public
+992,MSCI,MSCI,Business Services,yes,no,no,yes,0,n/a,no,5794,44400.8,5518.2,New York,Public
+993,Stagwell,STGW,Business Services,yes,yes,no,no,-46,n/a,no,10250,1670.4,3767,New York,Public
+994,Mativ Holdings,MATV,Chemicals,no,no,yes,no,0,n/a,no,5400,1018.1,2642.4,Georgia,Public
+995,Belden,BDC,Industrials,yes,no,no,no,-36,n/a,no,8000,3804.9,3240.2,Missouri,Public
+996,Allegiant Travel,ALGT,Transportation,yes,no,no,yes,0,n/a,no,6686,1375.3,4869.4,Nevada,Public
+997,Dropbox,DBX,Technology,yes,yes,no,no,0,n/a,no,2693,8358.8,2983.5,California,Public
+998,Exact Sciences,EXAS,Health Care,no,no,no,yes,0,n/a,no,6550,12536.5,6471.3,Wisconsin,Public
+999,BWX Technologies,BWXT,Aerospace & Defense,yes,no,no,yes,0,n/a,no,7800,9380.2,2747.1,Virginia,Public
+1000,Clear Channel Outdoor Hldgs.,CCO,Business Services,no,no,no,no,-10,n/a,no,3900,798.1,4722.5,Texas,Public
