@@ -3,7 +3,7 @@ Rank,Company,Ticker,Sector,Profitable,Founder_is_CEO,FemaleCEO,Growth_in_Jobs,Ch
 2,Amazon,AMZN,Consumer Discretionary,yes,no,no,no,0,no,yes,1525000,1873675.8,527854,Washington,Public
 3,Apple,AAPL,Technology,yes,no,no,no,1,no,yes,161000,2647973.8,352583,California,Public
 4,UnitedHealth Group,UNH,Health Care,yes,no,no,yes,1,no,yes,440000,456080.8,273720,Minnesota,Public
-5,Berkshire Hathaway,BRKA,#N/A,yes,no,no,yes,2,no,yes,396500,908919.7,1069978,Nebraska,Public
+5,Berkshire Hathaway,BRKA,Financials,yes,no,no,yes,2,no,yes,396500,908919.7,1069978,Nebraska,Public
 6,CVS Health,CVS,Health Care,yes,no,yes,no,0,no,yes,259500,100373.9,249728,Rhode Island,Public
 7,Exxon Mobil,XOM,Energy,yes,no,no,no,-4,no,yes,61500,461222.2,376317,Texas,Public
 8,Alphabet,GOOGL,Communication Services,yes,no,no,no,0,no,yes,182502,1884633,402392,California,Public
@@ -60,7 +60,7 @@ Rank,Company,Ticker,Sector,Profitable,Founder_is_CEO,FemaleCEO,Growth_in_Jobs,Ch
 59,Caterpillar,CAT,Industrials,yes,no,no,yes,9,no,yes,113200,182986.8,87476,Texas,Public
 60,MetLife,MET,Financials,yes,no,no,no,-6,no,yes,45000,53583,687584,New York,Public
 61,HCA Healthcare,HCA,Health Care,yes,no,no,yes,5,no,yes,265000,88213.8,56211,Tennessee,Public
-62,Progressive,PGR,#N/A,yes,no,yes,yes,26,no,yes,61432,121134.1,88690.8,Ohio,Public
+62,Progressive,PGR,Financials,yes,no,yes,yes,26,no,yes,61432,121134.1,88690.8,Ohio,Public
 63,IBM,IBM,Technology,yes,no,no,no,2,no,yes,296600,175061.6,135241,New York,Public
 64,Deere,DE,Industrials,yes,no,no,yes,17,no,yes,82956,114332.9,104087,Illinois,Public
 65,Nvidia,NVDA,Technology,yes,yes,no,yes,87,no,no,29600,2258900,65728,California,Public
@@ -70,7 +70,7 @@ Rank,Company,Ticker,Sector,Profitable,Founder_is_CEO,FemaleCEO,Growth_in_Jobs,Ch
 69,Pfizer,PFE,Health Care,yes,no,no,yes,-31,no,yes,88000,157135.5,226501,New York,Public
 70,Delta Air Lines,DAL,Industrials,yes,no,no,yes,15,no,yes,103000,30795.9,73644,Georgia,Public
 71,TD Synnex,SNX,Technology,yes,no,no,no,-7,no,yes,28000,9856.6,29412.8,California,Public
-72,Publix Super Markets,PFE,Health Care,yes,no,no,yes,6,no,yes,253000,,34384,Florida,Private
+72,Publix Super Markets,,Health Care,yes,no,no,yes,6,no,yes,253000,,34384,Florida,Private
 73,Allstate,ALL,Financials,no,no,no,no,11,no,yes,53200,45513.3,103362,Illinois,Public
 74,Cisco Systems,CSCO,Technology,yes,no,no,yes,8,no,yes,84900,202094.9,101852,California,Public
 75,Nationwide,,#N/A,no,no,no,no,8,no,yes,24118,,290615,Ohio,Private
