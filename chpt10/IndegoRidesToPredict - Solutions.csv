@@ -1,0 +1,6 @@
+Date,BikeType,TripType,AvgDuration,NumTrips,AvgHumidity,MinTemp,MaxTemp,Windy,Rain,Snow
+2020-02-01,Standard,One Way,20,899,89,35.1,46.29,0,1,0
+2020-07-20,Standard,One Way,21,1774,65,78.06,97.99,0,0,0
+2022-02-12,Standard,Round Trip,37,93,44,44.91,60.69,0,0,0
+2020-06-08,Standard,One Way,28,1678,42,55.98,82.69,0,0,0
+2019-08-26,Electric,One Way,33,674,70,58.28,76.48,0,0,0
